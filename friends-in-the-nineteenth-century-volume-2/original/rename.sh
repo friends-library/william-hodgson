@@ -1,0 +1,11 @@
+mv 02-chapter-1.adoc 02-chapter-8.adoc
+mv 03-chapter-2.adoc 03-chapter-9.adoc
+mv 04-chapter-3.adoc 04-chapter-10.adoc
+mv 05-chapter-4.adoc 05-chapter-11.adoc
+mv 06-chapter-5.adoc 06-chapter-12.adoc
+mv 07-chapter-6.adoc 07-chapter-13.adoc
+mv 08-chapter-7.adoc 08-chapter-14.adoc
+mv 09-chapter-8.adoc 09-chapter-15.adoc
+mv 10-chapter-9.adoc 10-chapter-16.adoc
+mv 11-chapter-10.adoc 11-chapter-17.adoc
+mv 12-chapter-11.adoc 12-chapter-18.adoc
