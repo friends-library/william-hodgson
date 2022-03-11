@@ -1,6 +1,7 @@
 == Chapter II.
 
-The Schism in Ireland, in Which Hannah Barnard Took a Conspicuous Part.
+[.blurb]
+=== The Schism in Ireland, in Which Hannah Barnard Took a Conspicuous Part.
 
 The grievous defection which sprang up in Ireland about the end of the eighteenth century,
 and bore bitter fruit likewise among some in England and America,
@@ -38,7 +39,7 @@ but a few experienced minds fully united with him.
 When William Savery came to the same place in 1798,
 the same rending spirit was impressively felt and detected;
 soon after which it showed itself more openly.^
-footnote:[See Life of William Savery, in Friends`' Library, vol.
+footnote:[See _Life of William Savery,_ in _Friends`' Library,_ vol.
 i, p. 437.]
 But it does not appear that any clear and connected account
 of this schism was preserved on the part of the Society;
@@ -124,7 +125,7 @@ openly objected to the long-established practice of reading the
 Advices attached to the Queries for Meetings of Ministers and Elders,
 under the plea that it was "`limiting the operations of the Spirit,
 and teaching for doctrines the commandments of men.`"^
-footnote:[Rathbone`'s Narrative of Events in Ireland,
+footnote:[_Rathbone`'s Narrative of Events in Ireland,_
 an unsound and partisan publication,
 but considered to be correct in regard to documentary facts and quotations,
 so far as it gives them.]
@@ -209,7 +210,7 @@ The next day, after the midweek meeting, he says:
 "`Went with Abraham Shackleton to a Friend`'s house,
 and opened to him more of my disapprobation than I had before.`"
 ^
-footnote:[Friends`' Library, vol.
+footnote:[_Friends`' Library,_ vol.
 i, p. 440.]
 
 The National Half-Year`'s Meeting, in 1797, had concluded to drop one of its sessions,
@@ -257,7 +258,7 @@ footnote:[Yet S. M. Janney (though admitting that
 he held some particular doctrinal views,
 without saying what they were) says that "`he appears
 to have been an exemplary and conscientious man.`"
-Janney`'s History of Friends, vol.
+_Janney`'s History of Friends,_ vol.
 iv, p. 28.]
 
 A very considerable number of the ministers and elders
@@ -320,7 +321,7 @@ they declared "`that her ministry is sound and edifying.`"
 This Certificate was also sanctioned by the endorsement of her
 concern on the part of the Quarterly Meeting of Nine Partners,
 and by the Yearly Meeting of Ministers and Elders of New York.^
-footnote:[By the following passage from the Journal of Henry Hull,
+footnote:[By the following passage from the _Journal of Henry Hull,_
 it would appear that she was in good and general esteem
 for some years after coming forth in the ministry.
 It seems probable that unwatchfulness gradually increased upon her,
@@ -339,7 +340,7 @@ Several years before she fell away, I had fears on her account,
 having frequently been in her company,
 and had opportunity of seeing the temptation to which she was exposed.
 Let him that thinketh he standeth, take heed lest he fall!`"
-The Friend, Philadelphia, vol.
+_The Friend,_ Philadelphia, vol.
 34, p. 89.]
 
 She had, as companion, Elizabeth Coggeshall, a worthy minister from Rhode Island;
@@ -473,7 +474,7 @@ that they advised her to forbear from any further exercising the function of a m
 and to return as speedily as practicable to her home.
 She declined to be governed by this advice,
 on the ground that the "`Morning Meeting`" was not possessed of disciplinary powers.^
-footnote:[See Beck and Ball`'s Account of London Friends`' Meetings, page 82. London,
+footnote:[See _Beck and Ball`'s Account of London Friends`' Meetings,_ page 82. London,
 1869.]
 That meeting, therefore, transferred the case to the meeting in London,
 within which she had been making her home,
@@ -533,7 +534,7 @@ that the meeting sustained these views,
 and informed her that she could not be allowed to reopen her case there,
 after it had been fully and fairly heard in the committee;^
 footnote:[The minute of the Yearly Meeting
-(as found in L. Howard`'s Yorkshireman, vol. v, p. 25)
+(as found in _L. Howard`'s Yorkshireman,_ vol. v, p. 25)
 says that "`the appellant having expressed dissatisfaction with the said report,
 this meeting proceeded to read the Appeal,
 and to hear what further the said Hannah Barnard was disposed to offer,
@@ -602,6 +603,9 @@ and on the report of this committee, in the fourth month,
 a testimony of disownment was issued against her.
 In this they declared, that:
 
+[.embedded-content-document.testimiony]
+--
+
 She hath not only imbibed those erroneous and dangerous sentiments,
 but is assiduous in disseminating them among others;
 hence it evidently appears that she is not one with us, in principle nor in practice,
@@ -614,18 +618,24 @@ hereby testify that we can no longer hold religious
 fellowship with the said Hannah Barnard,
 but disown her from being any longer a member of our Society, until, etc.
 
+[.signed-section-closing]
 Signed by
 
+[.signed-section-signature]
 Tiddeman Hull,
 
+[.signed-section-signature]
 Hannah Jenkins,
 
+[.signed-section-context-close]
 Clerks.
+
+--
 
 Thus, the Monthly Meeting vindicated itself, as a body, from any complicity in her errors.
 Hannah Barnard is said to have survived her separation
 from Friends about twenty-six years;^
-footnote:[Luke Howard`'s Yorkshireman, vol.
+footnote:[_Luke Howard`'s Yorkshireman,_ vol.
 v, page 77.]
 dying, in comparative obscurity, in the year 1828,
 without ever having been reunited to the Society.
@@ -695,11 +705,11 @@ with its denial of the same demand made by Hannah Barnard, in 1801,
 that the present regulation of the English Discipline,
 to allow appeals on questions of faith and doctrine to be heard in the meeting at large,
 instead of before a committee, must have been adopted in the interim.
-L+++.+++ Howard, (Yorkshireman, vol.
+L+++.+++ Howard, (_Yorkshireman,_ vol.
 v, p 134),
 says it "`was the practice in 1802;`" but the later Books of Extracts or books of Discipline,
 give no indication when the rule was established;
-and there is no allusion to such a practice in the Book of Extracts of the Second Edition,
+and there is no allusion to such a practice in the _Book of Extracts_ of the Second Edition,
 printed in 1802.]
 It was a very trying occasion, he being a fluent man, and well calculated,
 by his sophistical speeches, to catch and bewilder the inexperienced and unwatchful.
@@ -721,6 +731,9 @@ whose publications Foster had for years actively promoted.
 This statement of the respondents of the Quarterly Meeting
 was read by Josiah Forster (probably written by him),
 and contained the following instructive remarks towards the close:
+
+[.embedded-content-document]
+--
 
 The appellant has repeatedly alleged that he never denied the eternal divinity
 of that power which dwelt in and acted by or through the Man Christ Jesus.
@@ -754,6 +767,8 @@ taken as it is from Holy Scripture, from the cold and evasive allusions to Him,
 and even the glaring denials of His oneness with the Father,
 often made by the appellant in common with the Unitarians, with the Barnardites,
 the New England "`New Lights,`" and the disciples of Elias.
+
+--
 
 The Yearly Meeting had been occupied with the case on four successive days,
 and on the 26th of the fifth month the appellant,
@@ -798,6 +813,9 @@ that Thomas Foster had been far otherwise than alone, in that city and its neigh
 in disaffection and a disposition to bring in unsound doctrines.
 This letter says:
 
+[.embedded-content-document.letter]
+--
+
 Trying times have been the portion of many brethren
 on this side the water since thou left us.
 Thyself and others have had your perils by land and perils by water;
@@ -826,3 +844,5 @@ which the humble self-denying Christian considers essential to his eternal well-
 They tell us our reason is the primary gift of God, and able to guide us safely along,
 in all that is necessary to salvation,
 rejecting the sacrifice and atonement of Christ as absurd.
+
+--

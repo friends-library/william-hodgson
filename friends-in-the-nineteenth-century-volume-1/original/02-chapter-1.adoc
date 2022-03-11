@@ -1,6 +1,7 @@
 == Chapter I.
 
-Preliminary Remarks on the State of the Society About the End of the Eighteenth Century.
+[.blurb]
+=== Preliminary Remarks on the State of the Society About the End of the Eighteenth Century.
 
 The Society of Friends (commonly called Quakers) has been assailed,
 during the present century, in a marvelous and unexampled manner,
@@ -196,7 +197,7 @@ or the testimony of Truth against offenders.
 Among numerous instances to be found through his journal,
 we may cite the following as nearest to the period of time under notice.
 At one place, he says, in reference to them who ought to be the pillars of the church:^
-footnote:[Journal of Joseph Hoag, Heston`'s edition, p. 59]
+footnote:[_Journal of Joseph Hoag,_ Heston`'s edition, p. 59]
 "`The consideration of this subject many times causes my heart to tremble,
 when I look towards the gallery.
 Oh, friends, were this class what they ought to be,
@@ -220,13 +221,13 @@ Satan came also amongst them;`" and then opening to them this subject,
 he went on to show them their condition,
 as those "`who had been anointed with royal oil,`"
 but "`had vilely fallen on the mountains of Gilboa.`"^
-footnote:[Journal of Joseph Hoag, p. 64]
+footnote:[_Journal of Joseph Hoag,_ p. 64]
 At another place he says: "`Though the business was conducted regularly,
 the want of concern to live up to our ancient and present principles was too obvious;
 which caused deep exercises and painful labor; the aged buried in the earth;
 the young on the wings of the wind,
 embracing the customs of the world in their dress and address,`" etc.^
-footnote:[Ibid, p. 100]
+footnote:[_Ibid,_ p. 100]
 
 At another meeting, he remarks "`The last meeting I was at,
 when all present were members, except one person.
@@ -240,9 +241,9 @@ and a cutting off to rise no more;
 for the Lord would arise and support His dependent ones.
 I had to deliver it in plain full terms; then felt my mind relieved,
 and at liberty to depart.`"^
-footnote:[Journal of Joseph Hoag, p. 150]
+footnote:[_Journal of Joseph Hoag,_ p. 150]
 In reference to the painful condition of things in his own meeting, in the year 1800,^
-footnote:[Ibid, p. 156]
+footnote:[_Ibid,_ p. 156]
 he says: "`Those friends who opposed and complained of the discipline did,
 in nearly every case, oppose calling to account any of our members,
 for evil conduct of whatever description, even when brought to the Monthly Meeting.
@@ -319,47 +320,62 @@ predisposing or preparing features which were apparent about the beginning of th
 These features may be cited as follows,
 condensed from his lucid and ample statement of them, viz.:
 
-1st. Outward ease and prosperity, and worldly possessions and honors,
+[.numbered-group]
+====
+
+[.numbered]
+_1st._ Outward ease and prosperity, and worldly possessions and honors,
 begetting pride and high-mindedness, and dwarfishness in religion,
 with an increasing repugnance to the cross of Christ and its restraints.
 
-2nd. Too great intimacy with the people of the world and enemies of the cross of Christ,
+[.numbered]
+_2nd._ Too great intimacy with the people of the world and enemies of the cross of Christ,
 bringing in the spirit of the world and its attachments and associations.
 
-3rd. A (so-called) liberality of sentiment, according to the world`'s estimate,
+[.numbered]
+_3rd._ A (so-called) liberality of sentiment, according to the world`'s estimate,
 under pretense of Christian charity.
 
-4th. Taking things on trust, and adopting the views of admired persons,
+[.numbered]
+_4th._ Taking things on trust, and adopting the views of admired persons,
 rather than seeking for the truth in the line of individual experience.
 
-5th. Want of a due engagement and exercise of mind to experience
+[.numbered]
+_5th._ Want of a due engagement and exercise of mind to experience
 preservation from day to day from the snares of the enemy,
 and an advancement in the way of life and peace.
 
-6th. Weakness in parents, in not properly restraining their children,
+[.numbered]
+_6th._ Weakness in parents, in not properly restraining their children,
 and bringing them up in subjection to the cross of Christ.
 
-7th. Laxity in the administration of the discipline,
+[.numbered]
+_7th._ Laxity in the administration of the discipline,
 with false tenderness and a deceitful superficial healing of wounds,
 till the whole body became diseased.
 
-8th. A want of real honesty and uprightness, and unreserved dedication of heart,
+[.numbered]
+_8th._ A want of real honesty and uprightness, and unreserved dedication of heart,
 in many who ought to have been of clean hands for the Lord`'s work,
 and submitted fully to the baptisms and sufferings necessary to qualify them for it.
 
-9th. Self-exaltation and spiritual pride in some young ministers of promise, who,
+[.numbered]
+_9th._ Self-exaltation and spiritual pride in some young ministers of promise, who,
 through unwatchfulness were induced to plume themselves
 with their gifts and supposed attainments,
 and so soared above their level in the church, decked themselves with the Lord`'s jewels,
 and lost their former humility and single dependence on His preserving and guiding hand.
 
-10th. Thus they were led into a false estimate of
+[.numbered]
+_10th._ Thus they were led into a false estimate of
 their abilities to do anything for the truth,
 and becoming vain in their imaginations, their foolish hearts were darkened;
 and they endeavored to comprehend the mysteries of Christ`'s
 Kingdom in the will and understanding of man,
 and gave a loose rein to that which feeds on knowledge,
 and thus laid themselves open to dangerous notions and wild views.
+
+====
 
 Still another source of weakness had been for many years the baneful influence of slavery,
 especially, but not exclusively, in the more southerly parts of the Society in America.
