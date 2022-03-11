@@ -603,7 +603,7 @@ and on the report of this committee, in the fourth month,
 a testimony of disownment was issued against her.
 In this they declared, that:
 
-[.embedded-content-document.testimiony]
+[.embedded-content-document.testimony]
 --
 
 She hath not only imbibed those erroneous and dangerous sentiments,
