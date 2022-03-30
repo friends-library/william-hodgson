@@ -1,6 +1,7 @@
 == Chapter III.
 
-The Outbreak of "`New Lights,`" or Ranters, in New England.
+[.blurb]
+=== The Outbreak of "`New Lights,`" or Ranters, in New England.
 
 About the year 1817, in some parts of New England,
 considerable unsettlement of a number of restless members
@@ -164,6 +165,10 @@ we have the following interesting and instructive letter from Jonathan Evans,
 an elder of that city, to Moses Brown, of Providence, Rhode Island,
 dated fourth month 3rd, 1820.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Beloved Friend:
 
 Micah H. Ruggles having arrived in this city (my mind having been previously
@@ -352,9 +357,13 @@ And he is, I believe, taking imagination for revelation,
 and by making use of strong or severe terms,
 would force upon Friends that which is of spurious origin.
 
+[.signed-section-closing]
 With the feeling of brotherly love, I remain thy friend,
 
+[.signed-section-signature]
 Jonathan Evans.
+
+--
 
 Although the above letter is somewhat long, yet it is so instructive,
 that I have not felt free to do otherwise than give it here in full.
@@ -501,6 +510,9 @@ Viewing the Society of Friends, as part, at least, of the visible church,
 deriving its obligations, its trust, and its authority, from Christ, its spiritual Head,
 he says,
 
+[.embedded-content-document]
+--
+
 The Society, we are bound to believe, according to our profession,
 is not a mere human institution, subject to the will of man;
 nor are its powers and obligations derived from man; for,
@@ -555,6 +567,8 @@ Taking upon himself to disown the Society,
 he no longer manifests a dutiful subjection and allegiance to it,
 and becomes an offender, etc.
 
+--
+
 A characteristic instance of the vulgar profanity of some of these deluded people,
 even in our solemn meetings,
 will serve to show the falsity of their pretensions
@@ -572,6 +586,9 @@ proceeded to intrude into the women`'s apartment,
 where they disturbed the meeting by their unsavory and impertinent interference.
 A letter from a friend of Lynn (E. Collins), dated second month 19th, 1822,
 gives some account of another instance of their wildness and recklessness.
+
+[.embedded-content-document.letter]
+--
 
 On fifth-day last was our Monthly Meeting--such a one, I believe,
 as was never before witnessed in America.
@@ -646,6 +663,8 @@ were carried out.
 An officer was called, who took charge of them,
 in order to have them bound over for their good behavior.
 
+--
+
 Thus far the letter.
 It is manifest that J. Alley was more or less affected with insanity;
 but what shall we say of the conduct of those who encouraged him,
@@ -700,6 +719,9 @@ common sense, reason, and religion, as his eyes had beheld in that place.
 In the course of his communication he added,
 with the firmness and boldness of speech which characterized him:
 
+[.embedded-content-document]
+--
+
 I am far from wishing to hurt the feelings of any one;
 I pity these poor deluded individuals, who have been the cause of my sore anguish.
 But who ever saw such an instance as took place in
@@ -721,6 +743,8 @@ I feel much for the dear young people And I may now say,
 that I believe the time has fully come, that patience has had its perfect work,
 and it is now for the active members, both men and women,
 to unite and stand against these things, that there may not be a repetition of them.
+
+--
 
 Mary Newhall, who had by this time been disowned, soon,
 with the cooperation of several adherents, set up a separate meeting at Lynn;
@@ -935,6 +959,9 @@ he expressed his feelings relative to the state of things there,
 as follows (taken in short-hand by one not a Friend,
 and afterwards furnished to J. Otis):
 
+[.embedded-content-document]
+--
+
 The path of the true Christian is one of suffering and tribulation;
 although human nature recoils at the idea, and would gladly find out some easier way;
 whilst the humble followers of a suffering Lord are only desirous
@@ -965,13 +992,13 @@ and in proportion as their tribulations abound for Christ`'s sake,
 and for the promotion of His blessed cause in the earth,
 their consolations will also abound by Him.
 
-"`To lay the soul that loves Him low,
-
+[verse]
+____
+To lay the soul that loves Him low,
 Becomes the Only Wise;
-
 To hide beneath a veil of woe
-
-The children of the skies.`"
+The children of the skies.
+____
 
 This is the way, dear friends, that He is pleased to deal with the children of His people.
 Now, it was foretold concerning our blessed Redeemer, by the evangelical prophet Isaiah,
@@ -1044,6 +1071,8 @@ and that the rod may be laid upon the backsliding nature in us,
 that so we may be brought back again into the right way of the Lord; for thus,
 in his lovingkindness and mercy,
 doth He deal with those that turn unto Him with full purpose of heart.
+
+--
 
 There is an unction to be felt, even in reading this discourse,
 which must have reached the witness in the hearts of such of those who heard it delivered,
