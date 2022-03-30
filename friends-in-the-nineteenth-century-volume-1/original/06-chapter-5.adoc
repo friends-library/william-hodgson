@@ -1,6 +1,7 @@
 == Chapter V.
 
-The Suits At Law, Consequent On The Hicksian Secession.
+[.blurb]
+=== The Suits At Law, Consequent On The Hicksian Secession.
 
 There were some results of the Hicksian controversy,
 which I would gladly pass by in silence,
@@ -72,7 +73,7 @@ by a party opposed to that of the mayor,
 and courting the favor of the Hicksites for the sake of their votes.
 Several days were occupied in the hearing of testimony.
 On the 21st of sixth month, the judge, in a long and labored adjudication of the case,^
-footnote:[See The Friend, Philadelphia, vol.
+footnote:[See [.book-title]#The Friend,# Philadelphia, vol.
 i, pp.
 292, 293, 295.]
 assuming the continued de facto existence of Green Street Monthly Meeting,
@@ -96,8 +97,8 @@ The trial commenced on the 15th of the tenth month,
 and after an investigation during ten days,
 on the 25th Judge Hallock delivered his opinion,
 and the accused were sentenced to a fine of five dollars each.^
-footnote:[See The Friend, Philadelphia, vol.
-ii, p. 219. Taken from Bates`'s Miscellaneous Repository.]
+footnote:[See [.book-title]#The Friend,# Philadelphia, vol.
+ii, p. 219. Taken from [.book-title]#Bates`'s Miscellaneous Repository.#]
 In the similar case of J. Pierce and others,
 indicted for producing a riot on the same occasion,
 the accused were by the jury found guilty before the court at Steubenville,
@@ -107,11 +108,11 @@ their counsel intimated their wish only for the protection afforded by the law,
 and recommended the defendants to the clemency of the Court.
 The sentence accordingly was imprisonment for thirty minutes,
 and a fine of six cents each, with costs of the prosecution.^
-footnote:[See The Friend, vol.
+footnote:[See [.book-title]#The Friend,# vol.
 ii, p. 294, etc.
 The account of the trial published by M. T. C. Gould
 is evidently very defective and fallacious.
-A full account may be seen in Bates`'s Miscellaneous Repository.]
+A full account may be seen in [.book-title]#Bates`'s Miscellaneous Repository.#]
 Notwithstanding the lenity of the penalty, this case was carried, on writ of error,
 to the Supreme Court of the State of Ohio,
 and there the judgment of the court below was reversed as irregular,
@@ -119,7 +120,7 @@ and there the judgment of the court below was reversed as irregular,
 upon said indictment by the prosecutor +++[+++B. W. Ladd]
 as security for the costs,`" his name having been "`endorsed`" on the back of the instrument,
 instead of "`at the foot thereof,`" as directed, in very bad English, by the law.^
-footnote:[The Friend, vol.
+footnote:[[.book-title]#The Friend,# vol.
 iii, p. 15.]
 It is to be feared that Elisha Bates weakened himself,
 and increased the tendency to an eventual falling
@@ -138,7 +139,7 @@ They instituted a suit to obtain possession of the Yearly
 Meeting`'s boarding-school at Nine Partners in Duchess County,
 and seized fifty-five acres of the farm belonging to it.
 But they did not succeed in obtaining possession of the school.^
-footnote:[Foster`'s Report, vol.
+footnote:[[.book-title]#Foster`'s Report,# vol.
 i, p. 189.]
 In the Court of Oyer and Terminer of the County of West Chester,
 they brought suit to recover the amount of a loan of five hundred dollars, with interest,
@@ -188,10 +189,10 @@ Halliday Jackson, Cephas Ross, John Barrow, and Josiah Gaskill.
 The taking of their evidence was continued, with sundry intervals,
 from the date above-mentioned till the 13th of fourth month, 1831,
 when it was completed.^
-footnote:[See the testimony in full, in Foster`'s Report of the Examination at Camden,
+footnote:[See the testimony in full, in [.book-title]#Foster`'s Report of the Examination at Camden,#
 two volumes, Philadelphia, 1831;
-also the Arguments of Counsel and Decision of Court
-of Chancery of New Jersey in same case,
+also the [.book-title]#Arguments of Counsel and Decision of Court
+of Chancery of New Jersey# in same case,
 1834.]
 The first witness examined was Samuel Bettle, of Philadelphia, whose testimony,
 from the position he held as clerk of the Yearly Meeting,
@@ -205,8 +206,8 @@ it seems to have been in too much timidity as to an avowal of official approval,
 by the Society, of the writings of William Penn.
 He was probably led into this timidity by observing the
 handle so constantly and insidiously made by the Hicksites,
-of William Penn`'s Sandy Foundation Shaken.
-See Foster`'s Report, vol.
+of William Penn`'s [.book-title]#Sandy Foundation Shaken.#
+See [.book-title]#Foster`'s Report,# vol.
 i, p. 77.]
 
 It was a favorite dogma of the Hicksites, at that time,
@@ -255,7 +256,7 @@ And in another portion of his evidence he said that,
 depart from the principles or doctrines recognized and held by the Society,
 it would be justifiable, under the discipline,
 for a Friend to speak of it even in the meeting, at the time of its occurrence.`"^
-footnote:[Foster`'s Report, vol.
+footnote:[[.book-title]#Foster`'s Report,# vol.
 i, p. 107.]
 
 Thomas Willis, of Long Island,
@@ -318,7 +319,7 @@ to the great interruption and protraction of the business.
 He declared his belief that if a Yearly Meeting should reject
 and deny the doctrines held by the Society of Friends,
 it would of course, cease to have a just right to the property.^
-footnote:[Foster`'s Report, vol.
+footnote:[[.book-title]#Foster`'s Report,# vol.
 ii, p. 401.]
 It seems needless to further specify the distinct
 features of the testimony of each of the witnesses;
@@ -339,7 +340,7 @@ caused and characterized the separation.
 His testimony was of such a description as to induce a very long and close cross-examination,
 which lasted thirteen days,
 and of which the printed statement occupies one hundred and three pages.^
-footnote:[Ibid., vol.
+footnote:[_Ibid.,_ vol.
 i, pp 375 to 478.]
 Personal invective, mere hearsay, and harsh epithets and charges upon Friends,
 with wandering, incoherent, impulsive harangues,
@@ -425,7 +426,7 @@ and on some points of discipline.
 According to his testimony,
 the institution of the two suits at law within that Yearly Meeting
 had been discountenanced by the authorities of the Hicksite body.^
-footnote:[See Foster`'s Report, vol.
+footnote:[See [.book-title]#Foster`'s Report,# vol.
 ii, pp.
 265 and 279.]
 They had, however, already obtained possession, as before mentioned,
@@ -446,7 +447,7 @@ He advocated a judgment by majorities,
 thought that the clerk of a meeting had the liberty to "`decide as he thought right,`"
 and expressed his opinion that "`every member`" has "`equal right to a voice.`"^
 footnote:[See his ignorance of the practices of Friends animadverted
-upon by the counsel, p. 313, vol. ii, Foster`'s Report.]
+upon by the counsel, p. 313, vol. ii, [.book-title]#Foster`'s Report.#]
 He was succeeded by James Brown, also of New Jersey,
 whose testimony was of no great importance;
 chiefly of local disciplinary and numerical matters,
@@ -510,9 +511,9 @@ About two weeks were occupied in reading the evidence,
 after which the counsel of the respective parties occupied between
 two and three weeks in delivering their speeches before the court.^
 footnote:[The opinions of the judges and the speeches of the counsel,
-are given in full in A Full Report of the Case of Decow and Hendrickson v. Shotwell,
+are given in full in [.book-title]#A Full Report of the Case of Decow and Hendrickson v. Shotwell,
 in the Court of Appeals at Trenton, 1833.
-Philadelphia: P. J. Gray, 1834.]
+Philadelphia: P. J. Gray, 1834.#]
 G+++.+++ D. Wall, counsel for the Hicksites,
 commenced his arguments with an insidious attempt to show
 that "`this court is the great Areopagus of the State,
@@ -545,7 +546,7 @@ held by the early Friends and the Society from the beginning to that day.
 He opened out the fallacy of the pretense that the Society had no creed or belief;
 and fastened upon the Hicksites as a society,
 the responsibility for the erroneous sentiments enunciated by Elias Hicks.^
-footnote:[See p. 422 of the Trenton Report of Pleadings before the Court of Appeals.]
+footnote:[See p. 422 of the [.book-title]#Trenton Report of Pleadings before the Court of Appeals.#]
 He then went on to show that property of religious societies belongs to the true society,
 and not being private property,
 is not divisible on the occasion of schisms--that the courts of law had

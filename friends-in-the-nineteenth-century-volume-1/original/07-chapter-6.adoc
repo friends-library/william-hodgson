@@ -1,6 +1,7 @@
 == Chapter VI.
 
-The "`Beacon`" Schism.
+[.blurb]
+=== The "`Beacon`" Schism.
 
 Well might the ways of Zion mourn,
 in a contemplation of the desolating scourge which
@@ -161,7 +162,7 @@ likely to pervade every family among Friends,
 and vast numbers among others.
 The last-named work particularly, first issued in 1825,
 and his "`Portable Evidence,`" in 1832,^
-footnote:[See An Examination of the Memoirs and Writings of J. J. Gurney,
+footnote:[See [.book-title]#An Examination of the Memoirs and Writings of J. J. Gurney,#
 by W. H. Philadelphia, 1856.]
 contained many sentiments and modes of thought and expression,
 manifestly at variance with the hitherto acknowledged
@@ -208,7 +209,7 @@ and many soon began to throw off all the trammels of primitive doctrines and tes
 and came out boldly against our ancient Friends, in print and in public declarations.
 
 The following warning testimony on the other hand, is quoted by Daniel Wheeler^
-footnote:[Memoirs of Daniel Wheeler, London, 1842, p. 200.]
+footnote:[[.book-title]#Memoirs of Daniel Wheeler,# London, 1842, p. 200.]
 as having been delivered by a female minister (supposed to have been Sarah L. Grubb),
 in the Yearly Meeting of 1832, viz.: "`In a striking and awful manner,`" he says,
 she "`adverted to the permitted visitation of the pestilence (cholera) in this country;
@@ -255,7 +256,7 @@ As he advanced in his religious engagements,
 more and more of its insidious workings was brought to his view,
 to such a degree that he was led to fear, either a general lapse as a body,
 or otherwise a great rent or division.^
-footnote:[John Wilbur`'s Journal and Correspondence, p. 270.]
+footnote:[[.book-title]#John Wilbur`'s Journal and Correspondence,# p. 270.]
 Finding this departure so formidable,
 on account of the talents and station of many of those engaged in it,
 he was brought into great mourning over the flock of God,
@@ -279,6 +280,9 @@ In speaking of his attendance of London Yearly Meeting in 1832,
 after mentioning that with the exception of having visited the women`'s meeting,
 he had been silent through all the meetings for business,
 being greatly exercised therein, he says:
+
+[.embedded-content-document]
+--
 
 In this meeting,
 great professions of faith in the mediation and atonement of Jesus Christ our Lord,
@@ -310,8 +314,13 @@ occasioning the face of the beloved to be so turned from us,
 in the day of our great necessity.
 (Page 124.)
 
+--
+
 Again, after attending the Half-Yearly Meeting for Wales, which was, he says,
 a painful meeting to him throughout, he remarks:
+
+[.embedded-content-document]
+--
 
 I kept to my chamber +++[+++in the evening],
 and there mourned over the state of things in this land;
@@ -343,7 +352,13 @@ who are truly awakened to serious and fearful apprehensions,
 lest this Society should be shaken from its foundation.
 (Page 137.)
 
+--
+
+[.offset]
 A few months afterwards, he remarks:
+
+[.embedded-content-document]
+--
 
 A disposition is making its appearance in divers places in this nation,
 and among Friends, to think very little of the cross of Christ, practically,
@@ -364,7 +379,12 @@ are designing to bring about a change in some of
 the prominent and essential doctrines of our Society.
 (Page 150.)
 
+--
+
 At London and Middlesex Quarterly Meeting, which was "`very full and large,`" he says:
+
+[.embedded-content-document]
+--
 
 Dear Ann Jones was exercised in solemn supplication,
 and William Allen and Daniel Wheeler, in testimony, acceptably; but as for me,
@@ -390,6 +410,8 @@ and removed out of the way,
 and their place will be known no more in the heritage of the Lord`'s spiritual Israel.
 (Page 157.)
 
+--
+
 Under these sorrowful apprehensions,
 and in deep solicitude for the safety of the Society,
 John Wilbur addressed a series of letters, six in number, to his friend George Crosfield,
@@ -405,6 +427,9 @@ written while the letters were in process of being printed,
 contains the following development of their motives
 in thus undertaking the publication of them.
 
+[.embedded-content-document.letter]
+--
+
 My mind is very well, and resolute in carrying forward the publication of these letters,
 believing the very fulness of time is come for something of the kind to be given forth,
 for the comfort and encouragement of many faithful Friends,
@@ -413,6 +438,8 @@ and I am satisfied, in that it has in any degree,
 fallen to our lot to assist in raising again the ancient standard of Truth in this country,
 where George Fox so faithfully labored; and that which it will expose us to,
 from loose and careless professors, we are willing to bear for Jesus Christ`'s sake.
+
+--
 
 These six letters to George Crosfield appear to have been
 published by him while John Wilbur was absent in Ireland,
@@ -427,6 +454,9 @@ and his redemption through the atoning sacrifice of Christ,
 and man`'s cooperation with the offers of his grace,
 by repentance and submission to the sanctifying and regenerating efficacy of his Spirit;
 and concluded with the following salutary expressions:
+
+[.embedded-content-document.letter]
+--
 
 Then how needful it is to have a full belief in the doctrines of Scripture,
 and in every part of them; not merely assenting to some and passing slightly over others,
@@ -446,6 +476,8 @@ but that every one of us may be so quickened and made alive unto God,
 by the resurrection power of Jesus Christ,
 as to be furnished and blessed with the perceptive and all-instructive
 guidance and influence of his Holy Spirit.
+
+--
 
 The third letter showed the frequent tendency there
 had been in the professing Christian Church,
@@ -579,7 +611,7 @@ and though some influential members in New England would have gladly put
 him to trouble in consequence of his open and firm stand for the truth,
 they could make no progress against him as long as Moses Brown lived;
 for that honest man and venerable patriarch frustrated their attempts,^
-footnote:[See two letters from Moses Brown, in J. Wilbur`'s Journal, pp.
+footnote:[See two letters from Moses Brown, in [.book-title]#J. Wilbur`'s Journal,# pp.
 176 and 177.]
 knowing they were out of the truth.
 
@@ -627,9 +659,10 @@ the only medium by which to obtain a knowledge of the nature of sin,
 or of "`a call to repentance extended to the whole human race,`" and that
 they "`unfold the law of God in all its strength and spirituality,
 in all the glorious variety of its details.`"^
-footnote:[See J. J. Gurney`'s Portable Evidence, English edition, pp.
+footnote:[See J. J. Gurney`'s [.book-title]#Portable Evidence,# English edition, pp.
 69, 91, 114,
-etc.]The Beacon discarded the universal and saving efficacy of the light of Christ,
+etc.]
+The Beacon discarded the universal and saving efficacy of the light of Christ,
 inwardly revealed; and denied any true knowledge of God, or of his salvation,
 except through the Scriptures--taught that it was a "`pernicious
 theory`" to speak of the Scriptures as secondary,
@@ -639,13 +672,13 @@ the belief that "`the inward light is the primary rule of faith and practice,`"
 as a "`dangerous error`"--and asserted that "`setting up a light within,
 above the revelation of the Spirit of God by Holy Scripture, has led, step by step,
 into the deadly gulf of deism.`"^
-footnote:[See the Beacon, all through the volume.]
+footnote:[See the [.book-title]#Beacon,# all through the volume.]
 
 On the doctrine of Imputative Righteousness, too, they held the same ground.
 J+++.+++ J. Gurney had said, "`Our only claim on the heavenly inheritance, therefore,
 consists in this, that God is pleased to impute to those who believe,
 the perfect righteousness of our Lord Jesus Christ; "`^
-footnote:[Gurney`'s Essays on Christianity, Amer. edit+++.+++, p. 390.]
+footnote:[[.book-title]#Gurney`'s Essays on Christianity,# Amer. edit+++.+++, p. 390.]
 and that faith "`is a reliance of the soul on the incarnate
 Son`" thus limiting it to the incarnation alone.
 In like manner, the Beacon said:
@@ -657,7 +690,7 @@ that "`without holiness no man shall see the Lord?`"J.
 J+++.+++ Gurney had repeatedly designated the Scriptures,
 as "`the written word,`" "`the word of the Lord,`" thus coming as near as he could,
 and opening the door, towards calling them the Word of God;^
-footnote:[Ibid., pp. 88, 350, etc.]
+footnote:[__Ibid., __pp. 88, 350, etc.]
 and had declared that from them "`we derive our hopes of the immortal crown of righteousness.`"
 The author of the Beacon, in like manner, though more openly,
 styled them "`the Word,`" "`the Word of God;`" argued to prove
@@ -840,7 +873,7 @@ with the egotism which now became a prominent characteristic of his writings,
 published several pamphlets in support of his own conduct,
 and one endeavoring to destroy the religious standing of our early Friends;^
 footnote:[This was well answered in 1837 by Samuel Tuke,
-in A Plea on behalf of George Fox and the early Friends.]
+in [.book-title]#A Plea on behalf of George Fox and the Early Friends.#]
 and soon left England again for America,
 having probably found his advocacy of the party more largely drawing
 on his pecuniary resources than the remuneration warranted.
@@ -972,8 +1005,8 @@ and showed beyond reasonable dispute,
 that if J. J. Gurney had truly charged his book with "`infidelity`"
 our most cherished writers were no less liable to the awful charge.^
 footnote:[The same writer (Henry Martin) also published, in 1835 and 1837, two pamphlets,
-entitled, A Defence of the Original Principles of the Society of Friends,
-No. 1 and No. 2; and, in 1836, A Letter to John Wilkinson.]
+entitled, [.book-title]#A Defence of the Original Principles of the Society of Friends,#
+No. 1 and No. 2; and, in 1836, [.book-title]#A Letter to John Wilkinson.#]
 This reply indeed sent forth a fatal stroke against J. J. Gurney`'s
 pretensions to soundness in the principles of Friends,
 and it seems that he was never able to gainsay or parry the scorching allegations.
@@ -1018,7 +1051,7 @@ In what Josiah Forster afterwards said on the subject,
 he appeared to urge the appointment of a committee,
 as much with a view to stop Thomas Hancock`'s Defence,
 as to check the circulation of the Beacon.^
-footnote:[See a Report of the Proceedings of London Yearly Meeting, 1835.
+footnote:[See a [.book-title]#Report of the Proceedings of London Yearly Meeting,# 1835.
 Published by John Stephens, Fleet Street; pages 6 and 7.]
 The discussion of the subject, being resumed the next day,
 resulted in the appointment of a committee of thirteen members, viz.: Barnard Dickinson,
@@ -1085,12 +1118,12 @@ The committee thus at once gave away the ground on which
 they ought to have taken a firm and immovable stand;
 which could afterwards have been amply sustained from Holy Scripture.^
 footnote:[Edward Ash, the only surviving member of that committee in 1870,
-published in the London Friend of the ninth month, that year,
+published in the London [.book-title]#Friend# of the ninth month, that year,
 a statement of their proceedings in regard to the Beacon,
 as a record of the case according to his view of it.
 He says (p. 208),
 "`A Friend in the station of Minister made an earnest appeal to the committee,
-to judge the Beacon by Barclay`'s Apology.
+to judge the [.book-title]#Beacon# by [.book-title]#Barclay`'s Apology.#
 After a very brief interchange of opinion,
 it was unanimously resolved to do no such thing,
 but to try it by the Holy Scriptures alone.`"
@@ -1244,7 +1277,7 @@ really sound doctrine and his sophistical representations.
 They again attended Lancashire Quarterly Meeting, held at Liverpool,
 in the twelfth month; and it appears,
 by a printed account of what occurred at that meeting,^
-footnote:[See the Christian Advocate; London, twelfth month 28th, 1835, page 414.]
+footnote:[See the [.book-title]#Christian Advocate;# London, twelfth month 28th, 1835, page 414.]
 that more was said by the committee against Truth Vindicated, than against the Beacon.
 Josiah Forster designated the former as "`a very pernicious work,`" and even
 Samuel Tuke (if the account is to be trusted) spoke of its "`dangerous tendency.`"
@@ -1473,9 +1506,9 @@ footnote:[The views here brought forward,
 relative to the position and action of the committee,
 and the results on the whole Society consequent on their vacillating course,
 have since been greatly confirmed by statements of
-Edward Ash in an article in the London Friend,
+Edward Ash in an article in the London [.book-title]#Friend,#
 of ninth month, 1870, above alluded to, and a reply thereto, signed D.,
-in the British Friend of eleventh month 1st, 1870.]
+in the British [.book-title]#Friend# of eleventh month 1st, 1870.]
 
 In addition to the case of the Beacon,
 the committee had also under its care that of William Boulton,
@@ -1579,7 +1612,7 @@ and the necessity of a plain statement of the real facts of the case,
 their conduct was characterized by a degree of shuffling and evasiveness
 entirely unworthy of their characters as men,
 and reproachful to the cause which they professed to be sustaining.^
-footnote:[See Crisis of the Quaker Contest in Manchester, 1837, throughout.]
+footnote:[See [.book-title]#Crisis of the Quaker Contest in Manchester,# 1837, throughout.]
 
 When the meeting finally decided to accept William
 Boulton`'s withdrawal from the station of an Elder,
@@ -1758,8 +1791,11 @@ The floating unsettlement of mind which these novel
 views produced in many of the members in England,
 was very great and disastrous.
 It is well exemplified in the following narration.^
-footnote:[See The Friend, Philadelphia, second month 1st, 1873.
+footnote:[See [.book-title]#The Friend,# Philadelphia, second month 1st, 1873.
 Taken from the British Friend.]
+
+[.embedded-content-document]
+--
 
 To subvert the orthodox doctrines, as held by George Fox and his contemporaries,
 was the object of Isaac Crewdson and his adherents; and to achieve it,
@@ -1854,10 +1890,14 @@ that on his deathbed he should so solemnly revoke his assertions
 respecting the Society of Friends and their doctrines,
 and to the very person to whom his words of deprecation were addressed
 
+[.signed-section-signature]
 Elizabeth Knott.
 
+[.signed-section-context-close]
 Rathangan, sixth mo.
 21st, 1807.
+
+--
 
 The individual alluded to in the foregoing account
 is understood to have been Henry Treffry,
