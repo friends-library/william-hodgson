@@ -1,6 +1,7 @@
 == Chapter VII.
 
-The Rise And Progress Of The "`Gurney`" Controversy And Schism, To The Year 1840.
+[.blurb]
+=== The Rise And Progress Of The "`Gurney`" Controversy And Schism, To The Year 1840.
 
 One storm had scarcely seemed to pass away,
 before the thunderings of another alarmed those who
@@ -45,8 +46,11 @@ encouraging to faithfulness,
 and solemnly warning the "`Babel builders,`" who were advancing to confusion of tongues.
 The following is the substance of her address, written shortly afterwards from memory,
 by a friend who was present:^
-footnote:[See S. Alexander`'s Voice from the Wilderness, pages 40 to 43; also,
-Life of Sarah Grubb, late Lynes, Eng. edit+++.+++, p. 333.]
+footnote:[See _S. Alexander`'s Voice from the Wilderness,_ pages 40 to 43; also,
+_Life of Sarah Grubb, Late Lynes,_ Eng. edit+++.+++, p. 333.]
+
+[.embedded-content-document]
+--
 
 I am come among you, a poor weak creature, laden with a burden,
 the weight of which cannot be expressed, even by the tongue of the eloquent,
@@ -162,10 +166,15 @@ for I remembered our Saviour`'s command to his disciples,
 not to take thought how they might speak, for "`it shall be given you in that hour,
 what ye shall speak.`"
 
+--
+
 At a later sitting, Ann Jones, of Stockport, likewise visited the men`'s meeting,
 and is said to have expressed herself nearly as follows.^
-footnote:[See a Report of the Proceedings of London Yearly Meeting of Friends, 1836,
+footnote:[See a _Report of the Proceedings of London Yearly Meeting of Friends,_ 1836,
 published by John Stephens, 153 Fleet Street, pages 13 and 14.]
+
+[.embedded-content-document]
+--
 
 I can truly say,
 I came into this Meeting not knowing whether I should have anything to communicate;
@@ -217,6 +226,8 @@ May He grant you His Spirit to discern and to avoid the grievous errors which ab
 and the Lord God Almighty will show himself valiant on your side,
 and will arise for your signal deliverance.
 
+--
+
 We may mark here her especial testimony against pursuing "`a middle course,`" and "`seeking
 to please both parties;`" inasmuch as that "`middle course`" proved afterwards,
 in the cunning craftiness of the enemy,
@@ -229,11 +240,16 @@ the meeting was occupied in considering the following
 proposition from Westmoreland Quarterly Meeting,
 which was prominently advocated by Isaac Braithwaite, viz.:
 
+[.embedded-content-document]
+--
+
 A difference of opinion having arisen in the Society as to the
 authority of Holy Scripture in matters of faith and doctrine,
 this meeting requests the Yearly Meeting to take the subject into its serious consideration,
 and clearly to define what are, in its estimation, the authority, place,
 and office of the Holy Scriptures, as the rule of faith and practice.
+
+--
 
 The meeting was much divided in sentiment in regard
 to the disposal of this insidious proposition;
@@ -241,7 +257,7 @@ the declared members of the Beacon party not being by any means
 the only advocates of a definitive minute sustaining their views.
 Great discussion ensued,
 in which J. J. Gurney is represented as expressing his views as follows:^
-footnote:[Vide Stephens`'s Report of the London Yearly Meeting, 1836.]
+footnote:[Vide _Stephens`'s Report of the London Yearly Meeting,_ 1836.]
 That "`he felt considerable difficulty in regard to the preamble of the proposition,
 because he considered that the Society, from the earliest period of its existence,
 had held the paramount authority of Holy Scripture,
@@ -286,19 +302,29 @@ and that it would never recognize the principle,
 that the Holy Scriptures were to be subordinated to impressions made upon our own minds.
 He could not doubt that every person in the meeting would unite in the following propositions:
 
-1st. That the Holy Scriptures were given by inspiration.
+[.numbered-group]
+====
 
-2nd. That the declaration being of divine authority, there can be no higher authority.
+[.numbered]
+_1st._ That the Holy Scriptures were given by inspiration.
 
-3rd. That they are able to make wise unto salvation,
+[.numbered]
+_2nd._ That the declaration being of divine authority, there can be no higher authority.
+
+[.numbered]
+_3rd._ That they are able to make wise unto salvation,
 through faith which is in Christ Jesus.
 
-4th. That they are the only authorized record from
+[.numbered]
+_4th._ That they are the only authorized record from
 which we can learn whatever may be taught,
 or required of Christian men to believe; and that whatever is contrary to Holy Scripture,
 is to be esteemed a delusion of the devil.
 
-Finally, that no other standard of religious belief is recognized by this Society.
+[.numbered]
+_Finally,_ that no other standard of religious belief is recognized by this Society.
+
+====
 
 He could not but believe,
 that if Friends would allow their minds to sink into a state of calmness,
@@ -377,11 +403,14 @@ But the meeting at length decided that the Committee on the General
 Epistle should be directed to prepare and introduce a paragraph,
 fully and explicitly confirmatory of the well-known and
 previously recorded sentiments of the Society on the subject.`"^
-footnote:[Stephens`'s Report of London Yearly Meeting. 1836, page 18.]
+footnote:[_Stephens`'s Report of London Yearly Meeting._ 1836, page 18.]
 The committee, however, appear to have transcended the terms of their instructions,
 and at a subsequent sitting brought in a form for the paragraph,
 which after some slight changes stood as follows:^
-footnote:[Ibid., page 30.]
+footnote:[_Ibid.,_ page 30.]
+
+[.embedded-content-document]
+--
 
 Often as our religious Society has declared its belief
 in the divine authority of the Holy Scriptures,
@@ -421,6 +450,8 @@ and that we may obtain a right understanding of them in the fear of the Lord.
 Let us never forget that their true purpose is, under the influence of the Holy Spirit,
 to bring us to our Lord Jesus Christ, that, by a living operative faith in Him,
 we may obtain reconciliation with the Father, and be made partakers of everlasting life.
+
+--
 
 Though some of this was true, yet in its intent and aim it was false and insidious.
 It would be difficult to explain where the committee found
@@ -475,8 +506,8 @@ proposed for publication by members of that Yearly Meeting.
 That meeting was mainly composed of the ministers and elders residing in and near London.
 After reading Samuel Rundell`'s treatise, the meeting referred it to a committee.
 This committee kept it shut up for twenty months.^
-footnote:[See Letter of Lydia A. Barclay, in J. Wilbur`'s Journal and Correspondence, p. 240;
-and Letter of John Barclay, in same work, p. 226.]
+footnote:[See _Letter of Lydia A. Barclay,_ in _J. Wilbur`'s Journal and Correspondence,_ p. 240;
+and _Letter of John Barclay,_ in same work, p. 226.]
 At length, in the eleventh month, 1837, the matter was roused up by John Barclay;
 when it appeared that the treatise was not approved by some,
 as inculcating views which most of the committee thought objectionable.
@@ -492,7 +523,7 @@ Thus they thought to have suppressed it, and it was soon given out,
 that the author had withdrawn it.
 But in consequence of the decided encouragement given to its publication,
 notwithstanding all this, by Daniel Wheeler,^
-footnote:[J. Wilbur`'s Journal and Correspondence, p. 241.]
+footnote:[_J. Wilbur`'s Journal and Correspondence,_ p. 241.]
 who knew it to be sound as to true Christian doctrine, and applicable to the times,
 S+++.+++ Rundell, who had requested and been refused a conference with the committee,
 concluded to take the responsibility of publishing it,
@@ -582,6 +613,9 @@ Three days before his decease, his neighbor John Hodgkin coming into his room,
 he requested him to take down in writing the following testimony of his dying sentiments,
 in regard to the Episcopalian tenets of Joseph John Gurney.
 
+[.embedded-content-document.testimony]
+--
+
 This testimony rested on his mind, and he must have it committed to paper,
 as he found his peace consisted in so doing.
 +++[+++Then addressing J. H.]
@@ -639,6 +673,8 @@ It is a grievous thing, that any minister in our Society should so speak.
 They are antichrist still, since they lead the people from Christ.
 And yet I love some of them for the work`'s sake, so far as they go.
 
+--
+
 Towards the close of the pamphlet controversy in regard to the Beacon,
 J+++.+++ J. Gurney prepared for publication,
 as an appendix to his Strictures on Truth Vindicated,
@@ -681,8 +717,8 @@ which he thought referred to the Scriptures,
 in direct contradiction of the testimony of George Fox, William Penn, Robert Barclay,
 George Whitehead, Francis Howgill, Samuel Fisher, James Parnell,
 and indeed the unanimous voice of all our early writers.^
-footnote:[These objections are more fully described in An
-Examination of the Memoirs and Writings of J. J. Gurney,
+footnote:[These objections are more fully described in _An
+Examination of the Memoirs and Writings of J. J. Gurney,_
 pp.
 109 to 124. Philadelphia, 1806.]
 His second objection was to the interpretation put "`by some persons
@@ -819,17 +855,24 @@ J+++.+++ J. Gurney had by this time manifested,
 in his numerous publications (irrespective of the last named Brief Remarks on Interpretation),
 the following points of variance from the settled characteristic doctrines of Friends.
 
+[.embedded-content-document]
+--
+
+[.discourse-part]
 He considered that the saving knowledge of God was
 to be obtained only through the Scriptures--though
 granting the need of the aid of the Holy Spirit in applying them.
 
+[.discourse-part]
 That for this end, the Scriptures are to be studied,
 with such helps as can be obtained from commentaries, and the plain laws of criticism,
 "`familiar to every scholar.`"
 
+[.discourse-part]
 That the Scriptures are the primary rule of faith and practice--not the Spirit--though
 granting the latter to be prior to them in point of "`order and dignity.`"
 
+[.discourse-part]
 That the Bible is "`the only authorized record of divine truth,`" "`the divinely
 appointed means of conversion,`" the "`only means whereby to obtain a knowledge
 of sin,`" or of a "`call to repentance,`" or of the "`attributes of our Heavenly
@@ -838,36 +881,45 @@ are "`the Gospel;`" thus practically discarding our great fundamental doctrine
 of Immediate Revelation and Universal and Saving Light,
 as stated by Barclay and others.
 
+[.discourse-part]
 That faith is a "`reliance of the soul on the incarnate Son,`" yet that
 it is a "`natural faculty,`" and confounding it with Belief.
 
+[.discourse-part]
 That the righteousness of Christ is imputed to believers in Him--to
 "`whosoever places his reliance on him as the atonement for sin,`"
 even though "`vile and polluted`" with sin;
 thus saving men in their sins,
 not from them--therefore that "`justification precedes sanctification.`"
 
+[.discourse-part]
 That the Father is a person--the Son a person--and the Holy Spirit a person--also speaking
 of them as "`plurality in unity,`" and "`plurality in essence,`" terms quite as objectionable
 and unscriptural as "`Trinity in unity,`" if not more so.
 
+[.discourse-part]
 That there is a "`separate state,`" a "`mansion of separate
 spirits,`" between this life and the one of eternal duration.
 That these same bodies will rise in the resurrection, as spiritual bodies.
 
+[.discourse-part]
 That the first-day of the week is "`the Christian Sabbath`"--a "`hallowed day.`"
 
+[.discourse-part]
 That daily prayer in words and on the knees,
 ought to be taught to children as a "`habit.`"
 
+[.discourse-part]
 That all mankind are in "`punishable guilt`" in consequence
 of the transgression of our first parents;
 "`inheriting a nature injected with sin,`" and are "`from birth vile and polluted essentially,
 the common doctrine of original sin.`"^
 footnote:[For proofs of his advocating those sentiments
-see An Examination of His Life and Writings,
-Philadelphia, 1856; also the Appeal for the Ancient Doctrines,
-and John Wilbur`'s Exposition.]
+see _An Examination of His Life and Writings,_
+Philadelphia, 1856; also the _Appeal for the Ancient Doctrines,_
+and _John Wilbur`'s Exposition._]
+
+--
 
 Besides the writings of J. J. Gurney,
 which exerted a powerful influence in modifying the views and practices
@@ -974,7 +1026,7 @@ Ann Jones expressed her cordial unity with S. Grubb`'s remarks;
 and similar views were expressed by George Jones, John Grubb, Abram Fisher,
 Joshua Treffry, and several other men and women Friends.
 An attempt was then made by Josiah Forster and Hannah C. Backhouse,^
-footnote:[See Proceedings of London Yearly Meeting of Friends, 1837.
+footnote:[See _Proceedings of London Yearly Meeting of Friends,_ 1837.
 London: James Dinnis, 62 Paternoster Row.
 The writer, in quoting from this and other similar publications,
 only takes them as containing statements of facts, now become matter of history,
@@ -1019,7 +1071,7 @@ Elizabeth Dudley spoke warmly in support of the proposed visit.
 So did E. Fry, E. J. Fry, Samuel Gurney, and William Forster.
 Several on the other hand objected to it; others again spoke in approbation;
 but the opposition is said to have continued to the last.^
-footnote:[Proceedings of London Yearly Meeting, 1837, Dinnis, p. 11.]
+footnote:[_Proceedings of London Yearly Meeting,_ 1837, Dinnis, p. 11.]
 
 After considerable time it was proposed by Jonathan Backhouse and Josiah Forster,
 that a committee should be appointed, to draw up a certificate;
@@ -1035,7 +1087,7 @@ to which the committee presented their essay of a certificate,
 so great was the difficulty in coming to a conclusion,
 that it is said the meeting continued for nearly five hours,
 mainly occupied with this matter.^
-footnote:[Proceedings, published by Dinnis, p. 73.]
+footnote:[_Proceedings,_ published by Dinnis, p. 73.]
 Charlotte Burgess, of Leicester, early in the sitting,
 solemnly warned those who were learned and rich as to this world,
 to submit to the sword of the Lord,
@@ -1056,7 +1108,7 @@ John Barclay, Jacob Green, Catherine Abbot, Sarah Harris, Abigail Dockray,
 and several others, expressed decided objections.
 The subject of J. J. Gurney`'s writings was again and again brought forward,
 as an obstacle, and a conference with him on that subject was proposed.^
-footnote:[Proceedings, published by Dinnis, p. 74.]
+footnote:[_Proceedings,_ published by Dinnis, p. 74.]
 Jonathan Backhouse, however, turned this aside,
 by alleging that this was not the subject before the meeting.
 A number of members approved of his being set at liberty; among whom John Allen,
@@ -1073,7 +1125,7 @@ that "`The Spirit suffereth it not now.`"
 The same parties, generally, who had urged on the proposal at the former sitting,
 with some others, gave at this time their approval of the certificate;
 but the opposition to the concern is said to have been unabated to the last.^
-footnote:[Ibid, p. 75.]
+footnote:[_Ibid,_ p. 75.]
 It has been said that as many as twenty members of that
 meeting manifested their objection to the proposal;
 and it is undeniable that a number more were exceedingly tried and afflicted with it,
@@ -1127,7 +1179,7 @@ footnote:[The same flimsy objection,
 to "`going behind his certificate,`" had been strongly urged, years before,
 in the case of Elias Hicks.
 Yet the case of John Hewlett, of Rhode Island,
-mentioned in Beck and Ball`'s Account of London Friends`' Meetings, page 81,
+mentioned in _Beck and Ball`'s Account of London Friends`' Meetings,_ page 81,
 as having occurred in the early part of the eighteenth century,
 shows that such a practice (where a certificate was wrongfully given,
 or did not set forth the case correctly) was then considered right.
@@ -1265,7 +1317,7 @@ principles;`" so as to open his way among friends in this land.
 "`But instead of giving any encouragement of doing so,
 he entered into a prompt defence and justification of all his writings,
 without exception.`"^
-footnote:[Journal and Correspondence of John Wilbur, p. 276.]
+footnote:[_Journal and Correspondence of John Wilbur,_ p. 276.]
 In consequence of this result of the interview,
 J+++.+++ Wilbur believed it to be his religious duty, as way opened for it,
 to caution his fellow members against the unsound doctrines to be found in those publications.
@@ -1282,11 +1334,13 @@ and Thomas took the opportunity thus afforded,
 to declare to him his dissatisfaction with his writings.
 The following is the substance of what passed between them,
 after T. B. Gould had opened the subject, ^
-footnote:[Life and Letters of T. B. Gould, p. 91, etc.]
+footnote:[_Life and Letters of T. B. Gould,_ p. 91, etc.]
 
-J+++.+++ J. Gurney: "`Oh, my dear friend, I did not come here on that account at all;
-I only came to manifest my love for thee and the family.`"
+[.discourse-part]
+_J+++.+++ J. Gurney:_ Oh, my dear friend, I did not come here on that account at all;
+I only came to manifest my love for thee and the family.
 
+[.offset]
 Referring to his writings,
 
 T+++.+++ B. Gould said, "`There are many sentiments in them,
@@ -1295,40 +1349,51 @@ I am exceedingly dissatisfied with them.
 Wilt thou acknowledge that there is unsoundness in them,
 and by so doing remove the obstructions to thy service, that exist in my mind?`"
 
-J+++.+++ J. Gurney: "`All that I have to say to thee, my dear friend, is,
+[.discourse-part]
+_J+++.+++ J. Gurney:_ All that I have to say to thee, my dear friend, is,
 that I have nothing to say on the subject of my writings.
 I do not consider it to be my present business; I am here on another concern,
-and my mind is very much exercised with it.`"
+and my mind is very much exercised with it.
 
-T+++.+++ B. Gould:
-"`The minds of Friends in this country are very uneasy in
+[.discourse-part]
+_T+++.+++ B. Gould:_
+The minds of Friends in this country are very uneasy in
 relation to much which thou hast written--as well as myself--and
 it is a very serious obstruction to thy work and service.
 If thou wilt acknowledge that there is unsoundness in them, and so remove the offence,
-I believe there are those who would receive thee with open arms.`"
+I believe there are those who would receive thee with open arms.
 
-J+++.+++ J. Gurney: "`My dear, I feel a great deal of love for thee,
+[.discourse-part]
+_J+++.+++ J. Gurney:_ My dear, I feel a great deal of love for thee,
 and I did when thou spoke in meeting the other day.
 I admire thy candor and uprightness;
 but I must decline entering upon the subject of my writings; they are very extensive;
 and all I have to say to thee is, that it is none of my business, and,
-to tell thee the truth, I do not consider it to be thine.`"
+to tell thee the truth, I do not consider it to be thine.
 
-T+++.+++ B. Gould: "`If thou bring thy gift to the altar,`" etc.
-+++[+++quoting the text]. "`Thou ought to conform to this precept,
+[.discourse-part]
+_T+++.+++ B. Gould:_ If thou bring thy gift to the altar, etc.
++++[+++quoting the text]. Thou ought to conform to this precept,
 and deny such parts of thy writings as have given
 uneasiness to me and a multitude of other Friends.
-I do consider it thy duty to satisfy both me and them.`"
+I do consider it thy duty to satisfy both me and them.
+
+[.small-break]
+'''
 
 J+++.+++ J. Gurney again made large professions of love for him, put one arm around him,
 and laid the other hand on his knee, in a fondling manner, and said, "`All I can say is,
 to recommend thee to the Master,
 to whom thou must leave me;`" and commenced some remarks by way of preaching to him.
 
-T+++.+++ B. Gould: "`It has been required of me to do what I have done.
+[.discourse-part]
+_T+++.+++ B. Gould:_ It has been required of me to do what I have done.
 My mind has been very deeply exercised on the subject of
 the unsound doctrines promulgated by thy books amongst us.
-It has deprived me of much sleep, and even affected my health.`"
+It has deprived me of much sleep, and even affected my health.
+
+[.small-break]
+'''
 
 He then appealed tenderly to him to take away the ground of offence,
 and thus open the way, which was now entirely closed.
@@ -1481,7 +1546,7 @@ On the 1st of the first month, 1839, Daniel Wheeler,
 having spent about four years in visiting the islands of the Pacific,
 and various parts of the Southern Ocean, arrived at New York,
 on a visit to Friends in North America.^
-footnote:[Memoirs of D. Wheeler, London, 1842, p. 691.]
+footnote:[_Memoirs of D. Wheeler, London,_ 1842, p. 691.]
 Although he had, during his absence in the South Seas,
 had a sense that this journey would be required of him when the other was accomplished,
 and of course at that time knew nothing of the intended visit of J. J. Gurney to America,
@@ -1527,7 +1592,7 @@ from the censure of some "`in our Society,`" who were rejecting an acquaintance
 for themselves with "`the Master`'s voice`" inwardly revealed,
 and who, as he said,
 were "`such as highly disapproved of John Wilbur`'s letters published by G. Crosfield.`"^
-footnote:[Journal and Correspondence of John Wilbur, p. 204. See p. 240, of this volume.]
+footnote:[_Journal and Correspondence of John Wilbur,_ p. 204. See p. 240, of this volume.]
 
 And in 1839, just a month after his arrival in America,
 he wrote to John Wilbur affectionately from Philadelphia,
@@ -1540,7 +1605,7 @@ coming to the heartfelt knowledge of this very gospel within themselves`"--"`fin
 it more palatable to the creature to be fed with pleasant food from the tree of knowledge,
 than to have the attention turned to that holy principle
 of gospel light which shines in every heart.`"^
-footnote:[J. Wilbur`'s Journal, etc., p. 244.]
+footnote:[_J. Wilbur`'s Journal,_ etc., p. 244.]
 
 Daniel Wheeler was taken sick during his return voyage from England,
 in the spring of 1840, whither he had gone from America, the previous autumn,
@@ -1597,7 +1662,7 @@ which declared that from his twenty-fourth year,^
 footnote:[His "`first book "`was published, according to his own statement,
 when he was thirty years of age,
 so that the above declaration must include all his books.
-See his Memoirs, vol.
+See his _Memoirs,_ vol.
 i p. 101.]
 he "`maintained, with holy boldness, the principles and testimonies of the Society,
 through the remainder of his life and that in all his undertakings
