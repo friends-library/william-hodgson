@@ -418,8 +418,7 @@ in pursuance of his constant practice of separating Christ within
 us from our Lord Jesus Christ who appeared in the prepared body.
 He said:
 
-[quote,, "`The Quaker, vol.
-i, p. 222.`"]
+[quote, , "The Quaker, vol. i, p. 222."]
 ____
 
 Now don`'t let your attention be turned outward,
@@ -482,8 +481,7 @@ ____
 [.offset]
 At a meeting in Rose Street, New York, fifth month 25th, 1828, he thus expressed himself:
 
-[quote,, "`The Quaker, vol.
-3, p. 192.`"]
+[quote, , "The Quaker, vol. 3, p. 192."]
 ____
 What life is it that is an atonement for the sins of mankind?
 That very life and being that has committed sin, and opposed God.
@@ -598,8 +596,7 @@ who reject the propitiatory sacrifice of our Lord Jesus Christ.
 
 Preaching at Cherry Street meeting, Philadelphia, fourth month 13th, 1828, he said:
 
-[quote,, "`The Quaker, vol.
-iii, p. 94.`"]
+[quote, , "The Quaker, vol. iii, p. 94."]
 ____
 
 Now I do not consider faith and belief, merely, to be any part of religion;
@@ -724,8 +721,7 @@ ____
 [.offset]
 In a sermon preached at Horsham, Pa., on the 16th of twelfth month, 1826, he said:
 
-[quote,, "`The Quaker, vol.
-iv, p. 27.`"]
+[quote, , "The Quaker, vol. iv, p. 27."]
 ____
 
 And what was that?
@@ -737,8 +733,7 @@ ____
 [.offset]
 And at Middletown, on the 19th of twelfth month, 1826, he said:
 
-[quote,, "`The Quaker, vol.
-iv, p. 203.`"]
+[quote, , "The Quaker, vol. iv, p. 203."]
 ____
 
 I say there never was any such tree, nor any such garden, outwardly,
@@ -785,8 +780,7 @@ we may gather his views from the following assertion
 made in a sermon preached at the Falls,
 in Bucks County, Pa., twelfth month 20th, 1826:
 
-[quote,, "`The Quaker, vol.
-ii, p. 266.`"]
+[quote, , "The Quaker, vol. ii, p. 266."]
 ____
 
 I certainly know that I have never felt any loss from Adam`'s sin.
@@ -3001,7 +2995,7 @@ and thus clear the Society from all responsibility for his sentiments and course
 The Testimony is an important historic document, taking a view of the whole case.
 It is therefore here transcribed.
 
-[.embedded-content-document.testimomy]
+[.embedded-content-document.testimony]
 --
 
 [.blurb]
