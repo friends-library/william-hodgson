@@ -1,6 +1,7 @@
 == Chapter IV.
 
-The Hicksian, Or Rationalistic Schism.
+[.blurb]
+=== The Hicksian, Or Rationalistic Schism.
 
 Elias Hicks was born at Hempstead, on Long Island, in the year 1748,
 and was from his birth a member of the Society of Friends.
@@ -26,7 +27,7 @@ and besought him to retrace his steps,
 The individual addressed, it appears,
 was eventually favored to see and condemn his error,
 and was restored into unity with the Society.^
-footnote:[See The Friend, Philadelphia, vol.
+footnote:[See _The Friend,_ Philadelphia, vol.
 ii, p. 208.]
 It is probable, however,
 that the inward work of purification had stopped short of a going on to completion;
@@ -56,7 +57,7 @@ You will be dragged from your seats.`"
 We do not hear that he mentioned any names on that occasion,
 but he lived to see the fulfillment in the outrageous conduct of
 the followers of Elias Hicks there at the time of the separation.^
-footnote:[See The Friend, vol.
+footnote:[See _The Friend,_ vol.
 ii, p. 134. In the Yearly Meeting of New York, in 1828,
 after the separation had taken place, Daniel Haviland declared, that,
 more than thirty years before that date, when the Yearly Meeting was held at Westbury,
@@ -66,7 +67,7 @@ sitting in a room in a Friend`'s house where he lodged, one of them,
 seeing him go by the room-door, called him in, and pointing to Elias Hicks,
 who was in another room, said to Daniel Haviland,
 "`That man will some day be a troubler in Israel.`"
-See Journal of T. Shillitoe, vol.
+See _Journal of T. Shillitoe,_ vol.
 ii, p. 313.]
 About the year 1817 the grounds for such anxiety became more apparent.
 He displayed an unwholesome disposition to an assumption of high spiritual attainments,
@@ -92,7 +93,7 @@ body) from Christ within (in his gracious operations in the soul of man).
 
 The same exclusiveness in regard to the outward manifestation,
 is to be found also in his remarks^
-footnote:[See E. Hicks`'s Journal, pp.
+footnote:[See _E. Hicks`'s Journal,_ pp.
 304 and 329.]
 dated 8th of third month, 1818;
 where in speaking of the "`Lamb slain from the foundation of the world,`" he
@@ -186,7 +187,7 @@ was distinctly acknowledged by him to be "`in general very correct;`"^
 footnote:[See his letter to the stenographer, M. T. C. Gould, dated third month 28th,
 1828: "`I have read most of the discourses which thou hast published,
 and have found them in general very correct.`"
-The Quaker, vol.
+_The Quaker,_ vol.
 iv, p vii.]
 there can be no reasonable ground for doubt as to the sentiments being his own,
 as expressed; and especially as some,
@@ -217,16 +218,23 @@ we may take the following out of many passages of similar tendency.
 In a sermon preached at Fallsington, in Pennsylvania, on the 11th of twelfth month, 1824,
 after speaking of our Lord Jesus Christ as the Son of man, he says:
 
+[quote, , "Philadelphia Sermons, p. 251."]
+____
+
 Here now we learn as rational beings, by his own testimony,
 what it is that makes a son of God.
 We see that this flesh and blood never could have been, in a strict sense,
 the Son of God, but a creature, created by God, by his power:
 because spirit and matter cannot be united together and make a being,
 nor make a son of God.
-(Philadelphia Sermons, p. 251.)
+____
 
+[.offset]
 Again, in a sermon preached at Arch Street Meeting, in Philadelphia,
 on the 14th of eleventh month, 1824, he said:
+
+[quote, , "Philadelphia Sermons, p. 10."]
+____
 
 Who was his Father?
 He was begotten of God.
@@ -241,28 +249,39 @@ By the analogy of reason, Spirit cannot beget a material body,
 because the thing begotten must be of the same nature with its father.
 Spirit cannot beget anything but spirit; it cannot beget flesh and blood.
 No, my friends, it is impossible.
-(Philadelphia Sermons, p. 10.)
+____
 
+[.offset]
 Again, in his sermon at Fallsington, on the 11th of twelfth month, 1824, he said,
 in reference to Christ,
+
+[quote, , "Philadelphia Sermons, p. 253."]
+____
 
 Then it was not his grace,
 but the grace of God communicated to him as it was
 communicated to the rest of Abraham`'s children,
 to every one in a sufficient degree to enable them
 to come up to the law and commandments given them.
-(Philadelphia Sermons, p. 253.)
+____
 
+[.offset]
 Preaching at Staunton, Delaware, eleventh month 20th, 1826, he said:
+
+[quote, , "The Quaker, vol. iv, p. 84."]
+____
 
 Jesus Christ the Saviour of the soul, never was seen by the eyes of men,
 and forever will be the same power of God,
 and same divine anointing with which Jesus was anointed.
-(The Quaker, vol.
-iv, p. 84.)
+____
 
+[.offset]
 Preaching at another time, he said,
 in regard to the Spirit descending on Jesus at his baptism by John:
+
+[quote, , "New York Sermons, p. 85."]
+____
 
 Here now we find, that having an additional power,
 he had also additional trials to encounter;
@@ -270,18 +289,26 @@ he was brought to see the trials and temptations that awaited him,
 arising from the propensities of his human nature;
 for he stood in need of all things in the same manner as we do, to eat, to drink,
 and to seek knowledge.
-(New York Sermons, p. 85.)
+____
 
+[.offset]
 Again, in the Fallsington sermon, already quoted from, he said:
+
+[quote, , "Philadelphia Sermons, p. 256."]
+____
 
 Now, let us pause a little, and consider what is here meant.
 Can it be supposed that he was driven into an outward wilderness?
 Or shall we not suppose that he was brought, by the power of divine light,
 to see the wilderness state of his own mind?
-(Philadelphia Sermons, p. 256.)
+____
 
+[.offset]
 In Philadelphia, on the 1st of twelfth month, 1824, at the Western Meetinghouse,
 after speaking of Jesus as "`their Saviour,`" meaning the Jews, he said:
+
+[quote, , "Philadelphia Sermons, p. 50."]
+____
 
 He it was that saved them from their outward sicknesses.
 He was only an outward Saviour, that healed their outward diseases,
@@ -292,9 +319,13 @@ and cleanse them from all their inward pollutions; that thing of God,
 that thing of eternal life.
 It was the soul that wanted salvation; but this no outward Saviour could do,
 no external Saviour could have any hand in it.
-(Philadelphia Sermons, p. 50.)
+____
 
+[.offset]
 Preaching at Trenton, on the 12th of twelfth month, 1824, he declared:
+
+[quote, , "Philadelphia Sermons, p. 295."]
+____
 
 Not the name of Jesus Christ will save us.
 No, but that light and life that was in Him--that was in the beginning with God,
@@ -302,40 +333,62 @@ by which the worlds were made, and that light, it is declared,
 enlighteneth every man that cometh into the world.
 Therefore, every one of us has the same light and life, according to his necessity,
 as Jesus Christ had, in his proportion.
-(Philadelphia Sermons, p. 295.)
+____
 
+[.offset]
 In a printed reply to a letter of Thomas French,
 detailing his unsound preaching at Purchase Quarterly Meeting, in 1828, Elias Hicks says,
 in reply to one of the charges:
 
+[quote]
+____
+
 My declaration was this, that Jesus Christ, while in that outward manifestation,
 walking up and down in Jewry, in the course of his outward ministry,
 never made a Christian.
+____
 
+[.offset]
 And a few sentences afterwards he acknowledges:
+
+[quote]
+____
 
 I also said,
 there was no external mediator between God and his creature man under the gospel.
+____
 
+[.offset]
 In the New York Sermons we are told that he said:
+
+[quote, , "New York Sermons, p. 16."]
+____
 
 But it is not the righteousness of another that can save us.
 It must be done by the individual himself, or he cannot be the elect of the Lord;
 for he is of the elect who elects God.
 Jesus elected his heavenly Father as his rule and guide.
 So also must we, etc.
-(New York Sermons, p. 16.)
+____
 
+[.offset]
 In his sermon at Fallsington, again, on the 11th of twelfth month, 1824,
 he said as follows:
+
+[quote, , "Philadelphia Sermons, p. 266."]
+____
 
 Oh may we press forward to the mark for the prize of the high calling
 (omitting "`in Christ Jesus our Lord`"). It is attainable to us;
 as certainly as it was attainable by Jesus Christ,
 so certainly it is attainable by every one of his faithful followers.
-(Philadelphia Sermons, p. 266.)
+____
 
+[.offset]
 At another time and place, he said:
+
+[quote, , "New York Sermons, p. 96."]
+____
 
 This portion of his Spirit being given to us to profit with,
 it will continue to operate till it leavens the whole lump.
@@ -348,14 +401,20 @@ He knew that he would not embezzle, or make a wrong use of these treasures;
 but that he would wait to know his Father`'s will,
 before he would dispose of the things which were opened to his view.
 Now, here is the full and complete divinity of Jesus Christ.
-From what Jesus himself said, he was not God! (New York Sermons, p. 96.)
+From what Jesus himself said, he was not God!
+____
 
+[.offset]
 At Trenton, on the 12th of twelfth month, 1824, in speaking of Moses and the prophets,
 Jesus Christ and His apostles he added immediately:
 
-He never can set any of these above us, because if he did, he would be partial.
-(Philadelphia Sermons, p. 292.)
+[quote, , "Philadelphia Sermons, p. 292."]
+____
 
+He never can set any of these above us, because if he did, he would be partial.
+____
+
+[.offset]
 Preaching at Wilmington, Del+++.+++, on the 3rd of twelfth month, 1826,
 he made use of the following unjustifiable insinuation against
 the correctness of our translation of the New Testament,
@@ -363,14 +422,17 @@ in pursuance of his constant practice of separating Christ within
 us from our Lord Jesus Christ who appeared in the prepared body.
 He said:
 
+[quote, , "The Quaker, vol. i, p. 222."]
+____
+
 Now don`'t let your attention be turned outward,
 from the expression of these words +++[+++"`that Jesus Christ is in you,
 except ye be reprobates`"],
 for very probably the translators have not given it right to us.
 Because the outward Christ never could be, or can be, in us.
-(The Quaker, vol.
-i, p. 222.)
+____
 
+[.offset]
 How can we possibly doubt,
 in reading the above extracts (which might be indefinitely multiplied),
 that his purpose was a persistent one, to degrade our Blessed Lord Jesus Christ,
@@ -380,6 +442,9 @@ In like manner, respecting the Atonement, or Propitiatory Sacrifice on the Cross
 he thus expressed himself to Dr. N. Shoemaker, of Philadelphia, in a letter,
 dated third mouth 31st, 1823, and afterwards printed:
 
+[quote]
+____
+
 Did God send Him into the world purposely to suffer death by the hands of wicked men?
 By no means; but to live a righteous and godly life, etc.
 If this be true, what becomes of the saying of the apostle Peter?
@@ -388,15 +453,25 @@ ye have taken,
 and by wicked hands have crucified and slain;`" or of his own gracious declaration:
 "`Even as the Son of man came, not to be ministered unto, but to minister,
 and to give his life a ransom for many.`"
+____
 
+[.offset]
 Again, in the same letter:
+
+[quote]
+____
 
 But I do not consider that the crucifixion of the outward body of flesh and blood of
 Jesus on the cross was an atonement for any sins but the legal sins of the Jews;
 for as their law was outward, so their legal sins and their penalties were outward,
 and these could be atoned for by an outward sacrifice, etc.
+____
 
+[.offset]
 And again, in the same letter, how awful the following expressions!
+
+[quote]
+____
 
 Surely, is it possible,
 that any rational being that has any right sense of justice or mercy,
@@ -406,32 +481,48 @@ would it not prove that he stood in direct opposition
 to every principle of justice and honesty,
 of mercy and love, and show himself to be a poor selfish creature,
 and unworthy of notice?
+____
 
+[.offset]
 At a meeting in Rose Street, New York, fifth month 25th, 1828, he thus expressed himself:
+
+[quote, , "The Quaker, vol. 3, p. 192."]
+____
 
 What life is it that is an atonement for the sins of mankind?
 That very life and being that has committed sin, and opposed God.
-(The Quaker, vol.
-3, p. 192.)
+____
 
+[.offset]
 Respecting The Holy Scriptures, in a sermon preached at Abington, Pa., twelfth month 6th,
 1824, he thus expressed himself:
+
+[quote, , "Philadelphia Sermons, p. 129."]
+____
 
 One would suppose that to a rational mind,
 the hearing and reading of the instructive parables of Jesus
 would have a tendency to reform and turn men about to truth,
 and lead them on in it.
 But they have no such effect.
-(Philadelphia Sermons, p. 129.)
+____
 
+[.offset]
 Again, he said, in the same sermon:
+
+[quote, , "Philadelphia Sermons, p. 139."]
+____
 
 They have been so bound up in the letter, that they think they must attend to it,
 to the exclusion of everything else.
 Here is an abominable idol worship, of a thing without any life at all, a dead monument.
-(Philadelphia Sermons, p. 139.)
+____
 
+[.offset]
 And again, in the sermon at Trenton, twelfth month 12th, 1824:
+
+[quote, , "Philadelphia Sermons, p. 315."]
+____
 
 But here we see that the people have been depending upon the letter.
 Oh, what mischief has this done in Christendom!
@@ -444,7 +535,7 @@ But look back at Christendom at its rise.
 Here we see Jesus calling them to an account for attending to the Scriptures;
 and we see in a short time after, that by application to these books contention entered,
 and divided Christian professors.
-(Philadelphia Sermons, p. 315.)
+____
 
 The expression in this passage,
 of "`1800 years ago,`" refers of course to the New Testament history; of which he says,
@@ -457,7 +548,7 @@ after alluding to certain "`non-essentials,`" held by religious professors,
 "`And these are all stumbling-blocks,
 and perhaps there is not a greater one than the Scriptures, called the Bible,
 or the Old and New Testaments bound up in a book.`"
-(The Quaker, vol.
+(_The Quaker,_ vol.
 iv, p. 138.)
 
 Respecting what he called Religion,
@@ -466,6 +557,9 @@ in Philadelphia, on the 1st of twelfth month, 1824, a remarkable definition,
 which sounds more like the effusion of a heathen philosopher than of a minister of Christ.
 Though long, it will be best to present the whole passage, to show its deliberate aim.
 He said:
+
+[quote, , "Philadelphia Sermons, p. 44."]
+____
 
 All that we have to do, is to keep every desire regulated by the standard of truth;
 and as we keep up this engagement, we are improving the moments as they pass.
@@ -496,7 +590,7 @@ and whenever they passed by one another,
 they would be impressed by the one Spirit to become one body,
 and made to drink into the one Spirit.
 This I call religion; but I consider no profession of religion to be religion at all.
-(Philadelphia Sermons, p. 44.)
+____
 
 So by this we may go on sinning, even without repenting, only we must take care,
 as "`prudent bookkeepers,`" to make it all up every
@@ -512,15 +606,21 @@ who reject the propitiatory sacrifice of our Lord Jesus Christ.
 
 Preaching at Cherry Street meeting, Philadelphia, fourth month 13th, 1828, he said:
 
+[quote, , "The Quaker, vol. iii, p. 94."]
+____
+
 Now I do not consider faith and belief, merely, to be any part of religion;
 because belief is not a voluntary act of the human mind.
-(The Quaker, vol.
-iii, p. 94.)
+____
 
+[.offset]
 Respecting Heaven and Hell, he held as follows: In a letter from a Friend, of Ohio,
 alluded to above, he had been charged with having said,
 among many other unsound declarations,
 at Purchase Quarterly Meeting on the 1st of fifth month, 1828:
+
+[quote]
+____
 
 All the heaven and hell there was,
 was in us,--we received our rewards and punishments every day; our heaven and hell daily,
@@ -530,15 +630,21 @@ this was his heaven; we saw him happy, he was then in heaven; and then he would,
 when he got sober, feel miserable; this was his hell;
 and if there was any heaven or hell hereafter,
 it was something we could know nothing about.
+____
 
+[.offset]
 In his printed reply, defending himself from some of the charges in that letter,
 he does not deny having expressed himself as above, but, in degree at least, admits it,
 by the following retort upon his accuser:
+
+[quote]
+____
 
 And as to what he says about heaven or hell,
 I will ask him where he has found any heaven or hell without him?
 I should like to hear him describe the shape and form of them,
 and in what region or place they are situated?
+____
 
 And in a sermon given in the New York edition,
 he declared that "`heaven is everywhere where God and his rational creatures are.
@@ -549,15 +655,22 @@ It is not a local place by any means.`"
 Respecting the Devil, and fallen angels, his belief was expressed as follows:
 In a sermon preached at Byberry, Pa., on the 8th of twelfth month, 1824, he said:
 
-"`But people are too generally looking outwardly to find God,
+[quote, , "Philadelphia Sermons, p. 163."]
+____
+
+But people are too generally looking outwardly to find God,
 and in this outward looking they are told about a devil--some monstrous
 creature--some self-existing creature--that is terrible in power.
 Now all this seeking to know God, and this devil, or the serpent without,
 is the work of darkness, superstition, and tradition.
 It hath no foundation; it is all breath and wind without the power.`"
-(Philadelphia Sermons, p. 163.)
+____
 
+[.offset]
 Again, in the same sermon, he said:
+
+[quote, , "Philadelphia Sermons, p. 166."]
+____
 
 What is the devil?
 It is that cunning,
@@ -565,23 +678,31 @@ twining wisdom--that serpentine wisdom of man It
 is nothing but excess that makes the drunkard.
 Here now we see where sin begins; here we see where devils are created--by man himself;
 he is the author of them all, as he is the only fallen angel upon earth.
-(Philadelphia Sermons, p. 166.)
+____
 
+[.offset]
 In like manner, at Trenton, on the 12th of twelfth month, 1824, he said:
+
+[quote, , "Philadelphia Sermons, p. 293."]
+____
 
 Who are the devils?
 Apostate men and women who go contrary to God.
 They are all devils.
 Everything that is in opposition to the will of God is a devil.
-(Philadelphia Sermons, p. 293.)
+____
 
+[.offset]
 Of the same tenor is what he said at the Northern District Meetinghouse,
 in Philadelphia, on the 16th of eleventh month, 1824, as follows:
+
+[quote, , "Philadelphia Sermons, p. 37."]
+____
 
 We may remember what the apostle declared, that Satan,
 the name given to that tempting disposition in us, which is the man of sin,
 self and self-will in man; there is no other man of sin that I ever knew or found.
-(Philadelphia Sermons, p. 37.)
+____
 
 Had he forgotten, while making these bold assertions,
 the distinct account in the New Testament,
@@ -598,70 +719,99 @@ or else blasphemed his Lord and Master!
 Respecting the Scripture account of the Garden of Eden: On the 5th of twelfth month,
 1824, at a meeting at Germantown, he said:
 
+[quote, , "Philadelphia Sermons, p. 113."]
+____
+
 What is Eden`'s Garden, my friends?
 It is the place where the Lord God is pleased to commune with his creatures face to face,
 and nowhere else.
 It is everywhere where God is.
-(Philadelphia Sermons, p. 113.)
+____
 
+[.offset]
 In a sermon preached at Horsham, Pa., on the 16th of twelfth month, 1826, he said:
+
+[quote, , "The Quaker, vol. iv, p. 27."]
+____
 
 And what was that?
 It was a state of communion with the Holy One.
 It was no located spot, my friends: the Garden of Eden, so called,
 was never located on earth.
-(The Quaker, vol.
-iv, p. 27.)
+____
 
+[.offset]
 And at Middletown, on the 19th of twelfth month, 1826, he said:
+
+[quote, , "The Quaker, vol. iv, p. 203."]
+____
 
 I say there never was any such tree, nor any such garden, outwardly,
 as is here represented, but it is a figure or allegory.
-(The Quaker, vol.
-iv, p. 203.)
+____
 
+[.offset]
 And at Byberry, on the 8th of twelfth month, 1824, he said:
+
+[quote, , "Philadelphia Sermons, p. 167."]
+____
 
 And what were the trees in the Garden of Eden?
 They were the propensities of man in his animal body.
 These are the trees that will grow if they are not kept down by pruning.
-(Philadelphia Sermons, p. 167.)
+____
 
+[.offset]
 In a sermon included in the New York edition, he spoke of:
+
+[quote, , "New York Sermons, p. 88."]
+____
 
 The same covenant of light and life which he made with our
 first parents when placed in the paradise of God;
 which was no particular local spot, but a state and condition of the soul,
 which was suitable to have communion with its Maker.
-(New York Sermons, p. 88.)
+____
 
+[.offset]
 And (marvelous confusion!) in preaching at Trenton, on the 12th of twelfth month, 1824,
 he declared:
 
+[quote, , "Philadelphia Sermons, p. 317."]
+____
+
 For God must be the tree of the knowledge of good and evil.
 There was no tree of the knowledge of good and evil but God himself.
-(Philadelphia Sermons, p. 317.)
+____
 
+[.offset]
 Respecting the fall of man,
 we may gather his views from the following assertion
 made in a sermon preached at the Falls,
 in Bucks County, Pa., twelfth month 20th, 1826:
 
+[quote, , "The Quaker, vol. ii, p. 266."]
+____
+
 I certainly know that I have never felt any loss from Adam`'s sin.
 I have never felt anything to induce me to commit sin,
 but a desire in myself to gratify my propensities beyond
 the design of heaven in giving those propensities to me.
-(The Quaker, vol.
-ii, p. 266.)
+____
 
+[.offset]
 Respecting reason, and its supremacy,
 so much vaunted by the French revolutionary school of philosophers falsely so called,
 he said, at a meeting at Newtown, Pa., on the 9th of twelfth month, 1824:
 
+[quote, , "Philadelphia Sermons, p. 207."]
+____
+
 I say, if Antichrist brings anything up which has a counterfeit appearance,
 our reason is a balancing principle.
-(Philadelphia Sermons, p. 207.)
+____
 
+[.offset]
 In a printed letter to Dr. Edwin A. Atlee, of Philadelphia,
 defending himself against some charges of having expressed unsound views
 in an interview which Anna Braithwaite had with him at his house in 1824
@@ -671,17 +821,26 @@ he makes the following deliberate assertion;
 a dogma which was caught up by his followers and echoed
 throughout the land as if it were a fundamental truth:
 
+[quote]
+____
+
 I admit that I did assert, and have long done it,
 that we cannot believe what we do not understand.
+____
 
+[.offset]
 And yet, in preaching at the Western meetinghouse, Philadelphia,
 on the 1st of twelfth month, 1824, he could so far forget his adulation of Reason,
 as to utter the following indiscriminate fulmination against those who
 are making the most constant efforts to improve and promote it by knowledge:
 
+[quote, , "Philadelphia Sermons, p. 53."]
+____
+
 Oh, that men of science might be aware,
 what a curse they are to the inhabitants of the earth!
-what a great curse! (Philadelphia Sermons, p. 53.)
+what a great curse!
+____
 
 The foregoing exhibit of only a few of his own authenticated
 words places it beyond any reasonable doubt,
@@ -724,7 +883,7 @@ were no attempts made to arrest his downward course, by faithful brethren and si
 who were aware of his dereliction,
 and were concerned for his safety and that of the Society?
 One who had good opportunities of knowing, has testified,^
-footnote:[See Journal of Joseph Hoag (D. Hestori`'s edition), page 289.]
+footnote:[See _Journal of Joseph Hoag_ (D. Hestori`'s edition), page 289.]
 that "`much tender advice had been bestowed upon him from time to time,
 to save him from running out to nothing, yea, worse than nothing, but without effect.
 All this time he pretended great love and concern for the
@@ -741,7 +900,7 @@ that his adherents would not listen to any complaint against him.
 And when objections were offered to his traveling as a minister, they were overruled,
 "`with threats that, if the objectors opposed his doctrines,
 they should be taken up by the overseers.`"^
-footnote:[See S. Parson`'s testimony in "`Foster`'s Report,`" vol I, page 176.]
+footnote:[See S. Parson`'s testimony in _Foster`'s Report,_ vol I, page 176.]
 It appears also that Thomas Willis, a minister of Jericho, L. I.,
 was among those who honestly and plainly labored with him respecting his errors.
 This was at various times between the years 1818 and 1821, by interviews and letters.
@@ -785,11 +944,16 @@ of good and evil being "`the only evil in space,`" thus making the Almighty,
 who, he had himself said, planted the tree, the author of all evil, Elias said,
 "`What other evil is there then?`"
 
-J+++.+++ Hoag.
-"`The Bible tells of a serpent.`"
+[.discourse-part]
+_J+++.+++ Hoag._
+The Bible tells of a serpent.
 
-Elias.
-"`What! a Snake?`"
+[.discourse-part]
+_Elias._
+What! a Snake?
+
+[.small-break]
+'''
 
 J+++.+++ Hoag now endeavored to convince him, by appealing to his own experience,
 of the existence of an evil spirit, tempting mankind to wrong.
@@ -797,24 +961,31 @@ His words came at length with so much cogency against the flimsy defences of Eli
 that he acknowledged,
 "`I do not mean to discard the idea that there is an evil spirit which tempts us.`"
 
-J+++.+++ Hoag.
-"`What dost thou then mean to deny?
-Thou certainly denied it in thy preaching.`"
+[.discourse-part]
+_J+++.+++ Hoag._
+What dost thou then mean to deny?
+Thou certainly denied it in thy preaching.
 
-Elias.
-"`I mean to deny that there is a great mawking devil, with one oxfoot and one manfoot,
-and five eyes, which appears to people to scare them!`"
+[.discourse-part]
+_Elias._
+I mean to deny that there is a great mawking devil, with one oxfoot and one manfoot,
+and five eyes, which appears to people to scare them!
 
-J+++.+++ Hoag.
-"`I am disappointed in Elias Hicks.
+[.discourse-part]
+_J+++.+++ Hoag._
+I am disappointed in Elias Hicks.
 I always thought him to be a man of talents.
 I did not expect to hear such words come out of his mouth.
 I have no belief that there is a child in our country, twelve years old,
 that has learned enough to read, that believes such an idea.
-Matter does not inhabit the world of spirits.`"
+Matter does not inhabit the world of spirits.
 
-Elias.
-"`Many of our Quaker ministers believe it.`"
+[.discourse-part]
+_Elias._
+Many of our Quaker ministers believe it.
+
+[.small-break]
+'''
 
 J+++.+++ Hoag here requested him to stop, and referring him to the Bible,
 endeavored to show him how defective his ideas were,
@@ -861,7 +1032,7 @@ he still took similar ground,
 stating his belief that "`Jesus Christ was no more than
 an Israelite,`" and that "`he believed George Fox,
 William Penn, and R. Barclay thought as he did, but they were afraid to come out!`"^
-footnote:[See J. Whitall`'s Testimony, in Foster`'s Report, vol.
+footnote:[See _J. Whitall`'s Testimony,_ in _Foster`'s Report,_ vol.
 i, pp.
 214, 215, and 246.]
 
@@ -874,7 +1045,7 @@ in the summer of 1824 (then about seventy-eight years of age),
 and being at a meeting where Elias Hicks preached,
 he heard such sentiments from him in his public discourse,
 as he had never before heard delivered, "`either by professor or profane.`"^
-footnote:[See his Testimony given in Foster`'s Report, vol.
+footnote:[See his Testimony given in _Foster`'s Report,_ vol.
 i, p. 100.]
 He spoke of the Lord Jesus as "`having suffered as a martyr`"--as "`many others since
 that time had done`"--and labored to bring him down to the level of a mere man.
@@ -920,7 +1091,7 @@ sentiments--be not deceived--God is not to be mocked!`"
 How came it to pass, that with perhaps two or three solitary exceptions, in Philadelphia,
 in Baltimore, and on Long Island, during the latter part of his career,^
 footnote:[By Gideon Seaman, an elder, and Solomon Underbill, a minister.
-See Foster`'s Report, vol.
+See _Foster`'s Report,_ vol.
 i, p. 161.]
 it does not appear that this was done;
 unless we consider this to have been done when a minister was led, as sometimes occurred,
@@ -935,20 +1106,26 @@ had become a religious man and a member among Friends,
 and eventually an approved minister.]
 There were several causes for it.
 
-First.
+[.numbered-group]
+====
+
+[.numbered]
+_First._
 The Society in general had been lulled into a state of ease and apathy,
 and nothing had occurred of recent years to bring prominently into view
 the necessity of "`contending for the faith once delivered to the saints,`"
 by strictly maintaining the purity and soundness of our doctrines;
 so that many were almost forgetting the lines of distinction between truth and error.
 
-Second.
+[.numbered]
+_Second._
 If at any time uneasiness was aroused in individual minds,
 they saw that popular feeling was greatly excited in his favor,
 and that any open opposition to his dogmas would at once stir up a commotion,
 the extent and result of which could not be foreseen.
 
-Third.
+[.numbered]
+_Third._
 His erroneous sentiments were generally so mixed up with familiar truths, or,
 as Joseph Hoag said,
 so "`polished and dressed with recommendations of the beauty of morality,`"
@@ -960,6 +1137,8 @@ and satisfied themselves with secret lamentations,
 or with the conclusion that "`the servant of the Lord must not strive;`" thus making
 their sweeping construction of the apostle`'s injunction wide enough to cover their
 own dereliction of one of their weightiest duties as watchmen over the flock.
+
+====
 
 The evil seeds sown so widely over the country were not scattered in vain,
 but produced an abundant crop of unsettlement and unbelief,
@@ -983,10 +1162,10 @@ or false representations of relatives or acquaintances,
 who scrupled not to assert that Elias Hicks was opposed and persecuted because he stood
 for the views of the early Friends--an assumption which caught very many,
 though it was as palpably false as it was illusory.^
-footnote:[See T. Evans`'s Exposition of the Faith of Friends;
+footnote:[See _T. Evans`'s Exposition of the Faith of Friends;_
 and an anonymous book of 359 pages,
-8vo. entitled A Defence of the Christian Principles of the Society of Friends,
-in Reply to Charges of the Followers of E. Hicks; published in Philadelphia in 1825;
+8vo. entitled _A Defence of the Christian Principles of the Society of Friends,
+in Reply to Charges of the Followers of E. Hicks;_ published in Philadelphia in 1825;
 which was written by Thomas Evans, assisted by Edward Bettle and Joseph Roberts.
 These works, and others,
 completely refuted the unfounded claim of the disciples of Hicks,
@@ -1044,7 +1223,7 @@ Two of the elders (Samuel P. Griffitts and Ellis Yarnall)
 accordingly called on E. Hicks when he came to the city,
 and informed him of E. Comfort`'s concern on his account,
 and his wish to have an interview with him.^
-footnote:[See Thomas Evans`'s Testimony in Foster`'s Report, vol.
+footnote:[See Thomas Evans`'s Testimony in _Foster`'s Report,_ vol.
 ii, p. 377.]
 E+++.+++ Hicks twice declined to meet him on the occasion.
 As he was about entering upon a family visit to Green Street Monthly Meeting,
@@ -1090,6 +1269,9 @@ This letter elicited another from the elders, dated 4th of first month, 1823, wh
 amongst other expressions of their deep concern on his account,
 and the irregularity of his conduct, they say:
 
+[quote]
+____
+
 On a subject of such importance the most explicit candor and ingenuousness,
 with a readiness to hear, and to give complete satisfaction, ought ever to be maintained.
 This the gospel teaches, and the nature of the case imperiously demands it.
@@ -1097,6 +1279,7 @@ As to the certificate which accompanied thy letter,
 made several weeks after the circumstances occurred,
 it is in several respects both vague and ambiguous; and in others,
 though in different terms, it corroborates the statement at first made.
+____
 
 Viewing the whole subject, they express their sorrowful but unavoidable conclusion,
 that E. H. was holding and disseminating principles at variance with those of the Society;
@@ -1163,13 +1346,17 @@ The following is a copy of these celebrated extracts,
 so obnoxious to the followers of E. Hicks.
 They were extracted from the writings of George Fox, William Penn, R. Barclay,
 R+++.+++ Claridge, and from the Declaration of Friends in 1693.^
-footnote:[See William Evans`'s Testimony in Foster`'s Report, vol.
+footnote:[See _William Evans`'s Testimony_ in _Foster`'s Report,_ vol.
 ii, pp.
 328 and 470.]
 
-Extracts From the Writings of Primitive Friends,
-Concerning the Divinity of Our Lord and Saviour, Jesus Christ.
+[.embedded-content-document]
+--
 
+[.blurb]
+=== Extracts From the Writings of Primitive Friends, Concerning the Divinity of Our Lord and Saviour, Jesus Christ.
+
+[.signed-section-context-open]
 At a Meeting for Sufferings held in Philadelphia, the 17th of the first month, 1823:
 
 An essay, containing a few brief extracts from the writings of our primitive Friends,
@@ -1305,9 +1492,13 @@ the power, nature, and habits of sin are destroyed; that as sin once reigned unt
 even so now grace reigneth through righteousness unto eternal life,
 by Jesus Christ our Lord.
 
+[.signed-section-closing]
 Signed on behalf of the Meeting,
 
+[.signed-section-signature]
 Jonathan Evans, Clerk.
+
+--
 
 When the minutes of the Meeting for Sufferings came in due
 course to be read in the Yearly Meeting of 1823,
@@ -1315,7 +1506,7 @@ the fact of these Extracts forming a part of them,
 and thus being proposed for the sanction of the Yearly Meeting,
 raised a great storm against them on the part of Elias Hicks`'s adherents.
 Several of them disapproved of the doctrines as stated in the Extracts,^
-footnote:[See S. Bettle`'s Testimony, in Foster`'s Report, vol.
+footnote:[See _S. Bettle`'s Testimony,_ in _Foster`'s Report,_ vol.
 i, p. 72.]
 but the main ostensible ground of the opposition to them was,
 that this was an attempt on the part of the Meeting
@@ -1403,7 +1594,7 @@ during one sitting, fifteen times or more to the case,
 and one man was known to speak as many as thirty-two times;
 so that the sittings of the Quarterly Meetings were
 often greatly protracted by their clamorous harangues.^
-footnote:[Thomas Evans`'s testimony in Foster`'s Report, vol.
+footnote:[Thomas Evans`'s testimony in _Foster`'s Report,_ vol.
 ii, p. 381]
 
 After much discussion from quarter to quarter, for seven Quarterly Meetings,
@@ -1478,7 +1669,7 @@ and which call for a reappointment are death, resignation, or neglect of attenda
 and the uniform practice of society for seventy years,^
 footnote:[In the very early times of the Meeting for Sufferings in Pennsylvania,
 it is believed there were instances of changes made by Quarterly Meetings.
-See Foster`'s Report, vol.
+See _Foster`'s Report,_ vol.
 ii, p. 49.]
 has been in accordance with the discipline,
 which could only be altered by the Yearly Meeting;
@@ -1526,7 +1717,7 @@ under the profession of ministerial service,
 and in various places held private meetings with certain of the members,
 in order to bring about a division of the Society.
 He himself acknowledged afterwards to Samuel Bettle,^
-footnote:[See S. Bettle`'s Testimony, in Foster`'s Report, vol.
+footnote:[See _S. Bettle`'s Testimony,_ in _Foster`'s Report,_ vol.
 i, p. 68.]
 that he had held about forty such meetings, and with that intent^
 footnote:[John Comly, in his journal,
@@ -1596,7 +1787,7 @@ John Comly made an effort to have the appointment rescinded,
 and finding that his attends were of no avail,
 he rose soon after the subject was dismissed,
 and bade the meeting "`an affectionate farewell.`"^
-footnote:[William Evans`'s Testimony, in Foster`'s Report, vol.
+footnote:[William Evans`'s Testimony, in _Foster`'s Report,_ vol.
 ii, p. 331.]
 The Yearly Meeting assembled, in due course, on second-day morning,
 the 16th of the month, and entered on its business as usual,
@@ -1689,7 +1880,7 @@ S+++.+++ Bettle would be the clerk;`" and called upon all those
 who were favorable to the appointment of John Comly,
 to come up to the clerk`'s table and sign a report to that effect.
 He with perhaps eight or ten others^
-footnote:[See Foster`'s Report.
+footnote:[See _Foster`'s Report._
 Cephas Ross said about twenty.]
 went up accordingly to the table, and a certain Marden Wilson began to write.
 But it was a little too late.
@@ -1701,8 +1892,8 @@ and as some of the representatives opened the door to go out,
 the members began to flow into the house,
 so that those who were usurping the clerk`'s table quickly withdrew,
 and this scheme also was baffled.^
-footnote:[For this whole proceeding, see Testimony of William Evans and John Paul,
-in Foster`'s Report, vol.
+footnote:[For this whole proceeding, see _Testimony of William Evans and John Paul,_
+in _Foster`'s Report,_ vol.
 ii, pp.
 332 and 339.]
 
@@ -1821,6 +2012,9 @@ that God alone is the sovereign Lord of conscience.`"
 Then, coming to our own days,
 they thus expressed their idea of the grievances they were subjected to:
 
+[quote]
+____
+
 We are constrained to declare, that the unity of this body +++[+++the Yearly Meeting]
 is interrupted; that a division exists among us,
 developing in its progress views which appear incompatible with each other,
@@ -1833,6 +2027,7 @@ and the comforts and enjoyments even of social intercourse greatly diminished.
 Measures have been pursued which we deem oppressive,
 and in their nature and tendency calculated to undermine and destroy those benefits,
 to establish and perpetuate which should be the purpose of every religious association.
+____
 
 After some further remarks, respecting order, discipline, and forbearance,
 which (if they had but known it) reflected back with double force upon their own conduct,
@@ -1871,7 +2066,7 @@ through which it finds access to God.`"
 Thus Comly allowed this serious inquirer to go away imposed upon by an insidious answer
 according to his own confession!
 {footnote-paragraph-split}
-On another occasion (Journal, p. 395), in answer to another inquirer,
+On another occasion (_Journal,_ p. 395), in answer to another inquirer,
 he discarded any confidence in the "`outward blood;`"
 and in reference to the atonement said,
 "`I told him I could not find the term '`propitiatory sacrifice`' in the Scriptures,
@@ -1967,7 +2162,7 @@ the minutes were all read over as usual towards the close of the Yearly Meeting.
 No objection was made to them; and the concluding minute,
 adjourning the meeting to the usual time and place the next year, if the Lord permit,
 was also read without a single objection.^
-footnote:[S. Bettle`'s Testimony, in Foster`'s Report, vol.
+footnote:[_S. Bettle`'s Testimony,_ in _Foster`'s Report,_ vol.
 i, p. 70.]
 The Hicks party thus acquiesced in the authority and regularity of all the transactions.
 
@@ -1997,7 +2192,7 @@ the one editor of the "`Berean,`" and the other the
 writer of the letters under the name of Amicus,
 in the "`Christian Repository.`"^
 footnote:["`It was thought upwards of a thousand were in attendance.`"
-John Comly`'s Journal, p. 338.]
+_John Comly`'s Journal,_ p. 338.]
 
 They now issued another Address,
 reiterating their own views of the causes of the state of
@@ -2029,7 +2224,7 @@ by which they accomplished their purposes in this respect.
 Let them rest in oblivion.^
 footnote:[If any should desire further to pursue this branch of the sad subject,
 they may find ample details of disorder and wrong, even to satiety,
-in the first and second volumes of The Friend, Philadelphia, 1827 and 1828.
+in the first and second volumes of _The Friend,_ Philadelphia, 1827 and 1828.
 But I apprehend that in many of these cases, both classes were too hasty and determined,
 though the acts of outrage were principally on the part of the Hicksites.]
 But it is needful, as an essential part of history,
@@ -2172,7 +2367,7 @@ For some time previous to the New York Yearly Meeting of 1828,
 proposals for making the appointment of elders temporary,
 similar to those made in the Yearly Meeting of Philadelphia,
 had been forwarded to that of New York, but after much difficulty had been rejected.^
-footnote:[See Samuel Parsons`'s Testimony in Foster`'s Report, vol.
+footnote:[See _Samuel Parsons`'s Testimony_ in Foster`'s Report, vol.
 i, p. 174.]
 And in the spring of 1828,
 measures similar to those taken in Pennsylvania for increasing
@@ -2232,7 +2427,7 @@ Others said, "`He is no clerk of the meeting,`" "`We have a clerk of our own,`" 
 Elias Hicks was requested to speak to them to suffer the clerk to read the minute,
 and it is thought that he then did say something to that effect;
 but the storm had risen to such a height, in hissing,^
-footnote:[S. Parsons`'s Testimony, in Foster`'s Report, vol.
+footnote:[_S. Parsons`'s Testimony,_ in _Foster`'s Report,_ vol.
 i, p. 181.]
 shouting, stamping, striking the floor and benches with canes and umbrellas, etc.,
 that there seemed to be no possibility of calming the uproar so as to be heard.
@@ -2248,7 +2443,7 @@ and if any of them did meet on the subject of nominating a clerk,
 it was only a party action, entirely unauthorized.
 The disturbance was now at its height.
 Forty or fifty of the party were, it is said, on their feet at one time.^
-footnote:[Joseph Hoag`'s Journal, Heston`'s edition, p. 291.]
+footnote:[_Joseph Hoag`'s Journal,_ Heston`'s edition, p. 291.]
 Elias Hicks then called on their new clerk to come forward to the table;
 which he approached by climbing over the backs of the benches,
 and heads and shoulders of elderly Friends.
@@ -2256,12 +2451,12 @@ When he thus arrived in front of the table,
 Elias put out his hand to assist him to gain access to it;
 but by some means he failed in his aim at it,
 and some of his party turned him into the clerk`'s seat heels foremost!^
-footnote:[Journal of T. Shillitoe, vol.
+footnote:[_Journal of T. Shillitoe,_ vol.
 ii, p. 311.]
 The regular clerk and assistant were at the same
 time violently pressed away from their place,
 to make room for him;^
-footnote:[Testimony of S. Parsons, Foster`'s Report, vol.
+footnote:[_Testimony of S. Parsons, Foster`'s Report,_ vol.
 i, p. 186.]
 and attempts were made to wrest the minute from the clerk`'s hands.
 But notwithstanding all their uproar, he succeeded in reading it,
@@ -2290,7 +2485,7 @@ and added that the scene they had just passed through was
 clearly unfolded to his view before he came to the city.
 "`But,`" said he, "`dear Friends, there will yet something come to pass,
 if my feelings have not deceived me, that will more fully try our foundation!`"^
-footnote:[Thomas Shillitoe`'s Journal, vol.
+footnote:[_Thomas Shillitoe`'s Journal,_ vol.
 ii, p. 313.]
 And he exhorted Friends to get so deep in their spirits, that they might be able to stand.
 Would that this solemn admonition had been more deeply heeded
@@ -2302,7 +2497,7 @@ but they were not permitted even to enter the yard.
 At their request, two women Friends were called out from the meeting,
 who were under the necessity of going into the street to receive the message,
 in the midst of a crowd of people who thronged the gateway.^
-footnote:[See Epistle and Testimony of New York Yearly Meeting, 1828, p. 10.]
+footnote:[See _Epistle and Testimony of New York Yearly Meeting,_ 1828, p. 10.]
 The Women`'s Yearly Meeting, which had been similarly intruded upon,
 was afterwards separated,
 and Friends met the next day in the African Methodist Meetinghouse.
@@ -2321,7 +2516,7 @@ This complaint, when at length it was suffered to be read in Jericho Monthly Mee
 was treated as unworthy of further notice, and its allegations were denied as false,
 although fully borne out by the account taken on the occasion by
 the stenographer who printed so many of E. Hicks`'s discourses,^
-footnote:[See The Friend, Philadelphia, vol.
+footnote:[See _The Friend,_ Philadelphia, vol.
 ii, p. 152.]
 The Southern District Monthly Meeting, after waiting a reasonable time,
 represented the case to Philadelphia Quarterly Meeting; which then sent the complaint,
@@ -2382,13 +2577,13 @@ and Elias could make no adequate reply, but said,
 that was not the place for entering into discussion; which indeed was true.
 He made his home at the house of Israel French, and several of his partisans,
 including Amos Peisley, Elisha Dawson, and Halliday Jackson, put up at the same house.^
-footnote:[The Friend, vol.
+footnote:[_The Friend,_ vol.
 I, p. 407]
 It is supposed, from various circumstances,
 that the plan for seizing the meetinghouse on second-day,
 was considered and agreed on among them in that house,
 as it had been previously considered by many of them in a certain school-house^
-footnote:[Ibid, p. 414]
+footnote:[_Ibid,_ p. 414]
 on seventh-day afternoon previous.
 
 However that may have been,
@@ -2469,7 +2664,7 @@ After the house was nearly filled up, and somewhat of a pause took place,
 Thomas Shillitoe was engaged in supplication;
 but the solemnity ensuing was interrupted by one of the most formidable
 of these solid masses of wild young men rushing into the house,^
-footnote:[The Friend, vol.
+footnote:[_The Friend,_ vol.
 I p. 391.]
 having Amos Peisley and Elisha Dawson in their midst.
 They burst through the crowd of Friends, exclaiming to one another, "`Move on, Friends;
@@ -2519,7 +2714,7 @@ but jumped or tumbled down from the youth`'s galleries;
 others rushed impetuously down the stairs and out at the doors;
 and many were seriously crushed and hurt in the press.
 The sudden rush loosened some plaster from the ceiling,^
-footnote:[Thomas Shillitoe`'s Journal, vol.
+footnote:[_Thomas Shillitoe`'s Journal,_ vol.
 ii, p. 345.]
 and this falling increased the alarm.
 The glass of several windows was broken away,
@@ -2563,7 +2758,7 @@ or to suggest to some of the female friends to make their escape.
 The alarm respecting the house falling was quickly communicated to them,
 and a young man ran in among them, jumped into one of the windows,
 and began to kick it to pieces with all his force.^
-footnote:[See The Friend, Philadelphia, vol.
+footnote:[See _The Friend,_ Philadelphia, vol.
 i, p. 392.]
 They adjourned in accordance with the action of the Men`'s Meeting.
 At ten o`'clock the next morning,
@@ -2608,7 +2803,7 @@ In narrating the subsequent proceedings,
 as they seem to have an important bearing on other cases somewhat similar,
 and especially as they were stated and remarked upon soon after, in a very lucid manner,
 in the periodical paper published in Philadelphia,
-entitled "`The Friend,`" I prefer to quote certain
+entitled _The Friend,_ I prefer to quote certain
 portions of the statements made in that paper,
 rather than to give my own.
 To copy the whole account and remarks,
@@ -2617,6 +2812,9 @@ but we will take such portions as are required to give a
 clear view of the subject as treated in that periodical.^
 footnote:[The Friend, Philadelphia, vol.
 ii, p. 37.]
+
+[quote]
+____
 
 Epistles were produced from meetings of the seceders, styled Yearly Meetings,
 which were read and minuted,
@@ -2632,7 +2830,7 @@ The former proposition was warmly supported by the advocates of the new doctrine
 and a minute was made recognizing such a conclusion.^
 footnote:[A committee was also appointed to essay replies to the three bodies of separatists,
 of Philadelphia, New York, and Indiana.
-See The Friend, vol.
+See _The Friend,_ vol.
 ii, p. 53]
 It "`is evident that this measure completely identified all those who promoted it,
 not only with the different bodies of separatists scattered over this country,
@@ -2647,7 +2845,7 @@ had no alternative left but to meet apart from the others,
 and endeavor to continue their connection with their brethren in other Yearly Meetings,
 as the Yearly Meeting of Friends in Baltimore, etc.
 
-Page 53: It will probably be said,
+_Page 53:_ It will probably be said,
 that comparatively a few only of the members of Baltimore Yearly Meeting,
 who joined themselves to the new sect,
 actually hold the unsound principles of Elias Hicks.
@@ -2659,14 +2857,14 @@ and sanction them by the language of conduct and example.
 They show their approbation of them by the strongest evidence which can be given, viz.,
 social unity and church fellowship.
 
-Page 54: The Society, the ministers, and the doctrines,
+_Page 54:_ The Society, the ministers, and the doctrines,
 are all identified and associated with each other;
 and every member who evinces his unity with the sect,
 is accountable for the principles which are thus promulgated,
 as completely as are the members of any other religious
 communion for the doctrines held by it.
 
-Again, page 54: It matters not how large the number may be who violate the compact,
+_Again, page 54:_ It matters not how large the number may be who violate the compact,
 break down the established constitution,
 and disregard the terms on which a right of membership
 in the Society of Friends can only be held.
@@ -2684,7 +2882,7 @@ or assembly of the faithful, this membership is declared to be forfeited.
 The true fellowship having been broken,
 the technical or merely outward membership is as it were held in suspense ad interim,
 for his recovery.
-Yet, as R. Barclay says, he cast himself out, by his transgression; which in due time,
+Yet, as R. Barclay says, _he cast himself out,_ by his transgression; which in due time,
 if persisted in, the church has to declare.]
 and if the whole number of persons constituting a meeting act thus,
 they as fully and completely cease to be members of the Society
@@ -2693,7 +2891,7 @@ Numbers have no modifying influence upon the terms and principles
 of the Association It is not the same Society it was before,
 if the fundamental principles of its union are altered.
 
-Page 61: The statements we have already made,
+_Page 61:_ The statements we have already made,
 show in the clearest manner that in order to retain their connection with the Society,
 and to support its doctrines and discipline,
 Friends of Baltimore Yearly Meeting had no alternative left but
@@ -2738,7 +2936,7 @@ forsake the ancient and established organization, and join a new association,
 holding different principles,
 they cease to be a constituent part of the Society of Friends.
 
-Page 39: By uniting that meeting to the separatists, in New York, Philadelphia, Ohio,
+_Page 39:_ By uniting that meeting to the separatists, in New York, Philadelphia, Ohio,
 and Indiana,
 they countenanced and sanctioned not only the violent and unchristian
 conduct of which the party in some of those places had been guilty,
@@ -2749,9 +2947,10 @@ who continued to meet with the party after they had
 thus fully identified themselves with the new sect,
 was lending his influence and according his assent to those practices and doctrines.^
 footnote:[See also in the same article,
-at page 69 of the same volume of The Friend a lucid development of the fallacy
+at page 69 of the same volume of _The Friend_ a lucid development of the fallacy
 of the Hicksites`' denial of the charge of not owning the divinity of Christ,
 and how they attempt to distinguish between Jesus and "`the Christ.`"]
+____
 
 The reader will please to bear in mind that the above
 arguments and conclusions of The Friend,
@@ -2796,7 +2995,7 @@ his case was reported to the Preparative Meeting, and thence transmitted,
 for further dealing, to the Monthly Meeting.
 Here a committee was appointed, as usual, to treat with him;
 but he pertinaciously rejected the care and labors of Friends,^
-footnote:[See The Friend, vol.
+footnote:[See _The Friend,_ vol.
 ii, p. 318.]
 and persisted in his erroneous opinions.
 There was therefore no way left for the meeting but to proceed
@@ -2806,8 +3005,11 @@ and thus clear the Society from all responsibility for his sentiments and course
 The Testimony is an important historic document, taking a view of the whole case.
 It is therefore here transcribed.
 
-Testimony of the Monthly Meeting of Friends of Westbury and Jericho,
-Against Elias Hicks and his Doctrines.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== Testimony of the Monthly Meeting of Friends of Westbury and Jericho, Against Elias Hicks and his Doctrines.
 
 Elias Hicks has been, for many years,
 in the station of a minister in our religious Society,
@@ -2919,7 +3121,10 @@ Signed on behalf and by direction of the Monthly
 Meeting of Friends of Westbury and Jericho,
 held at Westbury the 29th of the fourth month, 1829.
 
+[.signed-section-signature]
 By Valentine Willets, Clerk.
+
+--
 
 After all this, viz., on the 16th of eleventh month, 1829,
 Elias Hicks wrote (or at least signed) a letter to one of his adherents (Hugh Judge),
@@ -2938,13 +3143,17 @@ to have it used to advantage in that suit.
 George Wood, counsel for Friends, in pleading on the appeal, said, in reference to it,
 "`a more artful piece of invention was never exhibited in a court of justice.
 It was manufactured after this controversy had arisen.`"^
-footnote:[See Foster`'s Report, vol.
-ii, p. 433; and Full Report of the Pleadings, etc.; Philadelphia, 1834, p. 430.]
+footnote:[See _Foster`'s Report,_ vol.
+ii, p. 433; and _Full Report of the Pleadings,_ etc.; Philadelphia, 1834, p. 430.]
 However this may have been, and however cautiously it was worded,
 either by him or for him, it is altogether inadequate to cancel his monstrous errors,
 uttered year after year, in various ways, before the public and in private.
 
-The first query was in regard to the miraculous conception of Christ.
+[.numbered-group]
+====
+
+[.numbered]
+_The first query_ was in regard to the miraculous conception of Christ.
 To which he replied, that from his youth up he had had as full a belief in it,
 as it was possible for the history to give belief,
 and that he never thought or said that he believed Joseph was his father;
@@ -2953,10 +3162,12 @@ that there was considerable more Scripture testimony (that is, of course,
 history) against it than for it,
 and had often in public uttered his doubts on that subject!
 
-The second query, on the Divinity of Christ, he answered ambiguously and insidiously,
+[.numbered]
+_The second query,_ on the Divinity of Christ, he answered ambiguously and insidiously,
 evidently with a mental reservation bearing on the construction of his words.
 
-The third query was on the Holy Scriptures; of which, in his answer,
+[.numbered]
+_The third query_ was on the Holy Scriptures; of which, in his answer,
 he professed high esteem from his youth,
 and to have confirmed his doctrine abundantly from their testimony,
 and endeavored to place them in their true place and station.
@@ -2968,16 +3179,19 @@ there they must stop--it is their ultimatum--the top-stone of what they can do.
 Of course the meaning of this is, that they are of no further use! not even for comfort,
 or for correction and instruction in righteousness!
 
-The fourth query was in regard to a state of rewards and punishments;
+[.numbered]
+_The fourth query_ was in regard to a state of rewards and punishments;
 which he answered as if he had never denied it.
 
-The fifth query was respecting our coming up to a level with the man Christ Jesus;
+[.numbered]
+_The fifth query_ was respecting our coming up to a level with the man Christ Jesus;
 desiring him to explain his own words in regard to it; which he does very imperfectly,
 the reply being exceedingly misty and ambiguous, followed by a few texts of Scripture,
 which by no means throw any light on the alleged level; but, by his application of them,
 show his desire to bring Christ down to the level of a good man.
 
-The sixth query, respecting the relation of the body of Jesus to the Saviour of men,
+[.numbered]
+_The sixth query,_ respecting the relation of the body of Jesus to the Saviour of men,
 and regarding the crucifixion of that body as an atonement for our sins,
 he answered evidently with great care, quoting Isaac Penington and George Whitehead,
 without naming them.
@@ -2987,7 +3201,7 @@ and emphatic acknowledgment, by that author, of the efficacy of that sacrifice f
 which would have been very much to his purpose if he had been really sound on this point.
 But he leaves it all out, giving what may fairly be called a garbled quotation,
 which does not fully express what Isaac Penington had in view.^
-footnote:[See I. Penington`'s Works, 4to, vol. ii, p. 7;
+footnote:[See _I. Penington`'s Works,_ 4to, vol. ii, p. 7;
 or Amer. edit+++.+++, vol. iii, p. 31.
 The unfairness of this partial and fallacious quotation may he clearly
 perceived by a reference to the passages immediately preceding it in the original.]
@@ -3003,6 +3217,8 @@ if plain English words have any unmistakable meaning.
 The baneful seed had been sown, and had germinated abundantly,
 and it was not in his power, by such a document as this, even if so disposed,
 to avert the consequences of the growth of that seed.
+
+====
 
 The last act in the life of Elias Hicks,
 say the editors of his "`Journal,`" was the writing of another letter to Hugh Judge.
@@ -3030,7 +3246,7 @@ that all the power of mortals cannot erase or obliterate.
 Neither is there any power or means given or dispensed to the children of men,
 but this inward law and light,
 by which the true and saving knowledge of God can be obtained.`"^
-footnote:[Journal of E. Hicks, Appendix, p. 439.]
+footnote:[_Journal of E. Hicks,_ Appendix, p. 439.]
 
 This letter was written on the 14th of the second month, 1830,
 and the "`Memorial`" of his friends respecting him states,
@@ -3042,7 +3258,7 @@ he manifested by signs that the letter which he had just finished,
 and which had been dropped by the way, should be taken care of.
 After this, he continued gradually to decline, until the evening of the 27th,
 when he quietly passed away.^
-footnote:[Ibid, p. 450.]
+footnote:[_Ibid,_ p. 450.]
 
 The various Yearly Meetings in America promptly issued declarations against this secession,
 showing the antichristian ground of it,
