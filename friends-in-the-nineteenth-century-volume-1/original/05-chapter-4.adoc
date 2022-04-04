@@ -268,7 +268,7 @@ ____
 [.offset]
 Preaching at Staunton, Delaware, eleventh month 20th, 1826, he said:
 
-[quote,, "`The Quaker, vol.
+[quote, "`The Quaker, vol.
 iv, p. 84.`"]
 ____
 
@@ -748,7 +748,7 @@ ____
 [.offset]
 And at Middletown, on the 19th of twelfth month, 1826, he said:
 
-[quote,, "`The Quaker, vol.
+[quote, "`The Quaker, vol.
 iv, p. 203.`"]
 ____
 
