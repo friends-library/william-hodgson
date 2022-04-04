@@ -218,8 +218,8 @@ we may take the following out of many passages of similar tendency.
 In a sermon preached at Fallsington, in Pennsylvania, on the 11th of twelfth month, 1824,
 after speaking of our Lord Jesus Christ as the Son of man, he says:
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 251."]
+____
 
 Here now we learn as rational beings, by his own testimony,
 what it is that makes a son of God.
@@ -227,15 +227,14 @@ We see that this flesh and blood never could have been, in a strict sense,
 the Son of God, but a creature, created by God, by his power:
 because spirit and matter cannot be united together and make a being,
 nor make a son of God.
-(_Philadelphia Sermons,_ p. 251.)
+____
 
---
-
+[.offset]
 Again, in a sermon preached at Arch Street Meeting, in Philadelphia,
 on the 14th of eleventh month, 1824, he said:
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 10."]
+____
 
 Who was his Father?
 He was begotten of God.
@@ -250,43 +249,39 @@ By the analogy of reason, Spirit cannot beget a material body,
 because the thing begotten must be of the same nature with its father.
 Spirit cannot beget anything but spirit; it cannot beget flesh and blood.
 No, my friends, it is impossible.
-(_Philadelphia Sermons,_ p. 10.)
+____
 
---
-
+[.offset]
 Again, in his sermon at Fallsington, on the 11th of twelfth month, 1824, he said,
 in reference to Christ,
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 253."]
+____
 
 Then it was not his grace,
 but the grace of God communicated to him as it was
 communicated to the rest of Abraham`'s children,
 to everyone in a sufficient degree to enable them
 to come up to the law and commandments given them.
-(_Philadelphia Sermons,_ p. 253.)
+____
 
---
-
+[.offset]
 Preaching at Staunton, Delaware, eleventh month 20th, 1826, he said:
 
-[.embedded-content-document]
---
+[quote, , "The Quaker, vol. iv, p. 84."]
+____
 
 Jesus Christ the Saviour of the soul, never was seen by the eyes of men,
 and forever will be the same power of God,
 and same divine anointing with which Jesus was anointed.
-(_The Quaker,_ vol.
-iv, p. 84.)
+____
 
---
-
+[.offset]
 Preaching at another time, he said,
 in regard to the Spirit descending on Jesus at his baptism by John:
 
-[.embedded-content-document]
---
+[quote, , "New York Sermons, p. 85."]
+____
 
 Here now we find, that having an additional power,
 he had also additional trials to encounter;
@@ -294,28 +289,26 @@ he was brought to see the trials and temptations that awaited him,
 arising from the propensities of his human nature;
 for he stood in need of all things in the same manner as we do, to eat, to drink,
 and to seek knowledge.
-(_New York Sermons,_ p. 85.)
+____
 
---
-
+[.offset]
 Again, in the Fallsington sermon, already quoted from, he said:
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 256."]
+____
 
 Now, let us pause a little, and consider what is here meant.
 Can it be supposed that he was driven into an outward wilderness?
 Or shall we not suppose that he was brought, by the power of divine light,
 to see the wilderness state of his own mind?
-(Philadelphia Sermons, p. 256.)
+____
 
---
-
+[.offset]
 In Philadelphia, on the 1st of twelfth month, 1824, at the Western Meetinghouse,
 after speaking of Jesus as "`their Saviour,`" meaning the Jews, he said:
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 50."]
+____
 
 He it was that saved them from their outward sicknesses.
 He was only an outward Saviour, that healed their outward diseases,
@@ -326,14 +319,13 @@ and cleanse them from all their inward pollutions; that thing of God,
 that thing of eternal life.
 It was the soul that needed salvation; but this no outward Saviour could do,
 no external Saviour could have any hand in it.
-(_Philadelphia Sermons,_ p. 50.)
+____
 
---
-
+[.offset]
 Preaching at Trenton, on the 12th of twelfth month, 1824, he declared:
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 295."]
+____
 
 Not the name of Jesus Christ will save us.
 No, but that light and life that was in Him--that was in the beginning with God,
@@ -341,68 +333,59 @@ by which the worlds were made, and that light, it is declared,
 enlightens every man that comes into the world.
 Therefore, every one of us has the same light and life, according to his necessity,
 as Jesus Christ had, in his proportion.
-(_Philadelphia Sermons,_ p. 295.)
+____
 
---
-
+[.offset]
 In a printed reply to a letter of Thomas French,
 detailing his unsound preaching at Purchase Quarterly Meeting, in 1828, Elias Hicks says,
 in reply to one of the charges:
 
-[.embedded-content-document]
---
-
+[quote]
+____
 My declaration was this, that Jesus Christ, while in that outward manifestation,
 walking up and down in Jewry, in the course of his outward ministry,
 never made a Christian.
-
---
+____
 
 [.offset]
 And a few sentences afterwards he acknowledges:
 
-[.embedded-content-document]
---
-
+[quote]
+____
 I also said,
 there was no external mediator between God and his creature man under the gospel.
-
---
+____
 
 [.offset]
 In the New York Sermons we are told that he said:
 
-[.embedded-content-document]
---
+[quote, , "New York Sermons, p. 16."]
+____
 
 But it is not the righteousness of another that can save us.
 It must be done by the individual himself, or he cannot be the elect of the Lord;
 for he is of the elect who elects God.
 Jesus elected his heavenly Father as his rule and guide.
 So also must we, etc.
-(_New York Sermons,_ p. 16.)
+____
 
---
-
+[.offset]
 In his sermon at Fallsington, again, on the 11th of twelfth month, 1824,
 he said as follows:
 
-[.embedded-content-document]
---
-
+[quote, , "Philadelphia Sermons, p. 266."]
+____
 Oh may we press forward to the mark for the prize of the high calling
 (omitting "`in Christ Jesus our Lord`"). It is attainable to us;
 as certainly as it was attainable by Jesus Christ,
 so certainly it is attainable by every one of his faithful followers.
-(_Philadelphia Sermons,_ p. 266.)
-
---
+____
 
 [.offset]
 At another time and place, he said:
 
-[.embedded-content-document]
---
+[quote, , "New York Sermons, p. 96."]
+____
 
 This portion of his Spirit being given to us to profit with,
 it will continue to operate till it leavens the whole lump.
@@ -415,21 +398,19 @@ He knew that he would not embezzle, or make a wrong use of these treasures;
 but that he would wait to know his Father`'s will,
 before he would dispose of the things which were opened to his view.
 Now, here is the full and complete divinity of Jesus Christ.
-From what Jesus himself said, he was not God! (_New York Sermons,_ p. 96.)
+From what Jesus himself said, he was not God!
+____
 
---
-
+[.offset]
 At Trenton, on the 12th of twelfth month, 1824, in speaking of Moses and the prophets,
 Jesus Christ and His apostles he added immediately:
 
-[.embedded-content-document]
---
-
+[quote, , "Philadelphia Sermons, p. 292."]
+____
 He never can set any of these above us, because if he did, he would be partial.
-(_Philadelphia Sermons,_ p. 292.)
+____
 
---
-
+[.offset]
 Preaching at Wilmington, Del+++.+++, on the 3rd of twelfth month, 1826,
 he made use of the following unjustifiable insinuation against
 the correctness of our translation of the New Testament,
@@ -437,19 +418,18 @@ in pursuance of his constant practice of separating Christ within
 us from our Lord Jesus Christ who appeared in the prepared body.
 He said:
 
-[.embedded-content-document]
---
+[quote,, "`The Quaker, vol.
+i, p. 222.`"]
+____
 
 Now don`'t let your attention be turned outward,
 from the expression of these words +++[+++"`that Jesus Christ is in you,
 except you be reprobates`"],
 for very probably the translators have not given it right to us.
 Because the outward Christ never could be, or can be, in us.
-(_The Quaker,_ vol.
-i, p. 222.)
+____
 
---
-
+[.offset]
 How can we possibly doubt,
 in reading the above extracts (which might be indefinitely multiplied),
 that his purpose was a persistent one, to degrade our Blessed Lord Jesus Christ,
@@ -459,9 +439,8 @@ In like manner, respecting the Atonement, or Propitiatory Sacrifice on the Cross
 he thus expressed himself to Dr. N. Shoemaker, of Philadelphia, in a letter,
 dated third mouth 31st, 1823, and afterwards printed:
 
-[.embedded-content-document.letter]
---
-
+[quote]
+____
 Did God send Him into the world purposely to suffer death by the hands of wicked men?
 By no means; but to live a righteous and godly life, etc.
 If this be true, what becomes of the saying of the apostle Peter?
@@ -470,27 +449,25 @@ you have taken,
 and by wicked hands have crucified and slain;`" or of his own gracious declaration:
 "`Even as the Son of man came, not to be ministered unto, but to minister,
 and to give his life a ransom for many.`"
-
---
+____
 
 [.offset]
 Again, in the same letter:
 
-[.embedded-content-document.letter]
---
+[quote]
+____
 
 But I do not consider that the crucifixion of the outward body of flesh and blood of
 Jesus on the cross was an atonement for any sins but the legal sins of the Jews;
 for as their law was outward, so their legal sins and their penalties were outward,
 and these could be atoned for by an outward sacrifice, etc.
+____
 
---
-
+[.offset]
 And again, in the same letter, how awful the following expressions!
 
-[.embedded-content-document.letter]
---
-
+[quote]
+____
 Surely, is it possible,
 that any rational being that has any right sense of justice or mercy,
 that would be willing to accept forgiveness of his sins on such terms?
@@ -500,53 +477,46 @@ would it not prove that he stood in direct opposition
 to every principle of justice and honesty,
 of mercy and love, and show himself to be a poor selfish creature,
 and unworthy of notice?
+____
 
---
-
+[.offset]
 At a meeting in Rose Street, New York, fifth month 25th, 1828, he thus expressed himself:
 
-[.embedded-content-document]
---
-
+[quote,, "`The Quaker, vol.
+3, p. 192.`"]
+____
 What life is it that is an atonement for the sins of mankind?
 That very life and being that has committed sin, and opposed God.
-(The Quaker, vol.
-3, p. 192.)
+____
 
---
-
+[.offset]
 Respecting The Holy Scriptures, in a sermon preached at Abington, Pa., twelfth month 6th,
 1824, he thus expressed himself:
 
-[.embedded-content-document]
---
-
+[quote, , "Philadelphia Sermons, p. 129."]
+____
 One would suppose that to a rational mind,
 the hearing and reading of the instructive parables of Jesus
 would have a tendency to reform and turn men about to truth,
 and lead them on in it.
 But they have no such effect.
-(_Philadelphia Sermons,_ p. 129.)
-
---
+____
 
 [.offset]
 Again, he said, in the same sermon:
 
-[.embedded-content-document]
---
-
+[quote]
+____
 They have been so bound up in the letter, that they think they must attend to it,
 to the exclusion of everything else.
 Here is an abominable idol worship, of a thing without any life at all, a dead monument.
+____
 
---
-
+[.offset]
 And again, in the sermon at Trenton, twelfth month 12th, 1824:
 
-[.embedded-content-document]
---
-
+[quote, , "Philadelphia Sermons, p. 315."]
+____
 But here we see that the people have been depending upon the letter.
 Oh, what mischief has this done in Christendom!
 What dreadful work has it made among the children of men!
@@ -558,9 +528,7 @@ But look back at Christendom at its rise.
 Here we see Jesus calling them to an account for attending to the Scriptures;
 and we see in a short time after, that by application to these books contention entered,
 and divided Christian professors.
-(_Philadelphia Sermons,_ p. 315.)
-
---
+____
 
 The expression in this passage,
 of "`1800 years ago,`" refers of course to the New Testament history; of which he says,
@@ -573,7 +541,7 @@ after alluding to certain "`non-essentials,`" held by religious professors,
 "`And these are all stumbling-blocks,
 and perhaps there is not a greater one than the Scriptures, called the Bible,
 or the Old and New Testaments bound up in a book.`"
-(The Quaker, vol.
+(_The Quaker,_ vol.
 iv, p. 138.)
 
 Respecting what he called Religion,
@@ -583,9 +551,8 @@ which sounds more like the effusion of a heathen philosopher than of a minister 
 Though long, it will be best to present the whole passage, to show its deliberate aim.
 He said:
 
-[.embedded-content-document]
---
-
+[quote, , "Philadelphia Sermons, p. 44."]
+____
 All that we have to do, is to keep every desire regulated by the standard of truth;
 and as we keep up this engagement, we are improving the moments as they pass.
 Here our improvement is all entered for us upon the Credit side;
@@ -615,9 +582,7 @@ and whenever they passed by one another,
 they would be impressed by the one Spirit to become one body,
 and made to drink into the one Spirit.
 This I call religion; but I consider no profession of religion to be religion at all.
-(_Philadelphia Sermons,_ p. 44.)
-
---
+____
 
 So by this we may go on sinning, even without repenting, only we must take care,
 as "`prudent bookkeepers,`" to make it all up every
@@ -633,23 +598,22 @@ who reject the propitiatory sacrifice of our Lord Jesus Christ.
 
 Preaching at Cherry Street meeting, Philadelphia, fourth month 13th, 1828, he said:
 
-[.embedded-content-document]
---
+[quote,, "`The Quaker, vol.
+iii, p. 94.`"]
+____
 
 Now I do not consider faith and belief, merely, to be any part of religion;
 because belief is not a voluntary act of the human mind.
-(The Quaker, vol.
-iii, p. 94.)
+____
 
---
-
+[.offset]
 Respecting Heaven and Hell, he held as follows: In a letter from a Friend, of Ohio,
 alluded to above, he had been charged with having said,
 among many other unsound declarations,
 at Purchase Quarterly Meeting on the 1st of fifth month, 1828:
 
-[.embedded-content-document]
---
+[quote]
+____
 
 All the heaven and hell there was,
 was in us,--we received our rewards and punishments every day; our heaven and hell daily,
@@ -659,22 +623,21 @@ this was his heaven; we saw him happy, he was then in heaven; and then he would,
 when he got sober, feel miserable; this was his hell;
 and if there was any heaven or hell hereafter,
 it was something we could know nothing about.
+____
 
---
-
+[.offset]
 In his printed reply, defending himself from some of the charges in that letter,
 he does not deny having expressed himself as above, but, in degree at least, admits it,
 by the following retort upon his accuser:
 
-[.embedded-content-document]
---
+[quote]
+____
 
 And as to what he says about heaven or hell,
 I will ask him where he has found any heaven or hell without him?
 I should like to hear him describe the shape and form of them,
 and in what region or place they are situated?
-
---
+____
 
 And in a sermon given in the New York edition,
 he declared that "`heaven is everywhere where God and his rational creatures are.
@@ -685,8 +648,8 @@ It is not a local place by any means.`"
 Respecting The Devil, and fallen angels, his belief was expressed as follows:
 In a sermon preached at Byberry, Pa., on the 8th of twelfth month, 1824, he said:
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 163."]
+____
 
 But people are too generally looking outwardly to find God,
 and in this outward looking they are told about a devil--some monstrous
@@ -694,15 +657,13 @@ creature--some self-existing creature--that is terrible in power.
 Now all this seeking to know God, and this devil, or the serpent without,
 is the work of darkness, superstition, and tradition.
 It has no foundation; it is all breath and wind without the power.
-(Philadelphia Sermons, p. 163.)
-
---
+____
 
 [.offset]
 Again, in the same sermon, he said:
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 166."]
+____
 
 What is the devil?
 It is that cunning,
@@ -710,35 +671,31 @@ twining wisdom--that serpentine wisdom of man It
 is nothing but excess that makes the drunkard.
 Here now we see where sin begins; here we see where devils are created--by man himself;
 he is the author of them all, as he is the only fallen angel upon earth.
-(Philadelphia Sermons, p. 166.)
+____
 
---
-
+[.offset]
 In like manner, at Trenton, on the 12th of twelfth month, 1824, he said:
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 293."]
+____
 
 Who are the devils?
 Apostate men and women who go contrary to God.
 They are all devils.
 Everything that is in opposition to the will of God is a devil.
-(Philadelphia Sermons, p. 293.)
+____
 
---
-
+[.offset]
 Of the same tenor is what he said at the Northern District Meetinghouse,
 in Philadelphia, on the 16th of eleventh month, 1824, as follows:
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 37."]
+____
 
 We may remember what the apostle declared, that Satan,
 the name given to that tempting disposition in us, which is the man of sin,
 self and self-will in man; there is no other man of sin that I ever knew or found.
-(Philadelphia Sermons, p. 37.)
-
---
+____
 
 Had he forgotten, while making these bold assertions,
 the distinct account in the New Testament,
@@ -755,112 +712,102 @@ or else blasphemed his Lord and Master!
 Respecting the Scripture account of the Garden of Eden: On the 5th of twelfth month,
 1824, at a meeting at Germantown, he said:
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 113."]
+____
 
 What is Eden`'s Garden, my friends?
 It is the place where the Lord God is pleased to commune with his creatures face to face,
 and nowhere else.
 It is everywhere where God is.
-(Philadelphia Sermons, p. 113.)
+____
 
---
-
+[.offset]
 In a sermon preached at Horsham, Pa., on the 16th of twelfth month, 1826, he said:
 
-[.embedded-content-document]
---
+[quote,, "`The Quaker, vol.
+iv, p. 27.`"]
+____
 
 And what was that?
 It was a state of communion with the Holy One.
 It was no located spot, my friends: the Garden of Eden, so called,
 was never located on earth.
-(The Quaker, vol.
-iv, p. 27.)
+____
 
---
-
+[.offset]
 And at Middletown, on the 19th of twelfth month, 1826, he said:
 
-[.embedded-content-document]
---
+[quote,, "`The Quaker, vol.
+iv, p. 203.`"]
+____
 
 I say there never was any such tree, nor any such garden, outwardly,
 as is here represented, but it is a figure or allegory.
-(The Quaker, vol.
-iv, p. 203.)
-
---
+____
 
 [.offset]
 And at Byberry, on the 8th of twelfth month, 1824, he said:
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 167."]
+____
 
 And what were the trees in the Garden of Eden?
 They were the propensities of man in his animal body.
 These are the trees that will grow if they are not kept down by pruning.
-(Philadelphia Sermons, p. 167.)
-
---
+____
 
 [.offset]
 In a sermon included in the New York edition, he spoke of:
 
-[.embedded-content-document]
---
+[quote, , "New York Sermons, p. 88."]
+____
 
 The same covenant of light and life which he made with our
 first parents when placed in the paradise of God;
 which was no particular local spot, but a state and condition of the soul,
 which was suitable to have communion with its Maker.
-(New York Sermons, p. 88.)
+____
 
---
-
+[.offset]
 And (marvelous confusion!) in preaching at Trenton, on the 12th of twelfth month, 1824,
 he declared:
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 317."]
+____
 
 For God must be the tree of the knowledge of good and evil.
 There was no tree of the knowledge of good and evil but God himself.
-(Philadelphia Sermons, p. 317.)
+____
 
---
-
+[.offset]
 Respecting the fall of man,
 we may gather his views from the following assertion
 made in a sermon preached at the Falls,
 in Bucks County, Pa., twelfth month 20th, 1826:
 
-[.embedded-content-document]
---
+[quote,, "`The Quaker, vol.
+ii, p. 266.`"]
+____
 
 I certainly know that I have never felt any loss from Adam`'s sin.
 I have never felt anything to induce me to commit sin,
 but a desire in myself to gratify my propensities beyond
 the design of heaven in giving those propensities to me.
-(The Quaker, vol.
-ii, p. 266.)
+____
 
---
-
+[.offset]
 Respecting reason, and its supremacy,
 so much vaunted by the French revolutionary school of philosophers falsely so called,
 he said, at a meeting at Newtown, Pa., on the 9th of twelfth month, 1824:
 
-[.embedded-content-document.letter]
---
+[quote, , "Philadelphia Sermons, p. 207."]
+____
 
 I say, if Antichrist brings anything up which has a counterfeit appearance,
 our reason is a balancing principle.
-(Philadelphia Sermons, p. 207.)
+____
 
---
-
+[.offset]
 In a printed letter to Dr. Edwin A. Atlee, of Philadelphia,
 defending himself against some charges of having expressed unsound views
 in an interview which Anna Braithwaite had with him at his house in 1824
@@ -870,27 +817,26 @@ he makes the following deliberate assertion;
 a dogma which was caught up by his followers and echoed
 throughout the land as if it were a fundamental truth:
 
-[.embedded-content-document]
---
+[quote]
+____
 
 I admit that I did assert, and have long done it,
 that we cannot believe what we do not understand.
+____
 
---
-
+[.offset]
 And yet, in preaching at the Western meetinghouse, Philadelphia,
 on the 1st of twelfth month, 1824, he could so far forget his adulation of Reason,
 as to utter the following indiscriminate fulmination against those who
 are making the most constant efforts to improve and promote it by knowledge:
 
-[.embedded-content-document]
---
+[quote, , "Philadelphia Sermons, p. 53."]
+____
 
 Oh, that men of science might be aware,
 what a curse they are to the inhabitants of the earth!
-what a great curse! (Philadelphia Sermons, p. 53.)
-
---
+what a great curse!
+____
 
 The foregoing exhibit of only a few of his own authenticated
 words places it beyond any reasonable doubt,
@@ -1319,8 +1265,8 @@ This letter elicited another from the elders, dated 4th of first month, 1823, wh
 among other expressions of their deep concern on his account,
 and the irregularity of his conduct, they say:
 
-[.embedded-content-document.letter]
---
+[quote]
+____
 
 On a subject of such importance the most explicit candor and ingenuousness,
 with a readiness to hear, and to give complete satisfaction, ought ever to be maintained.
@@ -1329,8 +1275,7 @@ As to the certificate which accompanied your letter,
 made several weeks after the circumstances occurred,
 it is in several respects both vague and ambiguous; and in others,
 though in different terms, it corroborates the statement at first made.
-
---
+____
 
 Viewing the whole subject, they express their sorrowful but unavoidable conclusion,
 that E. H. was holding and disseminating principles at variance with those of the Society;
@@ -2063,8 +2008,8 @@ that God alone is the sovereign Lord of conscience.`"
 Then, coming to our own days,
 they thus expressed their idea of the grievances they were subjected to:
 
-[.embedded-content-document.address]
---
+[quote]
+____
 
 We are constrained to declare, that the unity of this body +++[+++the Yearly Meeting]
 is interrupted; that a division exists among us,
@@ -2078,8 +2023,7 @@ and the comforts and enjoyments even of social interaction greatly diminished.
 Measures have been pursued which we deem oppressive,
 and in their nature and tendency calculated to undermine and destroy those benefits,
 to establish and perpetuate which should be the purpose of every religious association.
-
---
+____
 
 After some further remarks, respecting order, discipline, and forbearance,
 which (if they had but known it) reflected back with double force upon their own conduct,
@@ -2865,8 +2809,8 @@ clear view of the subject as treated in that periodical.^
 footnote:[The Friend, Philadelphia, vol.
 ii, p. 37.]
 
-[.embedded-content-document.paper]
---
+[quote]
+____
 
 Epistles were produced from meetings of the seceders, styled Yearly Meetings,
 which were read and minuted,
@@ -3002,8 +2946,7 @@ footnote:[See also in the same article,
 at page 69 of the same volume of The Friend a lucid development of the fallacy
 of the Hicksites`' denial of the charge of not owning the divinity of Christ,
 and how they attempt to distinguish between Jesus and "`the Christ.`"]
-
---
+____
 
 The reader will please to bear in mind that the above
 arguments and conclusions of The Friend,
@@ -3058,7 +3001,7 @@ and thus clear the Society from all responsibility for his sentiments and course
 The Testimony is an important historic document, taking a view of the whole case.
 It is therefore here transcribed.
 
-[.embedded-content-document.testimony]
+[.embedded-content-document.testimomy]
 --
 
 [.blurb]
