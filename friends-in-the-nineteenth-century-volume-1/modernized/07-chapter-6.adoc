@@ -280,8 +280,8 @@ after mentioning that with the exception of having visited the women`'s meeting,
 he had been silent through all the meetings for business,
 being greatly exercised therein, he says:
 
-[.embedded-content-document]
---
+[quote, , Page 124.]
+____
 
 In this meeting,
 great professions of faith in the mediation and atonement of Jesus Christ our Lord,
@@ -311,15 +311,14 @@ where my head was as waters, and my eyes as fountains of tears,
 in weeping for the backsliding of the sons and daughters of my people,
 occasioning the face of the beloved to be so turned from us,
 in the day of our great necessity.
-(Page 124.)
+____
 
---
-
+[.offset]
 Again, after attending the Half-Yearly Meeting for Wales, which was, he says,
 a painful meeting to him throughout, he remarks:
 
-[.embedded-content-document]
---
+[quote, , Page 137.]
+____
 
 I kept to my chamber in the evening,
 and there mourned over the state of things in this land;
@@ -349,15 +348,13 @@ and what the result of things will be, is difficult to foresee.
 But many there are among this people,
 who are truly awakened to serious and fearful apprehensions,
 lest this Society should be shaken from its foundation.
-(Page 137.)
-
---
+____
 
 [.offset]
 A few months afterwards, he remarks:
 
-[.embedded-content-document]
---
+[quote, , Page 150.]
+____
 
 A disposition is making its appearance in several places in this nation,
 and among Friends, to think very little of the cross of Christ, practically,
@@ -376,14 +373,13 @@ And there is much reason to fear, that these wise and learned professors under o
 who seem disposed to look down rather contemptuously upon the old sort of Friends,
 are designing to bring about a change in some of
 the prominent and essential doctrines of our Society.
-(Page 150.)
+____
 
---
-
+[.offset]
 At London and Middlesex Quarterly Meeting, which was "`very full and large,`" he says:
 
-[.embedded-content-document]
---
+[quote, , Page 157.]
+____
 
 Dear Ann Jones was exercised in solemn supplication,
 and William Allen and Daniel Wheeler, in testimony, acceptably; but as for me,
@@ -407,9 +403,8 @@ and the tabernacle of those who have slidden from the sure foundation, the Rock 
 however lofty and beautiful to look upon, will be thrown down,
 and removed out of the way,
 and their place will be known no more in the heritage
-of the Lord`'s spiritual Israel.`"(Page 157.)
-
---
+of the Lord`'s spiritual Israel.`"
+____
 
 Under these sorrowful apprehensions,
 and in deep solicitude for the safety of the Society,
@@ -426,8 +421,8 @@ written while the letters were in process of being printed,
 contains the following development of their motives
 in thus undertaking the publication of them.
 
-[.embedded-content-document.letter]
---
+[quote]
+____
 
 My mind is very well, and resolute in carrying forward the publication of these letters,
 believing the very fulness of time is come for something of the kind to be given forth,
@@ -437,8 +432,7 @@ and I am satisfied, in that it has in any degree,
 fallen to our lot to assist in raising again the ancient standard of Truth in this country,
 where George Fox so faithfully labored; and that which it will expose us to,
 from loose and careless professors, we are willing to bear for Jesus Christ`'s sake.
-
---
+____
 
 These six letters to George Crosfield appear to have been
 published by him while John Wilbur was absent in Ireland,
@@ -454,8 +448,8 @@ and man`'s cooperation with the offers of his grace,
 by repentance and submission to the sanctifying and regenerating efficacy of his Spirit;
 and concluded with the following salutary expressions:
 
-[.embedded-content-document.letter]
---
+[quote]
+____
 
 Then how needful it is to have a full belief in the doctrines of Scripture,
 and in every part of them; not merely assenting to some and passing slightly over others,
@@ -475,8 +469,7 @@ but that every one of us may be so quickened and made alive unto God,
 by the resurrection power of Jesus Christ,
 as to be furnished and blessed with the perceptive and all-instructive
 guidance and influence of his Holy Spirit.
-
---
+____
 
 The third letter showed the frequent tendency there
 had been in the professing Christian Church,
@@ -874,7 +867,7 @@ with the egotism which now became a prominent characteristic of his writings,
 published several pamphlets in support of his own conduct,
 and one endeavoring to destroy the religious standing of our early Friends;^
 footnote:[This was well answered in 1837 by Samuel Tuke,
-in [.book-title]#A Plea on behalf of George Fox and the Early Friends.#]
+in [.book-title]#A Plea on Behalf of George Fox and the Early Friends.#]
 and soon left England again for America,
 having probably found his advocacy of the party more largely drawing
 on his pecuniary resources than the remuneration warranted.
@@ -1794,8 +1787,8 @@ It is well exemplified in the following narration.^
 footnote:[See [.book-title]#The Friend,# Philadelphia, second month 1st, 1873.
 Taken from the British Friend.]
 
-[.embedded-content-document]
---
+[quote]
+____
 
 To subvert the orthodox doctrines, as held by George Fox and his contemporaries,
 was the object of Isaac Crewdson and his adherents; and to achieve it,
@@ -1896,8 +1889,7 @@ Elizabeth Knott.
 [.signed-section-context-close]
 Rathangan, sixth mo.
 21st, 1807.
-
---
+____
 
 The individual alluded to in the foregoing account
 is understood to have been Henry Treffry,
