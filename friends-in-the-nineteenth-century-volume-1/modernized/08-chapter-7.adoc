@@ -409,8 +409,8 @@ and at a subsequent sitting brought in a form for the paragraph,
 which after some slight changes stood as follows:^
 footnote:[_Ibid.,_ page 30.]
 
-[.embedded-content-document]
---
+[quote]
+____
 
 Often as our religious Society has declared its belief
 in the divine authority of the Holy Scriptures,
@@ -450,8 +450,7 @@ and that we may obtain a right understanding of them in the fear of the Lord.
 Let us never forget that their true purpose is, under the influence of the Holy Spirit,
 to bring us to our Lord Jesus Christ, that, by a living operative faith in Him,
 we may obtain reconciliation with the Father, and be made partakers of everlasting life.
-
---
+____
 
 Though some of this was true, yet in its intent and aim it was false and insidious.
 It would be difficult to explain where the committee found
@@ -855,71 +854,22 @@ J+++.+++ J. Gurney had by this time manifested,
 in his numerous publications (irrespective of the last named Brief Remarks on Interpretation),
 the following points of variance from the settled characteristic doctrines of Friends.
 
-[.embedded-content-document]
---
-
-[.discourse-part]
-He considered that the saving knowledge of God
-was to be obtained only through the Scriptures--though
-granting the need of the aid of the Holy Spirit in applying them.
-
-[.discourse-part]
-That for this end, the Scriptures are to be studied,
-with such helps as can be obtained from commentaries, and the plain laws of criticism,
-"`familiar to every scholar.`"
-
-[.discourse-part]
-That the Scriptures are the primary rule of faith and practice--not the Spirit--though
-granting the latter to be prior to them in point of "`order and dignity.`"
-
-[.discourse-part]
-That the Bible is "`the only authorized record of divine truth,`" "`the divinely
-appointed means of conversion,`" the "`only means whereby to obtain a knowledge
-of sin,`" or of a "`call to repentance,`" or of the "`attributes of our Heavenly
-Father,`" or of our "`moral duties,`" and that the evangelical narratives therein
-are "`the Gospel;`" thus practically discarding our great fundamental doctrine
-of Immediate Revelation and Universal and Saving Light,
-as stated by Barclay and others.
-
-[.discourse-part]
-That faith is a "`reliance of the soul on the incarnate Son,`" yet that
-it is a "`natural faculty,`" and confounding it with Belief.
-
-[.discourse-part]
-That the righteousness of Christ is imputed to believers
-in Him--to "`whoever places his reliance on him as the atonement
-for sin,`" even though "`vile and polluted`" with sin;
-thus saving men in their sins,
-not from them--therefore that "`justification precedes sanctification.`"
-
-[.discourse-part]
-That the Father is a person--the Son a person--and the Holy Spirit a person--also speaking
-of them as "`plurality in unity,`" and "`plurality in essence,`" terms quite as objectionable
-and unscriptural as "`Trinity in unity,`" if not more so.
-
-[.discourse-part]
-That there is a "`separate state,`" a "`mansion of separate
-spirits,`" between this life and the one of eternal duration.
-That these same bodies will rise in the resurrection, as spiritual bodies.
-
-[.discourse-part]
-That the first-day of the week is "`the Christian Sabbath`"--a "`hallowed day.`"
-
-[.discourse-part]
-That daily prayer in words and on the knees,
-ought to be taught to children as a "`habit.`"
-
-[.discourse-part]
-That all mankind are in "`punishable guilt`" in consequence
-of the transgression of our first parents;
-"`inheriting a nature injected with sin,`" and are "`from birth vile and polluted essentially,
-the common doctrine of original sin.`"^
+[.syllogism]
+* He considered that the saving knowledge of God was to be obtained only through the Scriptures--though granting the need of the aid of the Holy Spirit in applying them.
+* That for this end, the Scriptures are to be studied, with such helps as can be obtained from commentaries, and the plain laws of criticism, "`familiar to every scholar.`"
+* That the Scriptures are the primary rule of faith and practice--not the Spirit--though granting the latter to be prior to them in point of "`order and dignity.`"
+* That the Bible is "`the only authorized record of divine truth,`" "`the divinely appointed means of conversion,`" the "`only means whereby to obtain a knowledge of sin,`" or of a "`call to repentance,`" or of the "`attributes of our Heavenly Father,`" or of our "`moral duties,`" and that the evangelical narratives therein are "`the Gospel;`" thus practically discarding our great fundamental doctrine of Immediate Revelation and Universal and Saving Light, as stated by Barclay and others.
+* That faith is a "`reliance of the soul on the incarnate Son,`" yet that it is a "`natural faculty,`" and confounding it with Belief.
+* That the righteousness of Christ is imputed to believers in Him--to "`whoever places his reliance on him as the atonement for sin,`" even though "`vile and polluted`" with sin; thus saving men in their sins, not from them--therefore that "`justification precedes sanctification.`"
+* That the Father is a person--the Son a person--and the Holy Spirit a person--also speaking of them as "`plurality in unity,`" and "`plurality in essence,`" terms quite as objectionable and unscriptural as "`Trinity in unity,`" if not more so.
+* That there is a "`separate state,`" a "`mansion of separate spirits,`" between this life and the one of eternal duration. That these same bodies will rise in the resurrection, as spiritual bodies.
+* That the first-day of the week is "`the Christian Sabbath`"--a "`hallowed day.`"
+* That daily prayer in words and on the knees, ought to be taught to children as a "`habit.`"
+* That all mankind are in "`punishable guilt`" in consequence of the transgression of our first parents; "`inheriting a nature injected with sin,`" and are "`from birth vile and polluted essentially, the common doctrine of original sin.`"^
 footnote:[For proofs of his advocating those sentiments
 see _An Examination of His Life and Writings,_
 Philadelphia, 1856; also the _Appeal for the Ancient Doctrines,_
 and _John Wilbur`'s Exposition._]
-
---
 
 Besides the writings of J. J. Gurney,
 which exerted a powerful influence in modifying the views and practices
