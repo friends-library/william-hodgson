@@ -438,7 +438,7 @@ seem too prone to sink under the present gloom.`"
 It was, however, reported to the meeting at this time, especially from Ulster Province,
 that the discipline had in a good degree been carried into effect,
 so as to reach most of the cases of disorder.
-The editor of the Journal of William Savery (the
+The editor of the [.book-title]#Journal of William Savery# (the
 late Jonathan Evans of Philadelphia) says,
 respecting the parties engaged in this schism,
 when alluding to some of William Savery`'s exercising labors while travelling among them,
@@ -642,7 +642,7 @@ without ever having been reunited to the Society.
 The Society in Ireland had become much diminished and weakened by this sorrowful schism;
 and in England a few individuals became partisans of Hannah Barnard,
 and advocated similar views to some extent.
-William Eathbone, of Liverpool, published, in 1804, a Narrative of Events in Ireland,
+William Eathbone, of Liverpool, published, in 1804, a [.book-title]#Narrative of Events in Ireland,#
 etc., already alluded to,
 giving his version of these sad occurrences in such a manner as
 to show plainly that he was not himself one in faith with Friends.

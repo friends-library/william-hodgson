@@ -152,9 +152,9 @@ J+++.+++ J. Gurney began to publish a series of professedly religious works,
 by which this tendency to the opposite errors was rapidly extended
 and greatly encouraged over the Society in Great Britain.
 Between the years 1820 and 1826, he had published edition after edition of several books,
-including his Letter (to Dr. Alderson, father of Amelia Opie) on Christianity,
-his Peculiarities (afterwards styled Distinguishing Views), of the Society of Friends,
-and his Essays on the Evidences, Doctrines, and Practical Operation of Christianity;
+including his [.book-title]#Letter on Christianity,# (to Dr. Alderson, father of Amelia Opie),
+his [.book-title]#Peculiarities of the Society of Friends# (afterwards styled [.book-title]#Distinguishing Views#),
+and his [.book-title]#Essays on the Evidences, Doctrines, and Practical Operation of Christianity;#
 whole editions of some or all of which were gratuitously
 distributed among the members and others;
 and thus sown broadcast over the land they seemed
@@ -616,8 +616,7 @@ And being of a fluent pen as well as speech, Isaac Crewdson, William Boulton,
 and other leaders in the schism,
 gladly associated him with themselves in their attempts to subvert
 the characteristic doctrines and testimonies of the Society.
-In the year 1835, Isaac Crewdson of Manchester, published a small book, entitled,
-A Beacon to the Society of Friends,
+In the year 1835, Isaac Crewdson of Manchester, published a small book, entitled, [.book-title]#A Beacon to the Society of Friends,#
 ostensibly warning the members against the awful errors of Elias Hicks,
 on the assumption that many of the writings of our earliest authors tended in that direction,
 and calling the Society in this day to sentiments supposed
@@ -628,11 +627,11 @@ was followed by a shower of pamphlets in the same direction,
 many of which were very crude and frothy,
 but all tending to raise a commotion and kindle unhallowed fire.
 
-The Beacon by Isaac Crewdson,
+The [.book-title]#Beacon# by Isaac Crewdson,
 and the Bible studying meetings held at the house of William Boulton,
 were indeed nothing more than a genuine fruit of the views which had been advocated
 for about ten years in the successive publications of Joseph John Gurney.
-The difference between J. J. Gurney`'s writings and the Beacon, was simply this,
+The difference between J. J. Gurney`'s writings and the [.book-title]#Beacon,# was simply this,
 that the former laid the groundwork, and the latter the superstructure;
 that the former used comparatively cautious language, while the latter spoke plain out;
 that the former upheld the Scriptures as the source of divine knowledge,
@@ -654,7 +653,7 @@ in all the glorious variety of its details.`"^
 footnote:[See J. J. Gurney`'s [.book-title]#Portable Evidence,# English edition, pp.
 69, 91, 114,
 etc.]
-The Beacon discarded the universal and saving efficacy of the light of Christ,
+The [.book-title]#Beacon# discarded the universal and saving efficacy of the light of Christ,
 inwardly revealed; and denied any true knowledge of God, or of his salvation,
 except through the Scriptures--taught that it was a "`pernicious
 theory`" to speak of the Scriptures as secondary,
@@ -674,7 +673,7 @@ footnote:[[.book-title]#Gurney`'s Essays on Christianity,# Amer.
 edit+++.+++, p. 390.]
 and that faith "`is a reliance of the soul on the incarnate
 Son`" thus limiting it to the incarnation alone.
-In like manner, the Beacon said:
+In like manner, the [.book-title]#Beacon# said:
 "`Our immense debt is cancelled by the precious blood of Christ, if, by faith,
 we lay hold on Him as our surety.`"
 Do not both these statements equally overstrain the precious doctrine
@@ -686,7 +685,7 @@ and opening the door, towards calling them the Word of God;^
 footnote:[_Ibid.,_ pp.
 88, 350, etc.]
 and had declared that from them "`we derive our hopes of the immortal crown of righteousness.`"
-The author of the Beacon, in like manner, though more openly,
+The author of the [.book-title]#Beacon,# in like manner, though more openly,
 styled them "`the Word,`" "`the Word of God;`" argued to prove
 the correctness of the term as applied to them as well as to Christ;
 and (page 92) restricted the possession of the "`law written in the heart,`"
@@ -712,7 +711,7 @@ in pulling down the old landmarks of our profession.
 It may indeed be safely said,
 that the works of J. J. Gurney were far more efficient
 in bringing "`Beaconism`" upon the Society,
-than the writings of the author of the Beacon;
+than the writings of the author of the [.book-title]#Beacon;#
 and that the latter never could have accomplished the schism it promoted,
 had not the ground been prepared for it beforehand,
 by the general acceptance of the books published by J. J. Gurney.
@@ -730,7 +729,7 @@ rather than either to modify his expressions for the sake of making peace,
 or to allow himself to be persuaded that he was in error,
 by men whom he plainly saw to be weakly inconsistent with their own expressed convictions.
 J+++.+++ J. Gurney also seems to have perceived that the rapid course
-of the advocates of the Beacon was likely to drift them quickly
+of the advocates of the [.book-title]#Beacon# was likely to drift them quickly
 into a separation from the main body of the Society;
 and not being prepared for that step himself,
 but aiming to carry the whole Society into an acceptance
@@ -739,23 +738,23 @@ he preferred to abandon these his too ardent pupils, and let them drift, if they
 rather than launch himself with them on so desperate a venture.
 
 There were several attempts soon made, through the press,
-to counteract the pernicious tendency of the opinions advanced in the Beacon.
+to counteract the pernicious tendency of the opinions advanced in the [.book-title]#Beacon.#
 The first of these was a short letter, addressed to its author by Thomas Thompson,
 an Elder of Liverpool Meeting.
-Then followed a more elaborate Defence of the Doctrine of
-Immediate Revelation and Universal and Saving Light,
+Then followed a more elaborate [.book-title]#Defence of the Doctrine of
+Immediate Revelation and Universal and Saving Light,#
 by Thomas Hancock, M. D., another elder of Liverpool;
 which showed in a clear and firm manner, but with a mild and moderate tone of argument,
 the reasonableness of the true doctrine of Friends on these subjects,
 their accordance with Scripture truth,
-and their incongruity with the views advocated in the Beacon.
-After this came a fiery attack on the Beacon,
-and its coadjutors both in and outside of the Society, entitled,
-"`Truth Vindicated,`" etc., a book of 224 pages, published anonymously,
+and their incongruity with the views advocated in the [.book-title]#Beacon.#
+After this came a fiery attack on the [.book-title]#Beacon,#
+and its coadjutors both in and outside of the Society,
+entitled, [.book-title]#Truth Vindicated,# etc., a book of 224 pages, published anonymously,
 but soon afterwards known to be written by Henry Martin, a young and ardent man,
 zealously attached to Friends`' principles as advocated by our early writers.
 
-This was a powerful and crushing rebuke of the Beacon; but the writer indulged, perhaps,
+This was a powerful and crushing rebuke of the [.book-title]#Beacon;# but the writer indulged, perhaps,
 in too much of a taunting harshness of expression,
 calculated to produce irritation among those whom he so recklessly lashed; and, moreover,
 launched into a very bold and aggressive mode of warfare,
@@ -786,35 +785,35 @@ Owens, and Keiths of former days,
 he did not condescend to stop to make all his own modes of expression secure from attack,
 or to tell the whole truth, further than appeared to him needful for his own purpose,
 in crushing the position of his antagonists.
-A very different antidote to the doctrines of the Beacon appeared also in 1835,
-under the title of The Light of Christ exalted,
-or the More Excellent Way Briefly Set Forth, a small book of about sixty-eight pages,
+A very different antidote to the doctrines of the [.book-title]#Beacon# appeared also in 1835,
+under the title of [.book-title]#The Light of Christ Exalted,
+or the More Excellent Way Briefly Set Forth,# a small book of about sixty-eight pages,
 by Joseph Sutton, of Manchester.
-Though this little work was not ostensibly aimed at the Beacon,
+Though this little work was not ostensibly aimed at the [.book-title]#Beacon,#
 but was addressed to the Methodists,
 with whom the writer had formerly been in connection,
 yet it furnished a good practical refutation of the fallacious
-and backsliding views of the author of the Beacon,
+and backsliding views of the author of the [.book-title]#Beacon,#
 was written in a spirit of piety and tenderness,
 and supported the true doctrines of Friends.
 
 John Harrison, another member of Manchester Meeting, zealous against all innovations,
 and firm in "`contending for the faith once delivered
 to the saints,`" came forth the next year (1836),
-with A Lamp for the Beacon Showing by Many Parallel Passages,
+with [.book-title]#A Lamp for the Beacon Showing by Many Parallel Passages,
 that its Erroneous Sentiments were but the Reiteration of What had in
 Old Time been Abundantly Cast as Mire and Dirt Against Our Early Friends,
 by Sundry Opposers of the Truth,
-and had been Again and Again Refuted by George Fox and Others.
+and had been Again and Again Refuted by George Fox and Others.#
 In 1836 also, J. J. Gurney entered the list of writers in this controversy,
-not by opposing the Beacon, but by attacking the author of Truth Vindicated.
+not by opposing the [.book-title]#Beacon,# but by attacking the author of [.book-title]#Truth Vindicated.#
 This he did with a portion at least of the same acrimony
-as the latter had used towards the Beacon and its eulogists,
+as the latter had used towards the [.book-title]#Beacon# and its eulogists,
 and with much more unfairness.
-His Strictures on Truth Vindicated,
+His [.book-title]#Strictures on Truth Vindicated,#
 while professing to support what he called the doctrines of the Society,
-did great injustice to the author of Truth Vindicated,
-and rather materially promoted than in any way damaged, the cause of the Beacon;
+did great injustice to the author of [.book-title]#Truth Vindicated,#
+and rather materially promoted than in any way damaged, the cause of the [.book-title]#Beacon;#
 inasmuch as he therein showed that he was himself sorrowfully defective
 in his appreciation of some of the fundamental doctrines of Friends,
 especially with regard to immediate revelation,
@@ -853,7 +852,7 @@ this time without any credentials, and professedly on the ground of outward busi
 but in reality with the intent of helping forward
 the "`Beacon`" party to the best of his ability.
 With this view,
-he almost immediately commenced the publication of his Miscellaneous Repository in England,
+he almost immediately commenced the publication of his [.book-title]#Miscellaneous Repository# in England,
 and continued it for several numbers,
 as a vehicle for his attacks on the ancient landmarks;
 and in the autumn he went so far in the practical exemplification
@@ -886,7 +885,7 @@ though highly esteemed in the community,
 for his scientific attainments and his general moral worth.
 Having relinquished business, and retired into Yorkshire,
 he published for several years (as an employment for his
-leisure) a periodical entitled The Yorkshireman,
+leisure) a periodical entitled _The Yorkshireman,_
 which furnished a vehicle for some valuable information,
 and an outlet for some of his strange ideas.
 When the "`Beacon`" controversy broke out,
@@ -980,21 +979,21 @@ letter resigning his membership in the Society.
 The next year he published his reasons for leaving Friends,
 in a scurrilous attack on the Society (containing
 many often refuted charges brought up anew),
-in a work of about 500 pages, entitled, Quakerism Examined.
+in a work of about 500 pages, entitled, [.book-title]#Quakerism Examined.#
 
-The author of Truth Vindicated was not to be so easily
+The author of [.book-title]#Truth Vindicated# was not to be so easily
 silenced by the authority of name or rank,
-or by the self-assumed weight of "`magister ipse dixit,`" without the support of truth,
+or by the self-assumed weight of _magister ipse dixit,_ without the support of truth,
 as J. J. Gurney seemed to have imagined.
-He soon published a reply to J. J. Gurney`'s Strictures,
-entitled Early Friends and Modern Professors, a book of about 150 pages, 12mo.,
+He soon published a reply to [.book-title]#J. J. Gurney`'s Strictures,#
+entitled [.book-title]#Early Friends and Modern Professors,# a book of about 150 pages, 12mo.,
 in which he brought clear argument and ample evidence,
 from the writings of our early Friends, to sustain his own positions,
 and to fasten upon J. J. Gurney, in an incontestable manner,
 the charge of unfair misrepresentation of his former work,
 and of palpable unsoundness in regard to some of the fundamental doctrines of the Society.
 He also cleared himself from imputations to which certain lax modes
-of expression in the Truth Vindicated had somewhat exposed him;
+of expression in the [.book-title]#Truth Vindicated# had somewhat exposed him;
 and showed beyond reasonable dispute,
 that if J. J. Gurney had truly charged his book with "`infidelity`"
 our most cherished writers were no less liable to the awful charge.^
@@ -1009,20 +1008,20 @@ He remained silent, at least, so far as the press was concerned.
 In the Yearly Meeting of London, in the fifth month, 1835,
 the disunity in Lancashire Quarterly Meeting was brought into view;
 and Josiah Forster proposed the appointment of a committee to extend care and assistance,
-alleging that the publication of the Beacon was the origin of the disunity existing.
+alleging that the publication of the [.book-title]#Beacon# was the origin of the disunity existing.
 A committee was already under appointment by that Quarterly Meeting, on the same subject.
 Luke Howard now opposed the appointment of any committee by the Yearly Meeting.
 Joseph John Gurney expressed his approval of the
-sentiments of the Beacon on the subject of the atonement,
+sentiments of the [.book-title]#Beacon# on the subject of the atonement,
 but believed it was defective and incorrect respecting
 the universality of the Light of Christ,
 and the influence of the Spirit;
-but he "`still more highly disapproved of Dr. Hancock`'s reply`" +++[+++Defence],
+but he "`still more highly disapproved of Dr. Hancock`'s reply`" +++[+++[_Defence_],
 and objected to this author having made "`references to Barclay,
 rather than to the Holy Scriptures.`"
 In the discussion which ensued,
 it appeared that the Monthly Meeting of Hardshaw East (Manchester,
-etc.) had not taken any steps against the author of the Beacon;
+etc.) had not taken any steps against the author of the [.book-title]#Beacon;#
 but the appointment of the above-mentioned committee by the Quarterly
 Meeting was considered as having this purpose in view,
 and was therefore looked upon by some as improperly
@@ -1031,7 +1030,7 @@ although its object in reality was to assist the sound members
 of that meeting in the maintenance of the discipline.
 
 J+++.+++ J. Gurney "`raised a point of discipline`" on this,
-"`in favor of his dear friend,`" the author of the Beacon,
+"`in favor of his dear friend,`" the author of the [.book-title]#Beacon,#
 and proposed that Lancashire Quarterly Meeting should
 be directed to discharge their committee,
 "`and to suspend all further proceedings against`" the book or its author,
@@ -1043,8 +1042,8 @@ that the fundamental doctrines of the Society were at stake in allowing that boo
 others of the same stamp to continue to circulate among its members unrebuked.
 In what Josiah Forster afterwards said on the subject,
 he appeared to urge the appointment of a committee,
-as much with a view to stop Thomas Hancock`'s Defence,
-as to check the circulation of the Beacon.^
+as much with a view to stop Thomas Hancock`'s [.book-title]#Defence,#
+as to check the circulation of the [.book-title]#Beacon.#^
 footnote:[See a [.book-title]#Report of the Proceedings of London Yearly Meeting,# 1835.
 Published by John Stephens, Fleet Street; pages 6 and 7.]
 The discussion of the subject, being resumed the next day,
@@ -1057,7 +1056,7 @@ Looking over these eminent names, we can scarcely fail to perceive,
 that in regard to the all-important matter of doctrines,
 the committee was composed of very discordant materials;
 but we may also apprehend that two men such as J. J. Gurney and Edward Ash,
-who must have known that if the doctrines of the Beacon were censured,
+who must have known that if the doctrines of the [.book-title]#Beacon# were censured,
 their own writings would share the same blame,
 would be likely at least to neutralize any attempt to come forth
 openly and unreservedly in support of our ancient principles.
@@ -1075,13 +1074,13 @@ and the great damage thus done to the Society by their means.
 J+++.+++ J. Gurney at once took the helm,
 and directed and controlled their proceedings in such a way as to shield
 himself from the censure which must have fallen upon him,
-if the Beacon`'s doctrines had been openly and clearly denounced.
+if the [.book-title]#Beacon`'s# doctrines had been openly and clearly denounced.
 
 The whole committee met in Lancashire at the Quarterly Meeting in the sixth month, 1835,
 and began a long series of blunders by acceding,
 under certain unworthy restrictions upon Isaac Crewdson,
 to his demand that all their observations to him
-respecting the Beacon should be in writing,
+respecting the [.book-title]#Beacon# should be in writing,
 after coming to a deliberate joint conclusion on its various parts.
 They furnished him, accordingly, with a statement of objections to the work,
 but desired him to take no copy, keep the document strictly in his own possession,
@@ -1178,10 +1177,10 @@ of men;`" but they speak of it as men who were afraid to speak out,
 hinting at "`divine visitations`" and "`gracious impressions,`" but by no means
 advocating the great doctrine of the Universal and Saving Light of Christ,
 as stated by our primitive writers, and owned since by all faithful Friends.
-And in the very next article, they adopt the actual words of the Beacon,
+And in the very next article, they adopt the actual words of the [.book-title]#Beacon,#
 acknowledging that, "`We willingly accede to the proposition,
 that through the Scriptures '`we obtain the knowledge of God`'s holy law`'
-(Beacon, p. 42), because that law is plainly declared and unfolded, in all its particulars,
+([.book-title]#Beacon,# p. 42), because that law is plainly declared and unfolded, in all its particulars,
 in the volume of inspiration.`"
 
 This, however, which is nearly J. J. Gurney`'s own words elsewhere,
@@ -1190,15 +1189,15 @@ that the law of God is not made known to us by the written revelation alone.`"
 Their whole advocacy, however, of this point, is exceedingly faltering and vacillating,
 and though in some parts of it they endeavor to make
 an appearance of not being willing to abandon it,
-yet in their summing up of the objections to the Beacon near the close of their statement,
+yet in their summing up of the objections to the [.book-title]#Beacon# near the close of their statement,
 they again speak of the Scriptures as "`the great
 appointed channel of the Christian revelation.`"
-While they charge the author of the Beacon with speaking of the "`Inward
+While they charge the author of the [.book-title]#Beacon# with speaking of the "`Inward
 Light`" as a "`delusive notion,`" and say that he denounces it "`as the
 theory of an infidel,`" and alludes to the doctrine of the "`anointing`"
 in "`disrespectful terms,`" and show that he is herein entirely in error,
 yet soon afterwards they say,
-"`We entirely acquit the author of the Beacon of
+"`We entirely acquit the author of the [.book-title]#Beacon# of
 any intention to speak against the Holy Spirit.`"
 And though besides all this,
 they plainly show that his remarks tend to depreciate our views
@@ -1216,7 +1215,7 @@ they were put to their wits`' end to contrive ground to
 stand upon without further compromising their own position.
 In saying this,
 I do not wish by any means to deny that many of their objections
-and arguments against the Beacon were undoubtedly sound and good;
+and arguments against the [.book-title]#Beacon# were undoubtedly sound and good;
 (the better element gaining at times a temporary ascendency in the committee);
 and I can cordially indorse the following expressions,
 with a regret that they had not more fully sustained them throughout:
@@ -1228,7 +1227,7 @@ and to cherish it for ourselves with humble gratitude as our dearest treasure.`"
 
 At their second visit, in the eighth month,
 Is. Crewdson presented a reply to their statement,
-in which he made a general plausible defence of the Beacon,
+in which he made a general plausible defence of the [.book-title]#Beacon,#
 congratulating the committee on their very scriptural views,
 and artfully expressing his satisfaction that there was "`so much accordance`"
 between their statements of Christian doctrines and his own sentiments.
@@ -1253,12 +1252,12 @@ was well calculated to convey an impression that
 there was but little difference between them.
 
 To this reply the committee answered in writing, and with good reason, that,
-in issuing such a warning as the Beacon against the errors of Elias Hicks,
+in issuing such a warning as the [.book-title]#Beacon# against the errors of Elias Hicks,
 the author ought to have made clear distinctions, for the reader,
 as to what dangers he was aiming at,
 by showing wherein the doctrines of Friends were
 departed from or misrepresented by Hicks.
-But while they still exhorted the author to suppress the circulation of the Beacon,
+But while they still exhorted the author to suppress the circulation of the [.book-title]#Beacon,#
 on account of its manifest tendency,
 they yet avowed themselves considerably relieved by the explanation which
 he had given them of his views on some points of Christian doctrine.
@@ -1271,7 +1270,7 @@ They again attended Lancashire Quarterly Meeting, held at Liverpool,
 in the twelfth month; and it appears,
 by a printed account of what occurred at that meeting,^
 footnote:[See the [.book-title]#Christian Advocate;# London, twelfth month 28th, 1835, page 414.]
-that more was said by the committee against Truth Vindicated, than against the Beacon.
+that more was said by the committee against [.book-title]#Truth Vindicated,# than against the [.book-title]#Beacon.#
 Josiah Forster designated the former as "`a very pernicious work,`" and even
 Samuel Tuke (if the account is to be trusted) spoke of its "`dangerous tendency.`"
 
@@ -1282,13 +1281,13 @@ and made use of them to his own advantage to such a degree,
 that the committee must have felt as if enwrapped by a web of their
 own materials--their own weak statements and needless concessions.
 He quoted also a part of a letter written to him by one of their number (J. J. Gurney),
-speaking with much approbation and satisfaction of certain features in the Beacon,
+speaking with much approbation and satisfaction of certain features in the [.book-title]#Beacon,#
 especially on the Atonement and Justification,
 as "`excellent,`" and many of the author`'s remarks as "`in accordance
 with the sentiments of every sound and enlightened Christian.`"
 After this,
 Isaac Crewdson reasoned with the committee on the supposed
-consequences of suppressing such a book as the Beacon;
+consequences of suppressing such a book as the [.book-title]#Beacon;#
 and, professing to have satisfied all their objections,
 demanded that they should either come forward with
 whatever they had further to object to,
@@ -1298,7 +1297,7 @@ The committee must have been in a pitiable strait
 to know how to get out of such an entanglement.
 But at the Monthly Meeting, held on the 24th of the twelfth month,
 they made a report of their proceedings.
-In this report they informed the meeting of their labors with the author of the Beacon,
+In this report they informed the meeting of their labors with the author of the [.book-title]#Beacon,#
 and his various replies to their objections;
 quoting many of his professions of unity with their views,
 as if they really did believe that in the main he was sound in the faith of Friends.
@@ -1309,9 +1308,9 @@ light`" was calculated to unsettle the minds of the young and inexperienced,
 and that "`the bearing and tendency of the work`" were opposed
 to our views of the spirituality of the gospel,
 and finding that he had not complied with their advice
-to suppress the further circulation of the Beacon,
+to suppress the further circulation of the [.book-title]#Beacon,#
 they gave their judgment,
-that "`the publication of the Beacon did furnish a ground of disunity with its author,
+that "`the publication of the [.book-title]#Beacon# did furnish a ground of disunity with its author,
 on the part of the Meeting of Ministers and Elders of this Monthly Meeting;`" but added,
 that they did "`not feel called upon, with reference to the doctrinal question,
 to recommend to the Monthly Meeting to take any proceedings in the case!`"
@@ -1326,7 +1325,7 @@ But the Monthly Meeting advised him to comply with the admonition.
 He was thus displaced as a minister.
 For a few months he remained pretty much silent,
 and further proceedings in his case seem to have been suspended,
-the Beacon nevertheless circulating as freely as ever.
+the [.book-title]#Beacon# nevertheless circulating as freely as ever.
 But during the summer of 1836,
 it appears that he frequently spoke again in the line of ministry,
 being probably encouraged to it by his adherents.
@@ -1349,13 +1348,13 @@ The proceedings of the committee in this case from first to last,
 appear to have been of an extraordinary character,
 and but poorly calculated either to heal the breach,
 or to enable the church to clear itself,
-by a decided testimony against the new views circulated by the Beacon and otherwise.
+by a decided testimony against the new views circulated by the [.book-title]#Beacon# and otherwise.
 And to make the matter worse,
 and compromise the whole body still more in a departure from ancient principles,
 the Yearly Meeting of London, during this year, 1836, had issued an epistle,
 containing expressions respecting the Scriptures,
 well known to have been indited by J. J. Gurney,
-and probably intended to meet the adherents of the Beacon,
+and probably intended to meet the adherents of the [.book-title]#Beacon,#
 on one important point at least, on their own terms.
 This epistle designated the "`sacred volume,
 as the only divinely authorized record of the doctrines of true religion;`"
@@ -1383,7 +1382,7 @@ there taken to the Monthly Meeting for its conclusion,
 as to the suspension of his ministry.
 
 But this was not the question in a primary sense.
-The question rightly before the committee was the alleged unsoundness of the Beacon,
+The question rightly before the committee was the alleged unsoundness of the [.book-title]#Beacon,#
 producing disunity in the meeting.
 On this subject, strange to tell, they gave their judgment to the Monthly Meeting,
 acknowledging that they had no charge to bring against its author, respecting doctrines,
@@ -1402,7 +1401,7 @@ and calculated to lay them waste.
 
 Isaac Crewdson had already presented to the committee, early in the ninth month,
 a supplement to his reply to their objections,
-or as he entitled it when printed as a pamphlet, his Defence of the Beacon;
+or as he entitled it when printed as a pamphlet, his _Defence of the Beacon;_
 a paper of considerable length, making about sixty printed 12mo. pages.
 In this paper he came forth more boldly than before with evidences
 of his divergence from the doctrines of early Friends;
@@ -1436,7 +1435,7 @@ After this he reminded them,
 that he had been "`informed in full committee (at
 least when twelve of thirteen were present),
 that your sentiments--were not in accordance with Barclay`'s unscriptural theory,
-the Vehioulum Dei.`"^
+the __Vehioulum Dei.__`"^
 footnote:[Why should any be so alarmed at these two Latin words,
 used by Barclay out of condescension to the schoolmen, and simply meaning the vehicle,
 or entrance into the soul of the Spirit of the Lord.]
@@ -1455,15 +1454,15 @@ in making his own use of these admissions of the committee and of the Yearly Mee
 They appear to have been devised especially to help him to stand his ground.
 In defending his application of 1 John 5:10,
 "`because he believed not the record that God gave of his Son,`"
-he seemed to be unaware that the word rendered record in this place,
+he seemed to be unaware that the word rendered _record_ in this place,
 // lint-disable invalid-characters
-is μαρτυρίαν (testimony), and the verb translated gave is μεμαρτύρνχεν (has testified),
+is μαρτυρίαν (testimony), and the verb translated _gave_ is μεμαρτύρνχεν (has testified),
 so that the expression by no means necessarily implies a written record.
 He objected to the "`scruple which +++[+++he said]
 many friends have had,
 to calling the Scriptures the word of God,`" and repeatedly
 applied that term to the Bible in this document.
-He reminded them again of the commendations of the Beacon,
+He reminded them again of the commendations of the [.book-title]#Beacon,#
 which he had received in a letter from "`one of the most
 distinguished members of your own body`" (Joseph J. Gurney),
 quoting it freely and ostentatiously;
@@ -1475,7 +1474,7 @@ To this remarkable document, a short note was sent in reply by the committee,
 without signature;
 saying that they did "`not consider it to be incumbent upon
 them to enter into any detailed notice`" of the manuscript,
-but that they did "`not consider their scriptural objections to the Beacon
+but that they did "`not consider their scriptural objections to the [.book-title]#Beacon#
 to be removed;`" and complaining of certain unfair "`insinuations`" which
 they thought the author had advanced against them.
 They endeavored to show their own soundness on the points involved in these insinuations;
@@ -1503,13 +1502,13 @@ Edward Ash in an article in the London [.book-title]#Friend,#
 of ninth month, 1870, above alluded to, and a reply thereto, signed D.,
 in the British [.book-title]#Friend# of eleventh month 1st, 1870.]
 
-In addition to the case of the Beacon,
+In addition to the case of the [.book-title]#Beacon,#
 the committee had also under its care that of William Boulton,
 an appointed Elder of Manchester Monthly Meeting,
 but who at times spoke in the line of ministry.
 He had been for several years prominent in the way
 of holding bible-studying meetings in his house,
-and in various other measures promoting the views advocated in the Beacon.
+and in various other measures promoting the views advocated in the [.book-title]#Beacon.#
 In the treatment of his case,
 the committee manifested the same weakness as in that of Is. Crewdson,
 and an unwarrantable evasiveness in regard to the true reasons for their action.
@@ -1629,7 +1628,7 @@ At the adjourned Monthly Meeting held eleventh month 1st,
 the committee undertook to restore to their functions
 the committee of the Quarterly Meeting,
 by introducing it formally into the Monthly Meeting.
-They had apparently been afraid to trust it with the case of the Beacon,
+They had apparently been afraid to trust it with the case of the [.book-title]#Beacon,#
 or with that of William Boulton;
 but now they were willing it should do what it might be able to do,
 to stop the disunity which they had so inefficiently attempted to check.
@@ -1679,7 +1678,7 @@ a committee was appointed to visit those who had resigned their membership.
 On the 15th of the same month, this committee made a feeling report of their labors;
 and the resignations, with a few exceptions, were then accepted, including Is. Crewdson,
 William Boulton, and their connections and adherents.
-Thus the Society allowed the author of the Beacon to depart,
+Thus the Society allowed the author of the [.book-title]#Beacon# to depart,
 without issuing any testimony to clear the church from his errors.^
 footnote:[Even in his letter of resignation, accepted by the meeting,
 he charged Robert Barclay with unsoundness of doctrine,
