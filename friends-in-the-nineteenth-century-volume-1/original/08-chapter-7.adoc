@@ -557,7 +557,7 @@ Many paragraphs thus omitted were of great doctrinal significance,
 and were restored in the edition of his Life and Gospel Labors,
 printed after his decease by his children, with the aid of Abraham Rawlinson Barclay.
 These omissions may be easily recognized by comparing pages 324, 344, 362, 365, 367, 417,
-549, 551, 568, 570, 571, 575, and the Address to the Missionaries, of eight pages,
+549, 551, 568, 570, 571, 575, and the _Address to the Missionaries,_ of eight pages,
 commencing at page 652, of the last-named work,
 with the corresponding parts of his Journal as at
 first published by the Meeting for Sufferings.
@@ -578,7 +578,7 @@ and the Bible--affirming that the Holy Spirit was greater than the Scriptures--d
 coming of his Holy Spirit into their hearts,
 and the great truth of the Universality of the grace of God.
 
-The Address to the Missionaries was entirely omitted.
+The _Address to the Missionaries_ was entirely omitted.
 It was a touching and earnest farewell appeal to them,
 written under a deep feeling of concern and exercise;
 recommending close attention to the "`still small voice,`" in "`the silence of
@@ -673,12 +673,12 @@ And yet I love some of them for the work`'s sake, so far as they go.
 
 --
 
-Towards the close of the pamphlet controversy in regard to the Beacon,
+Towards the close of the pamphlet controversy in regard to the [.book-title]#Beacon,#
 J+++.+++ J. Gurney prepared for publication,
-as an appendix to his Strictures on Truth Vindicated,
-a tract entitled Brief Remarks on Impartiality in the Interpretation of Scripture;
+as an appendix to his [.book-title]#Strictures on Truth Vindicated,#
+a tract entitled _Brief Remarks on Impartiality in the Interpretation of Scripture;_
 but on submitting both these together to the Morning Meeting of Ministers and Elders,
-that meeting avoided the responsibility of sanctioning the Brief Remarks, and,
+that meeting avoided the responsibility of sanctioning the _Brief Remarks,_ and,
 separating the two, only approved of his publishing the Strictures.
 Yet he afterwards issued the Brief Remarks, printed for private circulation only,
 and distributed them among the ministers and elders.
@@ -780,7 +780,7 @@ It seems extraordinary to find J. J. Gurney here intimating the sentiment,
 that "`this Rock`" was intended by our Lord to refer
 to the mere fact acknowledged by Peter,
 of Jesus being "`the Christ, the Son of God.`"
-George Fox is very clear on the subject, in his Doctrinal Works, pp.
+George Fox is very clear on the subject, in his [.book-title]#Doctrinal Works,# pp.
 999 and 1000. His ninth and tenth objections were in regard to
 "`the name`" of God or of Christ being considered by Friends,
 in many instances, to refer to his power (as Acts 4:9; John 16:23,
@@ -850,7 +850,7 @@ however widely separated, unite in professing this.`"]
 Yet few of their members would be found disposed so to run down their standard authors,
 as if they were very mistaken men.
 J+++.+++ J. Gurney had by this time manifested,
-in his numerous publications (irrespective of the last named Brief Remarks on Interpretation),
+in his numerous publications (irrespective of the last named _Brief Remarks on Interpretation_),
 the following points of variance from the settled characteristic doctrines of Friends.
 
 [.syllogism]
@@ -1495,7 +1495,7 @@ On the 1st of the first month, 1839, Daniel Wheeler,
 having spent about four years in visiting the islands of the Pacific,
 and various parts of the Southern Ocean, arrived at New York,
 on a visit to Friends in North America.^
-footnote:[[.book-title]#Memoirs of D. Wheeler, London,# 1842, p. 691.]
+footnote:[[.book-title]#Memoirs of D. Wheeler,# London, 1842, p. 691.]
 Although he had, during his absence in the South Seas,
 had a sense that this journey would be required of him when the other was accomplished,
 and of course at that time knew nothing of the intended visit of J. J. Gurney to America,
@@ -1536,7 +1536,7 @@ But this advice J. J. Gurney was not prepared to submit to.
 Daniel Wheeler had evinced his sympathy with John Wilbur, of Rhode Island, in 1835,
 in a long and confidential letter from the island of Tahiti;
 in which letter he referred to some of the trials which had attended himself,
-near the time of his departure from England in the Henry Freeling,
+near the time of his departure from England in the _Henry Freeling,_
 from the censure of some "`in our Society,`" who were rejecting an acquaintance
 for themselves with "`the Master`'s voice`" inwardly revealed,
 and who, as he said,

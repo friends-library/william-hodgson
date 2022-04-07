@@ -438,7 +438,7 @@ seem too prone to sink under the present gloom.`"
 It was, however, reported to the meeting at this time, especially from Ulster Province,
 that the discipline had in a good degree been carried into effect,
 so as to reach most of the cases of disorder.
-The editor of the Journal of William Savery (the
+The editor of the [.book-title]#Journal of William Savery# (the
 late Jonathan Evans of Philadelphia) says,
 respecting the parties engaged in this schism,
 when alluding to some of William Savery`'s exercising labors while travelling among them,
@@ -474,7 +474,7 @@ that they advised her to forbear from any further exercising the function of a m
 and to return as speedily as practicable to her home.
 She declined to be governed by this advice,
 on the ground that the "`Morning Meeting`" was not possessed of disciplinary powers.^
-footnote:[See _Beck and Ball`'s Account of London Friends`' Meetings,_ page 82. London,
+footnote:[See [.book-title]#Beck and Ball`'s Account of London Friends`' Meetings,# page 82. London,
 1869.]
 That meeting, therefore, transferred the case to the meeting in London,
 within which she had been making her home,
@@ -534,7 +534,7 @@ that the meeting sustained these views,
 and informed her that she could not be allowed to reopen her case there,
 after it had been fully and fairly heard in the committee;^
 footnote:[The minute of the Yearly Meeting
-(as found in _L. Howard`'s Yorkshireman,_ vol. v, p. 25)
+(as found in [.book-title]#L. Howard`'s Yorkshireman,# vol. v, p. 25)
 says that "`the appellant having expressed dissatisfaction with the said report,
 this meeting proceeded to read the Appeal,
 and to hear what further the said Hannah Barnard was disposed to offer,
@@ -635,7 +635,7 @@ Clerks.
 Thus, the Monthly Meeting vindicated itself, as a body, from any complicity in her errors.
 Hannah Barnard is said to have survived her separation
 from Friends about twenty-six years;^
-footnote:[_Luke Howard`'s Yorkshireman,_ vol.
+footnote:[[.book-title]#Luke Howard`'s Yorkshireman,# vol.
 v, page 77.]
 dying, in comparative obscurity, in the year 1828,
 without ever having been reunited to the Society.
@@ -643,7 +643,7 @@ without ever having been reunited to the Society.
 The Society in Ireland had become much diminished and weakened by this sorrowful schism;
 and in England a few individuals became partisans of Hannah Barnard,
 and advocated similar views to some extent.
-William Eathbone, of Liverpool, published, in 1804, a Narrative of Events in Ireland,
+William Eathbone, of Liverpool, published, in 1804, a [.book-title]#Narrative of Events in Ireland,#
 etc., already alluded to,
 giving his version of these sad occurrences in such a manner as
 to show plainly that he was not himself one in faith with Friends.
