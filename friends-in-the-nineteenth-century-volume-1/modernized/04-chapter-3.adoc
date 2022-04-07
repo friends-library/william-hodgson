@@ -406,7 +406,7 @@ to the great exercise and grief of friends, and to the reproach of the truth.
 Not only were the principles and practices of these people, in regard to outward conduct,
 very loose, and some of them quite disgraceful;
 but many of their doctrines as to matters of faith were exceedingly unsound.
-A pernicious periodical paper, entitled The Celestial Magnet,
+A pernicious periodical paper, entitled _The Celestial Magnet,_
 published by one David B. Slack,^
 footnote:[This paper was afterwards circulated, with expressions of approval,
 by Elias Hicks.]
@@ -684,7 +684,7 @@ The statements of various newspapers corroborate the foregoing narration,
 with the additional information, that at the trial of the four prisoners, Buffum, Shaw,
 and Sprague pleaded '`not guilty;`' when the clerk put the question to Alley,
 he replied with energy, '`I am guilty, and I am not guilty.`' Before the trial commenced,
-the county attorney entered a nolle prosequi as to Alley, who was deemed insane.
+the county attorney entered a _nolle prosequi_ as to Alley, who was deemed insane.
 It may here be observed, that Friends had, some time before,
 requested Alley`'s relations and friends to have the requisite care taken of him,
 to prevent his repeating his outrages upon their meetings, but to no purpose.
@@ -830,7 +830,7 @@ she and Benjamin Rodman undertook a sort of alternate
 preaching by sentences in the style of a dialogue,
 but addressed to the assembled company.
 At another time, Philip Dunum, one of their adherents,
-brought the Book of Discipline into the first-day morning meeting for worship,
+brought the [.book-title]#Book of Discipline# into the first-day morning meeting for worship,
 and insisted on reading aloud a portion of it.
 
 Content Breed, who had been disowned the previous year,
@@ -942,7 +942,7 @@ Micah H. Ruggles attempted to do away the force of what he had said,
 and was afterwards very clamorous in the meeting for business,
 denying that the Society of Friends had any creed.
 But Isaac Stephenson replied to him, that if, by creed, was meant a confession of faith,
-he would refer him to one written by Robert Barclay, and also to his Apology;
+he would refer him to one written by Robert Barclay, and also to his [.book-title]#Apology;#
 and likewise to one written by William Penn and George Whitehead;
 adding that our early Friends were always ready to give
 a confession of their faith to those who asked it of them.
