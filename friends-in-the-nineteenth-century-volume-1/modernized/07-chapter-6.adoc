@@ -1016,7 +1016,7 @@ sentiments of the [.book-title]#Beacon# on the subject of the atonement,
 but believed it was defective and incorrect respecting
 the universality of the Light of Christ,
 and the influence of the Spirit;
-but he "`still more highly disapproved of Dr. Hancock`'s reply`" +++[+++[_Defence_],
+but he "`still more highly disapproved of Dr. Hancock`'s reply`" +++[+++__Defence__],
 and objected to this author having made "`references to Barclay,
 rather than to the Holy Scriptures.`"
 In the discussion which ensued,
