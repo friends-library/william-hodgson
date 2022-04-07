@@ -165,7 +165,7 @@ and induce a corresponding increase of merely nominal members; whilst, on the ot
 the mere legal and formal maintenance of disciplinary rules is
 no less dangerously productive of lifelessness and hypocrisy.
 In either class of members will be likely to accumulate,
-ready for the influence of any plausible ism,
+ready for the influence of any plausible _ism,_
 wherewith restless spirits may undertake to agitate the body.
 
 To add to the dangers of this condition of the Society, it was exposed at that time,
@@ -197,7 +197,7 @@ or the testimony of Truth against offenders.
 Among numerous instances to be found through his journal,
 we may cite the following as nearest to the period of time under notice.
 At one place, he says, in reference to them who ought to be the pillars of the church:^
-footnote:[_Journal of Joseph Hoag,_ Heston`'s edition, p. 59]
+footnote:[[.book-title]#Journal of Joseph Hoag,# Heston`'s edition, p. 59]
 "`The consideration of this subject many times causes my heart to tremble,
 when I look towards the gallery.
 Oh, friends, were this class what they ought to be,
@@ -221,7 +221,7 @@ Satan came also amongst them;`" and then opening to them this subject,
 he went on to show them their condition,
 as those "`who had been anointed with royal oil,`"
 but "`had vilely fallen on the mountains of Gilboa.`"^
-footnote:[_Journal of Joseph Hoag,_ p. 64]
+footnote:[[.book-title]#Journal of Joseph Hoag,# p. 64]
 At another place he says: "`Though the business was conducted regularly,
 the want of concern to live up to our ancient and present principles was too obvious;
 which caused deep exercises and painful labor; the aged buried in the earth;
@@ -241,7 +241,7 @@ and a cutting off to rise no more;
 for the Lord would arise and support His dependent ones.
 I had to deliver it in plain full terms; then felt my mind relieved,
 and at liberty to depart.`"^
-footnote:[_Journal of Joseph Hoag,_ p. 150]
+footnote:[[.book-title]#Journal of Joseph Hoag,# p. 150]
 In reference to the painful condition of things in his own meeting, in the year 1800,^
 footnote:[_Ibid,_ p. 156]
 he says: "`Those friends who opposed and complained of the discipline did,
@@ -301,7 +301,7 @@ that these descriptions are not from the pen of a superficial observer,
 but from the openings of truth as manifested in the mind of a woman of uncommon qualifications,
 both by nature and by divine grace, to form a just judgment of the state of the churches.
 Mary Peisley, who afterwards married that eminent minister Samuel Neale,
-is quoted by John Kendall, in his instructive collection of Letters of Friends,
+is quoted by John Kendall, in his instructive collection of [.book-title]#Letters of Friends,#
 as expressing herself in these words: "`God will divide in Jacob and scatter in Israel,
 before that reformation is brought about which He designs.`"
 Quotations might be indefinitely multiplied, from various writers of this period,
