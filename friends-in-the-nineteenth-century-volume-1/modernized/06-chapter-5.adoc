@@ -66,7 +66,7 @@ On the hearing,
 he required each of them to give their own personal
 recognizance in the sum of five hundred dollars,
 to keep the peace until the next mayor`'s court.
-As they refused to do this, they were committed to prison; but by writ of habeas corpus,
+As they refused to do this, they were committed to prison; but by writ of _habeas corpus,_
 were soon afterwards brought before Judge King, of the County Court,
 whose political aspirations were supposed to be fostered
 by a party opposed to that of the mayor,
@@ -98,7 +98,7 @@ and after an investigation during ten days,
 on the 25th Judge Hallock delivered his opinion,
 and the accused were sentenced to a fine of five dollars each.^
 footnote:[See [.book-title]#The Friend,# Philadelphia, vol.
-ii, p. 219. Taken from _Bates`'s Miscellaneous Repository._]
+ii, p. 219. Taken from [.book-title]#Bates`'s Miscellaneous Repository.#]
 In the similar case of J. Pierce and others,
 indicted for producing a riot on the same occasion,
 the accused were by the jury found guilty before the court at Steubenville,
@@ -512,8 +512,8 @@ after which the counsel of the respective parties occupied between
 two and three weeks in delivering their speeches before the court.^
 footnote:[The opinions of the judges and the speeches of the counsel,
 are given in full in [.book-title]#A Full Report of the Case of Decow and Hendrickson v. Shotwell,
-in the Court of Appeals at Trenton, 1833.
-Philadelphia: P. J. Gray, 1834.#]
+in the Court of Appeals at Trenton, 1833.#
+Philadelphia: P. J. Gray, 1834.]
 G+++.+++ D. Wall, counsel for the Hicksites,
 commenced his arguments with an insidious attempt to show
 that "`this court is the great Areopagus of the State,

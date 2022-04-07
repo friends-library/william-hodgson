@@ -46,8 +46,7 @@ encouraging to faithfulness,
 and solemnly warning the "`Babel builders,`" who were advancing to confusion of tongues.
 The following is the substance of her address, written shortly afterwards from memory,
 by a friend who was present:^
-footnote:[See _S. Alexander`'s Voice from the Wilderness,_ pages 40 to 43; also,
-_Life of Sarah Grubb, Late Lynes,_ Eng. edit+++.+++, p. 333.]
+footnote:[See [.book-title]#S. Alexander`'s Voice from the Wilderness,# pages 40 to 43; also, [.book-title]#Life of Sarah Grubb, Late Lynes,# Eng. edit+++.+++, p. 333.]
 
 [.embedded-content-document]
 --
@@ -170,7 +169,7 @@ what ye shall speak.`"
 
 At a later sitting, Ann Jones, of Stockport, likewise visited the men`'s meeting,
 and is said to have expressed herself nearly as follows.^
-footnote:[See a _Report of the Proceedings of London Yearly Meeting of Friends,_ 1836,
+footnote:[See a [.book-title]#Report of the Proceedings of London Yearly Meeting of Friends,# 1836,
 published by John Stephens, 153 Fleet Street, pages 13 and 14.]
 
 [.embedded-content-document]
@@ -257,7 +256,7 @@ the declared members of the Beacon party not being by any means
 the only advocates of a definitive minute sustaining their views.
 Great discussion ensued,
 in which J. J. Gurney is represented as expressing his views as follows:^
-footnote:[Vide _Stephens`'s Report of the London Yearly Meeting,_ 1836.]
+footnote:[Vide Stephens`'s [.book-title]#Report of the London Yearly Meeting,# 1836.]
 That "`he felt considerable difficulty in regard to the preamble of the proposition,
 because he considered that the Society, from the earliest period of its existence,
 had held the paramount authority of Holy Scripture,
@@ -403,7 +402,7 @@ But the meeting at length decided that the Committee on the General
 Epistle should be directed to prepare and introduce a paragraph,
 fully and explicitly confirmatory of the well-known and
 previously recorded sentiments of the Society on the subject.`"^
-footnote:[_Stephens`'s Report of London Yearly Meeting._ 1836, page 18.]
+footnote:[[.book-title]#Stephens`'s Report of London Yearly Meeting.# 1836, page 18.]
 The committee, however, appear to have transcended the terms of their instructions,
 and at a subsequent sitting brought in a form for the paragraph,
 which after some slight changes stood as follows:^
@@ -505,8 +504,8 @@ proposed for publication by members of that Yearly Meeting.
 That meeting was mainly composed of the ministers and elders residing in and near London.
 After reading Samuel Rundell`'s treatise, the meeting referred it to a committee.
 This committee kept it shut up for twenty months.^
-footnote:[See _Letter of Lydia A. Barclay,_ in _J. Wilbur`'s Journal and Correspondence,_ p. 240;
-and _Letter of John Barclay,_ in same work, p. 226.]
+footnote:[See [.book-title]#Letter of Lydia A. Barclay,# in [.book-title]#J. Wilbur`'s Journal and Correspondence,# p. 240;
+and [.book-title]#Letter of John Barclay,# in same work, p. 226.]
 At length, in the eleventh month, 1837, the matter was roused up by John Barclay;
 when it appeared that the treatise was not approved by some,
 as inculcating views which most of the committee thought objectionable.
@@ -522,7 +521,7 @@ Thus they thought to have suppressed it, and it was soon given out,
 that the author had withdrawn it.
 But in consequence of the decided encouragement given to its publication,
 notwithstanding all this, by Daniel Wheeler,^
-footnote:[_J. Wilbur`'s Journal and Correspondence,_ p. 241.]
+footnote:[[.book-title]#J. Wilbur`'s Journal and Correspondence,# p. 241.]
 who knew it to be sound as to true Christian doctrine, and applicable to the times,
 S+++.+++ Rundell, who had requested and been refused a conference with the committee,
 concluded to take the responsibility of publishing it,
@@ -716,8 +715,8 @@ which he thought referred to the Scriptures,
 in direct contradiction of the testimony of George Fox, William Penn, Robert Barclay,
 George Whitehead, Francis Howgill, Samuel Fisher, James Parnell,
 and indeed the unanimous voice of all our early writers.^
-footnote:[These objections are more fully described in _An
-Examination of the Memoirs and Writings of J. J. Gurney,_
+footnote:[These objections are more fully described in [.book-title]#An
+Examination of the Memoirs and Writings of J. J. Gurney,#
 pp.
 109 to 124. Philadelphia, 1806.]
 His second objection was to the interpretation put "`by some persons
@@ -867,9 +866,9 @@ the following points of variance from the settled characteristic doctrines of Fr
 * That daily prayer in words and on the knees, ought to be taught to children as a "`habit.`"
 * That all mankind are in "`punishable guilt`" in consequence of the transgression of our first parents; "`inheriting a nature injected with sin,`" and are "`from birth vile and polluted essentially, the common doctrine of original sin.`"^
 footnote:[For proofs of his advocating those sentiments
-see _An Examination of His Life and Writings,_
-Philadelphia, 1856; also the _Appeal for the Ancient Doctrines,_
-and _John Wilbur`'s Exposition._]
+see [.book-title]#An Examination of His Life and Writings,#
+Philadelphia, 1856; also the [.book-title]#Appeal for the Ancient Doctrines,#
+and [.book-title]#John Wilbur`'s Exposition.#]
 
 Besides the writings of J. J. Gurney,
 which exerted a powerful influence in modifying the views and practices
@@ -976,7 +975,7 @@ Ann Jones expressed her cordial unity with S. Grubb`'s remarks;
 and similar views were expressed by George Jones, John Grubb, Abram Fisher,
 Joshua Treffry, and several other men and women Friends.
 An attempt was then made by Josiah Forster and Hannah C. Backhouse,^
-footnote:[See _Proceedings of London Yearly Meeting of Friends,_ 1837.
+footnote:[See [.book-title]#Proceedings of London Yearly Meeting of Friends,# 1837.
 London: James Dinnis, 62 Paternoster Row.
 The writer, in quoting from this and other similar publications,
 only takes them as containing statements of facts, now become matter of history,
@@ -1021,7 +1020,7 @@ Elizabeth Dudley spoke warmly in support of the proposed visit.
 So did E. Fry, E. J. Fry, Samuel Gurney, and William Forster.
 Several on the other hand objected to it; others again spoke in approbation;
 but the opposition is said to have continued to the last.^
-footnote:[_Proceedings of London Yearly Meeting,_ 1837, Dinnis, p. 11.]
+footnote:[[.book-title]#Proceedings of London Yearly Meeting,# 1837, Dinnis, p. 11.]
 
 After considerable time it was proposed by Jonathan Backhouse and Josiah Forster,
 that a committee should be appointed, to draw up a certificate;
@@ -1037,7 +1036,7 @@ to which the committee presented their essay of a certificate,
 so great was the difficulty in coming to a conclusion,
 that it is said the meeting continued for nearly five hours,
 mainly occupied with this matter.^
-footnote:[_Proceedings,_ published by Dinnis, p. 73.]
+footnote:[[.book-title]#Proceedings,# published by Dinnis, p. 73.]
 Charlotte Burgess, of Leicester, early in the sitting,
 solemnly warned those who were learned and rich as to this world,
 to submit to the sword of the Lord,
@@ -1058,7 +1057,7 @@ John Barclay, Jacob Green, Catherine Abbot, Sarah Harris, Abigail Dockray,
 and several others, expressed decided objections.
 The subject of J. J. Gurney`'s writings was again and again brought forward,
 as an obstacle, and a conference with him on that subject was proposed.^
-footnote:[_Proceedings,_ published by Dinnis, p. 74.]
+footnote:[[.book-title]#Proceedings,# published by Dinnis, p. 74.]
 Jonathan Backhouse, however, turned this aside,
 by alleging that this was not the subject before the meeting.
 A number of members approved of his being set at liberty; among whom John Allen,
@@ -1129,7 +1128,7 @@ footnote:[The same flimsy objection,
 to "`going behind his certificate,`" had been strongly urged, years before,
 in the case of Elias Hicks.
 Yet the case of John Hewlett, of Rhode Island,
-mentioned in _Beck and Ball`'s Account of London Friends`' Meetings,_ page 81,
+mentioned in [.book-title]#Beck and Ball`'s Account of London Friends`' Meetings,# page 81,
 as having occurred in the early part of the eighteenth century,
 shows that such a practice (where a certificate was wrongfully given,
 or did not set forth the case correctly) was then considered right.
@@ -1267,7 +1266,7 @@ principles;`" so as to open his way among friends in this land.
 "`But instead of giving any encouragement of doing so,
 he entered into a prompt defence and justification of all his writings,
 without exception.`"^
-footnote:[_Journal and Correspondence of John Wilbur,_ p. 276.]
+footnote:[[.book-title]#Journal and Correspondence of John Wilbur,# p. 276.]
 In consequence of this result of the interview,
 J+++.+++ Wilbur believed it to be his religious duty, as way opened for it,
 to caution his fellow members against the unsound doctrines to be found in those publications.
@@ -1284,7 +1283,7 @@ and Thomas took the opportunity thus afforded,
 to declare to him his dissatisfaction with his writings.
 The following is the substance of what passed between them,
 after T. B. Gould had opened the subject, ^
-footnote:[_Life and Letters of T. B. Gould,_ p. 91, etc.]
+footnote:[[.book-title]#Life and Letters of T. B. Gould,# p. 91, etc.]
 
 [.discourse-part]
 _J+++.+++ J. Gurney:_ Oh, my dear friend, I did not come here on that account at all;
@@ -1496,7 +1495,7 @@ On the 1st of the first month, 1839, Daniel Wheeler,
 having spent about four years in visiting the islands of the Pacific,
 and various parts of the Southern Ocean, arrived at New York,
 on a visit to Friends in North America.^
-footnote:[_Memoirs of D. Wheeler, London,_ 1842, p. 691.]
+footnote:[[.book-title]#Memoirs of D. Wheeler, London,# 1842, p. 691.]
 Although he had, during his absence in the South Seas,
 had a sense that this journey would be required of him when the other was accomplished,
 and of course at that time knew nothing of the intended visit of J. J. Gurney to America,
@@ -1542,7 +1541,7 @@ from the censure of some "`in our Society,`" who were rejecting an acquaintance
 for themselves with "`the Master`'s voice`" inwardly revealed,
 and who, as he said,
 were "`such as highly disapproved of John Wilbur`'s letters published by G. Crosfield.`"^
-footnote:[_Journal and Correspondence of John Wilbur,_ p. 204. See p. 240, of this volume.]
+footnote:[[.book-title]#Journal and Correspondence of John Wilbur,# p. 204. See p. 240, of this volume.]
 
 And in 1839, just a month after his arrival in America,
 he wrote to John Wilbur affectionately from Philadelphia,
@@ -1555,7 +1554,7 @@ coming to the heartfelt knowledge of this very gospel within themselves`"--"`fin
 it more palatable to the creature to be fed with pleasant food from the tree of knowledge,
 than to have the attention turned to that holy principle
 of gospel light which shines in every heart.`"^
-footnote:[_J. Wilbur`'s Journal,_ etc., p. 244.]
+footnote:[[.book-title]#J. Wilbur`'s Journal,# etc., p. 244.]
 
 Daniel Wheeler was taken sick during his return voyage from England,
 in the spring of 1840, whither he had gone from America, the previous autumn,
@@ -1612,7 +1611,7 @@ which declared that from his twenty-fourth year,^
 footnote:[His "`first book "`was published, according to his own statement,
 when he was thirty years of age,
 so that the above declaration must include all his books.
-See his _Memoirs,_ vol.
+See his [.book-title]#Memoirs,# vol.
 i p. 101.]
 he "`maintained, with holy boldness, the principles and testimonies of the Society,
 through the remainder of his life and that in all his undertakings
