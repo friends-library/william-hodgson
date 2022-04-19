@@ -1,6 +1,7 @@
 == Chapter VIII.
 
-The Antislavery Secession in Indiana Yearly Meeting.
+[.chapter-synopsis]
+* The Antislavery Secession in Indiana Yearly Meeting.
 
 The order of events requires us now to go a little
 out of the beaten track of doctrinal schism,
@@ -94,7 +95,7 @@ and of standing aloof from the so much dreaded "`abolitionists.`"^
 footnote:[It has even been said that one of the American Yearly Meetings (that
 of North Carolina) issued a document condemning the act of giving shelter,
 in any way, to a fellow creature escaping from slavery!
-See Edgerton`'s History, p. 306.]
+See [.book-title]#Edgerton`'s History,# p. 306.]
 
 In the secession which is about to be brought into view,
 Daniel Puckett and Charles Osborn were conspicuous,
@@ -105,13 +106,16 @@ and Germany, and, while in England, had clearly seen the approach of the Beacon 
 and faithfully testified, on various occasions,
 against the departures from our true principles which
 were then making their appearance in that country.^
-footnote:[See the Journal of Charles Osborn, Cincinnati, 1854, pp.
+footnote:[See the [.book-title]#Journal of Charles Osborn,# Cincinnati, 1854, pp.
 292, 293, 340, 343 and 345.]
 
 In the year 1840,
 he travelled in the ministry through some parts of New England and New York,
 and after attending the Yearly Meeting in the city of New York,
 he made the following statement in his Journal:
+
+[quote]
+____
 
 After the meeting closed, I felt a portion of suffering still on my mind.
 The state of Society here is such as cannot fail to cause mourning
@@ -131,7 +135,8 @@ that it needs only to be seen by the understanding reader,
 to know that what he has published on these subjects is a departure from our doctrines,
 which we have held ever since we have been a people,
 and a return into those things out of which we were gathered.^
-footnote:[Ibid, p. 411.]
+footnote:[_Ibid,_ p. 411.]
+____
 
 During his visit to Great Britain,
 various inquiries were made of him respecting the American Colonization Society,
@@ -142,7 +147,7 @@ the extinguishment of slavery in the United States,
 as its aim seemed to be practically the expatriation of the free
 colored people from what had become the land of their birth,
 and where they had "`as good a right to live, as he had himself.`"^
-footnote:[Journal of Charles Osborn, p. 276.]
+footnote:[[.book-title]#Journal of Charles Osborn,# p. 276.]
 After his return home, and especially after his journey in New England and New York,
 he and many other Friends within the Yearly Meeting of Indiana believed
 it right for them to take a decided stand against the idea,
@@ -283,9 +288,9 @@ they could not admit the propriety of representing those who felt no such scrupl
 as violators of the discipline and testimonies of the Society.`"
 
 The friends of the antislavery cause gave a somewhat different account of the circumstances.^
-footnote:[See Walter Edgerton`'s History of the
+footnote:[See Walter Edgerton`'s [.book-title]#History of the
 Separation in Indiana Yearly Meeting of Friends,
-on the Antislavery Question.
+on the Antislavery Question.#
 Cincinnati, 1856, p. 43.]
 Speaking of the formation of free-labor associations,
 they say that this committee had the subject before them in 1840,
@@ -318,7 +323,7 @@ what plan of emancipation they did approve of;
 seeing there was so much diversity, some advocating colonization,
 some gradual emancipation, and others immediate and unconditional freedom.
 But the meeting refused to say anything on the subject.
-See Edgerton`'s History, p. 234.]
+See [.book-title]#Edgerton`'s History,# p. 234.]
 This action of the Yearly Meeting,
 and the great preponderance of feeling which now appeared in that body
 to discountenance active participation in the antislavery cause,
@@ -336,7 +341,7 @@ now when they saw the amount of influence arrayed against the cause,
 turned immediately round, and joined its opponents.
 Many others staggered, faltered, and finally stumbled over on to the same ground,
 or at best into a state of acquiescence.`"^
-footnote:[Walter Edgerton`'s History of the Separation, p. 48.]
+footnote:[Walter Edgerton`'s [.book-title]#History of the Separation,# p. 48.]
 
 The Yearly Meeting also, in this document,
 though without mentioning the name of the writer, censured the circulation,
@@ -390,7 +395,7 @@ shut out from serving on appointments during the sittings.
 A proposal was made, and sanctioned by those who had the control,
 that names offered on committees should receive the approval
 of several Friends before being taken by the clerk.^
-footnote:[W. Edgerton`'s History of the Separation, p. 58.]
+footnote:[[.book-title]#W. Edgerton`'s History of the Separation,# p. 58.]
 But now came the most aggravating of all the acts of the ruling party in the Yearly
 Meeting--an act altogether irregular and unsanctioned by discipline or usage--and which
 unhappily drove the antislavery portion of the members to the extreme measure of a separation.
@@ -420,7 +425,7 @@ It is our due; justice demands it; the cause of truth and righteousness demands 
 and the cause of suffering, bleeding humanity demands it.
 I have no wish to cast reflections on anybody, but in my opinion,
 the proceedings are unjust, oppressive, cruel, and unauthorized by the Discipline.`"^
-footnote:[Edgerton`'s History, p. 235.]
+footnote:[[.book-title]#Edgerton`'s History,# p. 235.]
 
 If any of his friends feared that C. Osborn was in danger of losing ground through
 allowing his mind to be unduly engrossed with the contemplation of one particular
@@ -439,6 +444,9 @@ and the "`pernicious effects`" of those "`books and papers,
 which have the tendency to set one part of Society against another.`"
 This epistle contained the following remarkable advice:
 
+[.embedded-content-document.epistle]
+--
+
 Friends are advised to be weighty and deliberate in making appointments
 to any of the important stations and committees in Society,
 so that faithful and trusty Friends may be chosen;
@@ -446,6 +454,8 @@ as we believe that those who have distinguished themselves by opposition
 or disregard to the advices and travail of the body,
 are manifestly unsuitable for important services in it,
 while they remain in that situation.
+
+--
 
 A committee of twenty-two men and women was appointed to see that
 the above advice was attended to in the subordinate meetings;
@@ -482,13 +492,13 @@ before they can receive that great boon;
 they must have moral cultivation:`" adding,
 in confirmation of this procrastinating policy,
 "`The Society of Friends take the right stand in relation to this subject!`"^
-footnote:[Edgerton`'s History of the Separation, p. 85.]
+footnote:[[.book-title]#Edgerton`'s History of the Separation,# p. 85.]
 After this, on First-day,
 he was conveyed to the meeting by the clerk of the Yearly Meeting in his carriage,
 and placed in one of the most conspicuous places in the house,
 and at the close of the meeting was as conspicuously
 saluted by great numbers of the members.^
-footnote:[Ibid., p. 300.]
+footnote:[_Ibid.,_ p. 300.]
 All this was particularly aggravating to the antislavery party,
 who considered it as an additional evidence that the faithful
 testimony against this enormous evil had fallen in the streets;
@@ -503,7 +513,10 @@ They "`gathered round him in an almost impenetrable crowd,`" and "`one or more
 women mounted over the backs of the benches,`" in order to get to him.
 The Free Labor Advocate, a paper published by some of the antislavery members,
 thus described the issue:^
-footnote:[Edgerton`'s History, p. 61.]
+footnote:[[.book-title]#Edgerton`'s History,# p. 61.]
+
+[.embedded-content-document.paper]
+--
 
 Antislavery Friends being thus proscribed,
 and feeling themselves virtually cut off from all the benefits of religious society,
@@ -545,6 +558,8 @@ to wait until it was known whether the committees from the Yearly Meeting, etc.,
 would really carry out the prescriptive measures as enjoined upon them,
 in removing from their stations the antislavery part of Society,
 before any further action should be taken.
+
+--
 
 Thus far they had a right to go, as members of the Society of Friends,
 and of Indiana Yearly Meeting;
@@ -604,7 +619,7 @@ After waiting till the close of the year,
 and finding that the prescriptive measures still went on,
 with a manifestation on the part of the Yearly Meeting`'s committee
 "`to carry out their instructions to the very letter,`"^
-footnote:[Edgerton`'s History, p. 62.]
+footnote:[[.book-title]#Edgerton`'s History,# p. 62.]
 those of the party residing at and near Newport, in Wayne County, Indiana,
 met in convention on the fourth of first month, 1843,
 to "`take into consideration their peculiarly tried situation,`"
@@ -686,8 +701,8 @@ and were still faithfully concerned in regard to slavery,
 until their statements were exposed as palpably fallacious and incorrect,
 by the lucid replies which were plentifully showered upon them.^
 footnote:[As an exemplification of this,
-the attention of such readers as may have access to Edgerton`'s History
-of this separation is particularly commended to An Expostulation, etc.
+the attention of such readers as may have access to [.book-title]#Edgerton`'s History#
+of this separation is particularly commended to _An Expostulation,_ etc.
 (page 242, etc.), signed by George Evans,
 and "`a reply`" thereto by Walter Edgerton (page 257, etc.),
 in which the plausible statements and reasonings of the former are totally demolished,
@@ -714,7 +729,7 @@ before alluded to (which was evidently indited by an opponent),
 represents them as being "`nearly seven hundred adults,`" which is perhaps a small estimate.
 The reports sent up to their Yearly Meeting, in the year 1847,
 stated that there were 755 children of their members of suitable age to go to school.^
-footnote:[See the manuscript Records of the Yearly Meeting of Antislavery Friends,
+footnote:[See the manuscript [.book-title]#Records of the Yearly Meeting of Antislavery Friends,#
 page 200.]
 How many there were between this and adult age,
 and also of infants and children too young for schooling,
@@ -728,7 +743,7 @@ well worthy of attentive perusal,
 as a vindication of their course from the insinuation that
 they were discarding the primitive doctrine of Friends,
 in regard to immediate revelation by the Holy Spirit.^
-footnote:[The whole document may be seen in Edgerton`'s History, page 186, etc.]
+footnote:[The whole document may be seen in [.book-title]#Edgerton`'s History,# page 186, etc.]
 In 1841, their Meeting for Sufferings addressed that of London,
 and subsequently their Yearly Meeting issued a document
 addressed to the members of London Yearly Meeting individually,
@@ -769,8 +784,10 @@ they requested the appointment of a committee,
 to give them such information as they might need; which was done,
 the Yearly Meeting "`taking the precaution to have every name approved,
 before it was taken down by the clerk.`"^
-footnote:[Edgerton`'s History,
-page 330.]The delegation had several interviews with this committee,
+footnote:[[.book-title]#Edgerton`'s History,#
+page 330.]
+
+The delegation had several interviews with this committee,
 and attended the Yearly Meeting throughout,
 but do not appear to have indicated to it anything like a doubt of its
 entire faithfulness in regard to the testimony against slavery,
@@ -793,6 +810,10 @@ to communicate their views to them before their departure for the West,
 and accordingly drew up the following letter,
 which was presented to the delegation the next day, signed by fourteen of their number.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 William Forster, Josiah Forster, George Stacey, and John Allen--Esteemed Friends:
 
 Being solemnly "`impressed with the importance of your mission to this country,
@@ -876,6 +897,8 @@ and hope you will attribute it to no other motive than a desire that the right m
 
 With the salutation of our love, we remain your sincere Friends.
 
+--
+
 It would seem by the above firm but temperate and respectful letter,
 that the London Address had hitherto been withheld
 from the Antislavery Friends by the delegation.
@@ -924,7 +947,7 @@ that their main aim and desire was to break up the organization.
 They went next to Nettle Creek, where they had a similar conference, read the address,
 and exhorted the members to abandon the course they were taking.
 "`They were repeatedly asked,`" says an account of this conference,^
-footnote:[W. Edgerton`'s History of the Separation, p. 345.]
+footnote:[[.book-title]#W. Edgerton`'s History of the Separation,# p. 345.]
 "`if they had investigated the difficulty between us and those we had left;
 to which they gave no answer.
 But when they were told how one-sided they were,
@@ -952,7 +975,10 @@ and the members individually, which was sent independently of the delegation.
 This response contained a clear exposure of the fallacies put forth in
 the London Address (fallacies in the application of salutary truths),
 and among other pertinent observations contained the following remarks:^
-footnote:[W. Edgerton`'s History, pages 349, 350, and 352.]
+footnote:[[.book-title]#W. Edgerton`'s History,# pages 349, 350, and 352.]
+
+[.embedded-content-document]
+--
 
 This doctrine of implicit, unconditional,
 and unqualified submission to the powers that be, in religious Society,
@@ -991,6 +1017,8 @@ being responsible to the church only for violations of the Discipline.
 We shall rejoice to hail such a proposition, made in good faith,
 and upon a thorough conviction of its propriety,
 by our Friends of Indiana Yearly Meeting.
+
+--
 
 The delegation returned through Washington and Philadelphia,
 attended Philadelphia Yearly Meeting, and then embarked for England.
@@ -1032,7 +1060,7 @@ which have been more signally attended with the divine blessing,
 or which furnish a more beautiful illustration of
 the right mode of bearing one another`'s burdens,
 and so fulfilling the law of Christ.`"^
-footnote:[Seebohm`'s Life of W. Forster, p. 206.]
+footnote:[[.book-title]#Seebohm`'s Life of W. Forster,# p. 206.]
 
 In reviewing the action of this delegation,
 as delineated by the Antislavery Friends who were the objects of it,
@@ -1135,6 +1163,9 @@ Touching the Situation of Antislavery Friends as an Organization,
 and What Wrought its Overthrow.
 We may extract the two following paragraphs:
 
+[.embedded-content-document]
+--
+
 We declared, when taking our independent position,
 that we did not separate from the principles of the Society of Friends,
 nor from its testimonies and discipline;
@@ -1146,7 +1177,7 @@ in the strictest sense of the word, a Society of Friends,
 with no other nominal distinction in the title we adopted than that which
 was necessary to distinguish us from those from whom we separated,
 and to express our adherence to our well-known testimony against slavery.^
-footnote:[Manuscript Records of the Yearly Meeting of Antislavery Friends, p. 369.]
+footnote:[[.book-title]#Manuscript Records of the Yearly Meeting of Antislavery Friends,# p. 369.]
 
 And now, what shall we say?
 Our object in reorganizing the Society has, to a considerable degree, been frustrated.
@@ -1157,7 +1188,9 @@ and stemmed the torrent of opposition to antislavery
 action of Friends in other Yearly Meetings,
 and in this way much good was effected; yet it was forced; the liberty was extorted,
 and not granted from any congeniality of feeling in its favor.^
-footnote:[Ibid, p. 371.]
+footnote:[_Ibid,_ p. 371.]
+
+--
 
 Thus was brought to a close a secession,
 the inception of which appears not to have had fully
