@@ -1,7 +1,7 @@
 == Chapter IX.
 
-The Persecution of John Wilbur and Others,
-and the Separation Effected by the Gurney Party in New England.
+[.chapter-synopsis]
+* The Persecution of John Wilbur and Others, and the Separation Effected by the Gurney Party in New England.
 
 We must now resume the sad narrative of the troubles which resulted from
 the spread of the modernizing principles in the United States--principles
@@ -106,7 +106,7 @@ and the groundless and frivolous nature of their charges against him,
 and adverting to some of the errors of J. J. Gurney`'s sentiments
 against which he had been constrained to bear testimony.
 This letter^
-footnote:[For the whole letter, see his Journal and Correspondence, p. 279.]
+footnote:[For the whole letter, see his [.book-title]#Journal and Correspondence,# p. 279.]
 was eagerly seized upon by the committee,
 who endeavored to make out from it fresh accusations against him.
 They had many interviews with him,
@@ -130,7 +130,7 @@ characterized by abundance of unjust reproaches cast upon him,
 and by quibbling, shuffling, and prevarication, and even direct falsehood,
 to a disgraceful extent; bearing down upon him also by numbers and assumed authority,
 and never allowing him a fair opportunity to show his entire innocency.^
-footnote:[Journal and Correspondence of John Wilbur, pp.
+footnote:[[.book-title]#Journal and Correspondence# of John Wilbur, pp.
 277 to 308.]
 They alleged that he was guilty of detraction,
 but would never listen to his proofs of the truth of what he had testified,
@@ -153,7 +153,7 @@ bring the Discipline to bear on it more readily than through
 the committee of the Meeting of Ministers and Elders merely.
 Accordingly, in the sixth month, 1841,
 John Wilbur was called upon to meet about thirty members^
-footnote:[The Narrative of Facts and Circumstances,
+footnote:[[.book-title]#The Narrative of Facts and Circumstances,#
 published by the Gurney Warly Meeting, says twenty-seven.]
 of this committee, who resorted, in turn, to persuasion, exhortation, and denunciation,
 in order to obtain concessions from him.
@@ -296,7 +296,7 @@ The Yearly Meeting`'s committee also, during the same discussion,
 denied that they were complainants in this case; and when, the next morning,
 they were asked by J. Wilbur whether they still persisted in this denial,
 notwithstanding their names were attached to the complaint, they made no reply!^
-footnote:[Journal and Correspondence of J. Wilbur, p. 810.]
+footnote:[[.book-title]#Journal and Correspondence of J. Wilbur,# p. 810.]
 
 After the Yearly Meeting`'s committee had gone through
 with the evidence in support of their complaint,
@@ -354,7 +354,7 @@ same member of the committee who had offered the report of the two,
 proposed "`that those who were in unity with the Yearly Meeting and with its committee,
 should stop in the house for a short time, at the close of the meeting.`"
 The former clerk united with this,^
-footnote:[Address of Rhode Island Quarterly Meeting, 1845, page 11.]
+footnote:[[.book-title]#Address of Rhode Island Quarterly Meeting,# 1845, page 11.]
 and wished the Women`'s Meeting informed of it;
 and the Yearly Meeting`'s committee encouraged it.
 The meeting generally, however, objected to the proposal,
@@ -402,7 +402,7 @@ on account of his disorderly conduct in withholding the
 books and papers of the meeting from the new clerk.
 At the Monthly Meeting in the tenth month,
 four of the Quarterly Meeting`'s committee of fifteen,^
-footnote:[J. Wilbur`'s Narrative and Imposition, p. 156.]
+footnote:[[.book-title]#J. Wilbur`'s Narrative and Imposition,# p. 156.]
 presented a document signed by themselves only,
 advising the Monthly Meeting to restore the former clerk,
 to dismiss the committee in his case, to annul the records in regard to it,
@@ -551,7 +551,7 @@ inasmuch as, from his age (then about 70 years) and infirmity,
 it would be a hard task for him to perform the necessary labor in prosecuting his appeal.
 Many expressed themselves in favor of granting this reasonable request,
 but the meeting decided against it.^
-footnote:[Journal and Correspondence of J. W., p. 333.]
+footnote:[[.book-title]#Journal and Correspondence of J. W.,# p. 333.]
 
 I have endeavored to present these grievous events unbroken by other matter,
 so that the reader may more clearly see and understand the whole case.
@@ -636,7 +636,7 @@ and let them take the responsibility;`" adding that
 he thought T. B. Gould ought to do in like manner,
 and act according to the desire of those who wished him
 to give up his testimony against J. J. Gurney`'s doctrines;^
-footnote:[Letters and Memoirs of T. B. Gould, Philadelphia, 1860, p. 187.]
+footnote:[[.book-title]#Letters and Memoirs of T. B. Gould,# Philadelphia, 1860, p. 187.]
 and advising him to "`stick to the body, right or wrong!`"
 
 These overseers, after several interviews,
@@ -663,7 +663,7 @@ they replied by disavowing any lack of confidence in his honor or integrity;
 but the one who had it said that they had been strictly
 enjoined by D. B. the overseer and clerk,
 not to let T. B. Gould have it by any means!^
-footnote:[Letters and Memoirs of T. B. Gould, p. 184.]
+footnote:[[.book-title]#Letters and Memoirs of T. B. Gould,# p. 184.]
 
 Thomas reminded one of these men of what he had some time previously said to him,
 while standing together in the meetinghouse yard,
@@ -712,7 +712,7 @@ to guide amidst the storm, and strength to endure and stand firm,
 that so His name might not be dishonored.`"
 A feeling of solemnity spread over them,
 so that one of the women could do no less than respond to what he had expressed.^
-footnote:[Letters and Memoirs of T. B. G., p. 226.]
+footnote:[[.book-title]#Letters and Memoirs of T. B. G.,# p. 226.]
 
 After nine months of this treatment by the committee,
 during a part of which T. B. Gould was very ill,
@@ -926,7 +926,7 @@ These latter, therefore, after warning and entreating the others to no purpose,
 and waiting till they had finished their business, remained together, appointed a clerk,
 received the accounts and representatives sent by the true Swanzey Monthly Meeting,
 and transacted the other business as the Quarterly Meeting of Rhode Island.^
-footnote:[Address of Rhode Island Quarterly Meeting of Friends, 1845.
+footnote:[[.book-title]#Address of Rhode Island Quarterly Meeting of Friends,# 1845.
 New York, Piercy and Reid.]
 "`This,`" says the author of Considerations Addressed to
 the Members of the Yearly Meeting of Philadelphia (1846,
@@ -941,6 +941,9 @@ and this separation having now been carried through
 the Quarterly Meeting itself by the same parties,
 the subordinate meetings of Rhode Island Quarter were soon afterwards divided,
 both as to discipline and worship.
+
+[quote]
+____
 
 The Meeting for Sufferings +++[+++says the above-quoted author of the Considerations,
 in his lucid review of these transactions],
@@ -964,8 +967,9 @@ which terminated in the secession of those who left Swanzey Monthly Meeting,
 and set up a meeting for themselves,
 and the course it had had to pursue in order to preserve
 Rhode Island Quarterly Meeting on its original foundation.^
-footnote:[From Considerations Addressed to the Members of Philadelphia Yearly Meeting;
+footnote:[From [.book-title]#Considerations Addressed to the Members of Philadelphia Yearly Meeting;#
 by Charles Evans, Philadelphia, 1846, page 81.]
+____
 
 Previous to the ensuing Yearly Meeting, a contrivance was resorted to,
 somewhat similar to that of the Hicks party in anticipation
@@ -986,6 +990,9 @@ information of their own members and of the Society at large.
 The facts, as stated, have never, to the writer`'s knowledge, been called in question,
 and substantially agree in all essential points with the very superficial statement
 of this transaction in the Narrative put forth by the Gurney body.
+
+[quote]
+____
 
 At the first sitting of the Yearly Meeting, the report from the spurious +++[+++or Gurney]
 Quarterly Meeting +++[+++of Rhode Island]
@@ -1145,7 +1152,7 @@ Among other interruptions during this sitting, Abraham Shearman, Jr.,
 called upon the representatives, except those from Rhode Island,
 to express their dissent from the appointment of clerks;
 which was done by thirty-eight of them;^
-footnote:[The Narrative of the Gurney party says "`forty-one`"--perhaps
+footnote:[The [.book-title]#Narrative# of the Gurney party says "`forty-one`"--perhaps
 inadvertently including the absentees.]
 four were in unity with the appointment, and three were absent.
 Friends assembled on Third-day morning,
@@ -1230,9 +1237,10 @@ and their undisciplinary proceedings and oppressive acts reversed.
 We say, that until such have manifested a sincere repentance,
 by fruits meet for the same,
 they must and will be accounted as Separatists from the true body and Society of Friends.^
-footnote:[Epistolary Declaration and Testimony of
-the Yearly Meeting of Friends for New England,
+footnote:[[.book-title]#Epistolary Declaration and Testimony of
+the Yearly Meeting of Friends for New England,#
 1845, page 8 to 18.]
+____
 
 The representatives of the Gurney party meantime met according to their instructions,
 and agreed to report in favor of acknowledging those appointed
@@ -1326,8 +1334,8 @@ from responsibility for the sorrowful nature and consequences of their late tran
 than the high-sounding professions made by the Council of Constance,
 of being assembled and governed by "`the influence of the Holy Spirit,`" of being "`convoked
 with the inspiration of God,`" and of "`having God alone before their eyes,`"^
-footnote:[The Lives, Sentiments,
-and Sufferings of Some Reformers Before and After Luther; by W. Hodgson, Philadelphia,
+footnote:[[.book-title]#The Lives, Sentiments,
+and Sufferings of Some Reformers Before and After Luther;# by W. Hodgson, Philadelphia,
 1867, p. 160.]
 could exonerate those "`holy fathers,`" as they called themselves,
 from the guilt incurred by their sacrifice of that eminent martyr, John Huss,
@@ -1378,7 +1386,7 @@ inconsistent therewith`" +++[+++this declaration of faith],
 "`from whatever source they may come,
 or by whomsoever they may be promulgated;`"..."`nor do we countenance the receiving
 of any sentiments which are at variance with those contained in our approved writers.`"^
-footnote:[Declaration on Various Christian Doctrines; by the Larger Body of New England, p. 22.]
+footnote:[[.book-title]#Declaration on Various Christian Doctrines;# by the Larger Body of New England, p. 22.]
 We might suppose that the writers of this passage believed that
 their deeds for the past five years had all been buried in oblivion,
 when they had the boldness to present such an assertion
@@ -1473,7 +1481,7 @@ and "`the Gospel,`" it is almost entirely silent;
 as well as on the various points on which, in his Brief Remarks,
 he accused our early and most cherished writers of "`serious mistakes.`"
 But as I have elsewhere^
-footnote:[Examination of the Memoirs and Writing of J. J. Gurney, page 129, etc.]
+footnote:[[.book-title]#Examination of the Memoirs and Writing of J. J. Gurney,# page 129, etc.]
 treated somewhat more largely on the fallacy of this declaration of faith,
 it is only needful here thus briefly to refer to it.
 
@@ -1523,14 +1531,14 @@ ended in no benefit to the cause of Truth.
 During the trial it was amply testified by various witnesses,^
 footnote:[The evidence on the part of the defendants was
 afterwards printed in an octavo volume of 392 pages,
-entitled Depositions, etc., Earle, etc., v. Wood, etc., Supreme Court of Massachusetts.
+entitled [.book-title]#Depositions, etc., Earle, etc., v. Wood, etc., Supreme Court of Massachusetts.#
 Boston, T. R. Marvin, 1850.
 The writer has not succeeded in ascertaining whether the
 evidence on behalf of the plaintiffs was ever printed.
 Owing to all the testimony having been taken by way
 of affidavit at the homes of the respective witnesses,
 the case is by no means so clearly developed as it might
-have been by viva voce examinations in open court;
+have been by _viva voce_ examinations in open court;
 and from the constant repetition of the same points by nearly all the
 witnesses in reply to long monotonous lists of written interrogatories,
 the perusal is exceedingly dry and tedious,
@@ -1625,6 +1633,9 @@ The importance of the subject as a matter of history is such,
 that it seems best to introduce here a few detached extracts from this review,
 so as to set the matter in its true light.
 
+[quote]
+____
+
 In the first place we may remark, that doctrines grounded upon plain Scripture testimony,
 as are those of the Society of Friends,
 have never been admitted by them to be speculative, a term which implies ideal,
@@ -1680,8 +1691,13 @@ that such certificate would be an endorsement of his doctrines:
 a view which none offered to gainsay.
 Still the Supreme Court of Massachusetts think that, in very deed,
 this controversy arose from a mere jealousy.
+____
 
+[.offset]
 Again:
+
+[quote]
+____
 
 The court say that the Narrative and Declaration
 put forth in 1845 by the Gurney Yearly Meeting,
@@ -1710,12 +1726,16 @@ and so recorded it on their book.
 Thus it is proved that meetings of the highest order in the Society,
 if they have not promulgated unsound doctrines of their own,
 have taken effectual means to spread those of Gurney, etc.
+____
 
 In reference to the disorderly appointment of Shove as clerk
 of Swauzey Monthly Meeting in the eighth month,
 which the Judge had acknowledged to have been proposed
 before the meeting was opened by the clerk,
 they say:
+
+[quote]
+____
 
 To appoint a new clerk before the meeting was opened by the former, when present,
 is clearly an infraction upon the order and usages of New England Yearly Meeting,
@@ -1741,6 +1761,7 @@ they should have sought their remedy by an appeal to the Quarterly
 Meeting`"--a proposition wholly irrelevant to the case.
 Their duty clearly was to maintain the Monthly Meeting inviolable, and they did so,
 forwarding their usual account to the Quarterly Meeting.
+____
 
 And they go on to show what the powers of committees are, and are not,
 according to discipline and usage.
@@ -1749,6 +1770,9 @@ In allusion to the Yearly Meeting, they quote the words of the Court, viz.:
 refused no application for redress, declared no heretical opinion,
 nor taken any step to be complained of.`"
 On which they make the following remarks:
+
+[quote]
+____
 
 It seems hardly credible that the Court could have been so ignorant of the history
 of New England Yearly Meeting for the four or five years prior to the separation,
@@ -1807,11 +1831,15 @@ is a greater departure from sound principles and just proceedings than we were
 prepared to expect at the hands of the Supreme Judicial Court of Massachusetts;
 and we trust we have shown that the opinion of the Court is not justly entitled to become
 an authority or precedent in regard to matters similar to those at issue in this case.
+____
 
 Beside this review,
 one of the Counsel likewise issued some close strictures
 on the glaring errors of the decision of the Court.
 The following are a few of his remarks, treating the case in a legal point of view:
+
+[quote]
+____
 
 In the investigation of this question,
 the usages of the Society of Friends were proved
@@ -1921,6 +1949,7 @@ and cannot heal the division in the Society of Friends.
 The appeal is to the gentlemen of the bar,
 that the decision ought not to stand as a precedent,
 to be relied on in cases hereafter to be tried.`"
+____
 
 The occurrence of this disruption of New England Yearly Meeting,
 in the outrageous manner in which it was brought
