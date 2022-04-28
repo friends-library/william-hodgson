@@ -1,6 +1,7 @@
 == Chapter XI.
 
-Progress of the Gurney Schism Within New York Yearly Meeting.
+[.chapter-synopsis]
+* Progress of the Gurney Schism Within New York Yearly Meeting
 
 In the Yearly Meeting of New York the modernizing party, who had the control,
 assumed great activity upon the occurrence of the separation in New England,
@@ -155,6 +156,9 @@ The following extract from it will show the position
 taken by these Friends to be one of vital principle,
 and not of mere notions or technicalities:
 
+[.embedded-content-document]
+--
+
 A lamentable schism has lately taken place among Friends in New England,
 which we believe was occasioned by a defection in principle,
 that led to the disownment of a sound minister,
@@ -194,6 +198,8 @@ from their disownment of sound and sincere Friends,
 for the cause and in the manner to which we have alluded;
 thus unavoidably implicating themselves with unsoundness,
 and are seceders from the Society.
+
+--
 
 The Scipio Monthly Meeting of Friends of the ancient faith, held at the usual time,
 appointed representatives to be in attendance at
@@ -261,6 +267,9 @@ In an Address to Friends, published by it in 1848,
 they used the following impressive language,
 respecting the backsliding which had overtaken the Society:
 
+[.embedded-content-document.address]
+--
+
 For many years past,
 the true burden-bearers among us have been pained
 to observe the relapsing condition of our Society,
@@ -302,10 +311,15 @@ endeavor to support the precious doctrines, principles,
 and testimonies that our honored predecessors felt bound to do amid great opposition,
 and not shrink from the path of suffering.
 
+--
+
 And in a pamphlet published in the autumn of 1848,
 containing strictures on the report of the above-mentioned Yearly Meeting`'s committee,
 etc., they express the following salutary and discriminating sentiments,
 in reference to the necessity of a right subordination of inferior to superior meeting:
+
+[.embedded-content-document]
+--
 
 We readily admit that,
 except in cases where superior meetings have changed their ground of faith,
@@ -350,6 +364,8 @@ it is very clear that the Yearly Meeting could have imposed
 the peculiar doctrines of the Separatists upon them,
 under as fair a plea of order and subordination as it could now force
 upon us doctrines that the Seceders in New England have upheld.
+
+--
 
 Thus far in relation to the Quarterly Meeting of Scipio.
 We may now briefly advert to the separation in Ferrisburgh Quarterly Meeting,
@@ -550,7 +566,7 @@ stream over the whole Society.
 And notwithstanding the efforts made by the compromisers
 to inculcate the idea that "`no greater or more desolating
 evil can afflict the Society than the occurrence of separations,`"^
-footnote:[Remarks on Appointment of Clerks in Ohio Yearly Meeting, by T. Evans,
+footnote:[[.book-title]#Remarks on Appointment of Clerks in Ohio Yearly Meeting,# by T. Evans,
 Philadelphia, 1834, page 15.]
 it must be manifest to those who desire, above all things,
 the maintenance of our holy profession on its primitive Christian ground,
@@ -616,6 +632,9 @@ against the inroads of heresy in the church,
 and their sense of the right and duty of withstanding it.
 In Section VI of that work he says:
 
+[quote]
+____
+
 If the apostles of Christ of old,
 and the preachers of the everlasting gospel in this day, had told all people,
 however wrong they found them in their faith and principles,
@@ -667,10 +686,14 @@ upon their obstinacy, to separate from such,
 and to exclude them from their spiritual fellowship and communion; for other ways,
 if this be denied, farewell to all Christianity,
 or to the maintaining of any sound doctrine in the church of Christ.
+____
 
 And concerning the power of decision resting in the
 testimony of the Holy Spirit through the living members,
 he says, in Section VII:
+
+[quote]
+____
 
 To give a short and yet clear and plain answer to this proposition,
 the only proper judge of controversies in the church is the Spirit of God,
@@ -687,8 +710,13 @@ though some of these reasons may and ought to have their true weight
 in case of contradictory assertions (as shall hereafter be observed),
 yet not so as upon which either mainly or only the infallible judgment is to be placed,
 but upon the Spirit, as that which is the firm and unmovable foundation.
+____
 
+[.offset]
 And a little further he says:
+
+[quote]
+____
 
 Nor yet do I understand by the Church every gathering or
 assembly of people who may hold sound and true principles,
@@ -703,6 +731,7 @@ and there remains nothing but a shadow without substance.
 Such assemblies, then, are like the dead body when the soul is departed,
 which is no more fit to be conversed with,
 because it corrupts and proves noisome to the living.
+____
 
 On a serious consideration of the above extracts from this work of Robert Barclay`'s,
 always acknowledged by the Society as conveying its own principles on these subjects,

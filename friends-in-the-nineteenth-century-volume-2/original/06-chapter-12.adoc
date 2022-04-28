@@ -1,6 +1,7 @@
 == Chapter XII.
 
-Development of the Gurney Schism Within Ohio and Baltimore Yearly Meetings.
+[.chapter-synopsis]
+* Development of the Gurney Schism Within Ohio and Baltimore Yearly Meetings.
 
 For several years, within the compass of the Yearly Meeting of Ohio,
 the state of feeling between the advocates of the new views on the one hand,
@@ -145,7 +146,7 @@ The clerk endeavored further to clear himself, and said again and again: "`Frien
 you can make the meeting as select as you please, and I will not object to it,
 provided you do so consistently with our principles,
 and do not appeal to the civil magistrate.`"^
-footnote:[Letters and Memoirs of T. B. Gould,
+footnote:[[.book-title]#Letters and Memoirs of T. B. Gould,#
 page 366. How the clerk expected this to be accomplished, does not appear,
 unless it was an invitation to them to take T. B. Gould out of the meetinghouse.]
 This was contemptuously rejected, and he was vehemently charged with treachery,
@@ -234,7 +235,7 @@ and finding that their clerk was among the separatists, they appointed another,
 and went on with the regular business of the Women`'s Yearly Meeting.
 Eliza P. Gurney had identified herself with the separatists,
 and William and Charles Evans were uniting with and encouraging B. Hoyle`'s measures.^
-footnote:[The printed Journal of William Evans (p.
+footnote:[The printed [.book-title]#Journal of William Evans# (p.
 609-10) gives an account of this Yearly Meeting.
 A stranger would rise from its perusal,
 totally ignorant of the ground of the dispute respecting clerks,
@@ -302,7 +303,7 @@ would be confounded and brought to naught.`"
 He added some further weighty expressions of the same character,
 and a quiet solemnity afterwards pervaded the meeting.
 It is evident from the foregoing statement, that though this separation^
-footnote:[The Letters of T. B. Gould, from page 353 to page 373,
+footnote:[The [.book-title]#Letters of T. B. Gould,# from page 353 to page 373,
 give a graphic and interesting account of the circumstances attending that separation.]
 had cleared out from Ohio Yearly Meeting the main
 body of the original Gurney party there,
@@ -547,6 +548,9 @@ explanatory of the extraordinary circumstances in which the Yearly Meeting was n
 through the schismatic course of false brethren;
 which minute contained the following expressions, among other remarks on this crisis:
 
+[.embedded-content-document.minute]
+--
+
 The particulars of the lamentable difficulties in which the various parts
 of our Society have been involved during a past series of years,
 are so generally known,
@@ -569,6 +573,8 @@ Society.
 And finding the body claiming to be Ohio Yearly Meeting, with B. Hoyle as clerk,
 in this connection, we own it, have fellowship with it,
 and with it continue our correspondence.
+
+--
 
 They did not at that time suppose that either Philadelphia or Ohio Yearly Meeting would
 become so thoroughly weakened by submission to the temporizing measures of the "`middle
@@ -666,6 +672,9 @@ was given in The Friend.^
 footnote:[Vol.
 28, p. 262.]
 
+[quote]
+____
+
 The epistles from London, Dublin, and New York having been read,
 the clerk informed the meeting there were two epistles on the table,
 each purporting to come from Ohio Yearly Meeting,
@@ -737,7 +746,7 @@ that the separation of a part of the members from a Yearly Meeting ought not to 
 and therefore the epistle +++[+++of the Larger Body]
 ought to be read.^
 footnote:[It was afterwards conceded by an active member of the Gurney party,
-that "`a large majority of those who spoke "`favored
+that "`a large majority of those who spoke`" favored
 the reading of the epistle from the Smaller Body;
 but that the clerk was evidently determined that it should not be done.]
 The latter course was finally adopted, the epistle being read,
@@ -746,7 +755,7 @@ the meeting adjourned.
 ^
 footnote:[The reader will please compare the above weak reasoning
 (which appears to have been the ground on which The Friend reconciled
-the rejection of the epistle of the "`Smaller Body "`of Baltimore,
+the rejection of the epistle of the "`Smaller Body`" of Baltimore,
 in 1855) with the ground on which the Yearly Meeting acted in a similar case in 1828;
 see Vol.
 I, chap.
@@ -786,6 +795,7 @@ should stop at the rise of the meeting,
 and sit down in silence to feel together.
 His friends, however, did not unite with him in the adoption of such a measure,
 and at their urgent solicitation he withdrew his proposition.
+____
 
 The above quotation is characteristic of the cautions and calculating manner in which
 The Friend was at this time accustomed to treat the subject of the difficulties.
@@ -1001,6 +1011,9 @@ the conclusions already come to by the Yearly Meeting.
 After a sitting of six hours, the meeting adjourned.
 The minute made on the occasion was as follows:
 
+[.embedded-content-document.minute]
+--
+
 Epistles from our brethren at their Yearly Meetings
 in London and Dublin were received and now read,
 as was also the printed London General Epistle.
@@ -1022,6 +1035,8 @@ which they may hope will contribute to the increase of unity;
 to make a Report to this meeting next year; it being clearly understood,
 that they are not to interfere with, or unsettle,
 any of the previous decisions which this meeting has come to.
+
+--
 
 This Committee of Representatives,
 after a whole year`'s time for consideration of the difficulties
