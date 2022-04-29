@@ -1,7 +1,9 @@
 == Chapter XIV.
 
-Progress of the Middle System--One of its Fruits,
-The "`King`" Separation in New York--Another, the Loss of the Lawsuit in Ohio
+[.chapter-synopsis]
+* Progress of the Middle System
+* One of its Fruits, The "`King`" Separation in New York
+* Another, the Loss of the Lawsuit in Ohio
 
 For several years, especially since the decease of the first editor in 1851,
 the weekly paper called The Friend, published in Philadelphia,
@@ -52,6 +54,10 @@ that it resulted in the sending of a Remonstrance to the
 "`Contributors`" against the lapsed course of the paper.
 The substance of this Remonstrance was as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Esteemed Friends:
 
 We respectfully request your serious attention to the following
@@ -162,6 +168,8 @@ that it may be unnecessary for Friends to resort to other means for their relief
 
 We are respectfully your friends.
 
+--
+
 The above document was signed by nearly two hundred
 of the subscribers and readers of The Friend;
 many of them ministers, elders, overseers,
@@ -194,6 +202,9 @@ as the system of Elias Hicks.
 Respecting the New England question,
 it took a clear and decided position in favor of the "`Smaller Body,`" saying (p. 25):
 
+[quote]
+____
+
 If those Friends who compose the "`Smaller Body`"
 continue to be entitled to the rights of membership,
 and to such acknowledgment by their brethren as may be necessary
@@ -213,6 +224,7 @@ Does it not follow, that if there is but one true Monthly Meeting of Swanzey, an
 of the "`Smaller Body,`" that as certainly,
 there can be but one true Yearly Meeting of New England;
 and can that be in unity with the separate Monthly Meeting of Swanzey?
+____
 
 Equally decided was its language in relation to the position of the "`Smaller
 Body`" of Baltimore Yearly Meeting in the separation of 1854;
@@ -227,12 +239,20 @@ In reference to the increasing tendency of many in Philadelphia
 Yearly Meeting to give way to weakness and indecision,
 this pamphlet says (p. 27):
 
+[quote]
+____
+
 Then upon what ground (with any degree of consistency)
 can Philadelphia Yearly Meeting relax,
 in carrying out its testimony against the fruits resulting from
 either the adoption or encouragement of J. J. Gurney`'s sentiments?
+____
 
+[.offset]
 And in conclusion (p. 31):
+
+[quote]
+____
 
 If in those primitive days there was no concord between light and darkness,
 between truth and error, why should there now be?
@@ -245,6 +265,7 @@ that you are neither cold nor hot.
 I wish you were cold or hot.
 So then, because you are lukewarm, and neither cold nor hot,
 I will spew you out of my mouth!`"
+____
 
 But this pamphlet, and others issued before and after it,
 had no more effect in changing the course of those who controlled the Yearly Meeting,
@@ -556,10 +577,10 @@ side respectively the right and the wrong lay.^
 footnote:[For detailed information on the subject,
 the reader might refer to an address from New York Yearly
 Meeting of Friends +++[+++King party+++]+++,
-1859; also, Some Things Set Forth for the Clearing of Truth,
-By Way of Reply to the Former, Auburn, 1859; An Exposition, etc.,
-By the King party in Support of their Address, Auburn, 1859;
-and Some Further Remarks for the Clearing of Truth, in Reply to the Exposition, Auburn, 1860.]
+1859; also, [.book-title]#Some Things Set Forth for the Clearing of Truth,
+By Way of Reply to the Former,# Auburn, 1859; An Exposition, etc.,
+[.book-title]#By the King party in Support of their Address,# Auburn, 1859;
+and [.book-title]#Some Further Remarks for the Clearing of Truth, in Reply to the Exposition,# Auburn, 1860.]
 
 The leaders of these disorders,
 seeing that they were now coming under the care of
@@ -816,15 +837,17 @@ answered: "`It was according to the settled order of the meeting that I acted,
 on the ground that the meeting had no power to appoint
 a new clerk when the representatives disagree.`"
 
-Question by the Court.--"`Suppose that at the next Yearly Meeting
+[.discourse-part]
+_Question by the Court._--Suppose that at the next Yearly Meeting
 you should discover that your clerk had become a Hicksite,
 and that a majority of your representatives present had embraced Hicksite doctrines,
 and therefore would not be able to agree upon a clerk,
 and the members of the representative body who had not embraced
 those doctrines should report the name of a candidate for clerk,
-would the meeting be compelled to keep the Hicksite clerk for another year?`"
+would the meeting be compelled to keep the Hicksite clerk for another year?
 
-Answer.--"`There is no means of removing a person for such a cause,
+[.discourse-part]
+_Answer._--There is no means of removing a person for such a cause,
 except by the action of the Monthly Meeting of which he is a member,
 according to the rules of discipline.
 There is a prescribed way, and it would be unsafe to displace any clerk,
@@ -835,24 +858,30 @@ if he cannot be restored.
 I think the meeting would have to retain him, notwithstanding he was a Hicksite.
 The Monthly Meeting takes away his right of membership,
 and their action must be dealt with by the Quarterly Meeting.
-He must retain his position as clerk until these proceedings can be gone through with.`"
+He must retain his position as clerk until these proceedings can be gone through with.
 
-Question.--"`Suppose a clerk comes to the table in liquor,
-are you bound to keep a clerk at the table who is drunk every time he goes there?`"
+[.discourse-part]
+_Question._--Suppose a clerk comes to the table in liquor,
+are you bound to keep a clerk at the table who is drunk every time he goes there?
 
-Answer.--"`I have never known such a case.
+[.discourse-part]
+_Answer._--I have never known such a case.
 If he is appointed clerk, he is appointed for the ensuing year,
 unless displaced by the Monthly Meeting, and his right of membership is taken away;
 and then, if his right of membership is taken away, or he is removed by death,
-it is for the representatives to report another clerk.`"
+it is for the representatives to report another clerk.
 
-Question.--"`But suppose they could not agree?`"
+[.discourse-part]
+_Question._--But suppose they could not agree?
 
-Answer.--"`That is a case that cannot occur.`"
+[.discourse-part]
+_Answer._--That is a case that cannot occur.
 
-Question.--"`Do you regard the Society of Friends as a unity +++[+++unit]?`"
+[.discourse-part]
+_Question._--Do you regard the Society of Friends as a unity +++[+++unit]?
 
-Answer.--"`I do.
+[.discourse-part]
+_Answer._--I do.
 There is but one Society of Friends throughout the world.
 I expect there is a considerable number of bodies that claim to be Yearly Meetings,
 the same as we do.
@@ -861,81 +890,101 @@ though Indiana claims to take away the right of Ohio Yearly Meeting,
 we have never taken action to take away their right.^
 footnote:[Why then invade its jurisdiction by setting up Monthly Meetings within it?]
 There is a regular Yearly Meeting of the Society of Friends
-claiming that character in Indiana and Iowa.`"
+claiming that character in Indiana and Iowa.
 
-Question.--"`Are there not two separate organizations
-calling themselves the Society of Friends?`"
+[.discourse-part]
+_Question._--Are there not two separate organizations
+calling themselves the Society of Friends?
 
-Answer.--`"Yes; there is in Ohio Yearly Meeting, and there are two in New England.`"
+[.discourse-part]
+_Answer._--Yes; there is in Ohio Yearly Meeting, and there are two in New England.
 
-Question.--"`Is there a portion of your organization in Iowa?`"
+[.discourse-part]
+_Question._--Is there a portion of your organization in Iowa?
 
-Answer.--"`Yes; there is a Quarterly Meeting there.`"^
+[.discourse-part]
+_Answer._--Yes; there is a Quarterly Meeting there.^
 footnote:[Alluding to a Monthly (and afterwards a
 Quarterly) Meeting set up by Ohio in Iowa,
 as mentioned in the last chapter.]
 
-Question.--"`And there is a Yearly Meeting in Iowa
-that does not recognize that Quarterly Meeting?`"
+[.discourse-part]
+_Question._--And there is a Yearly Meeting in Iowa
+that does not recognize that Quarterly Meeting?
 
-Answer.--"`Yes.`"
+[.discourse-part]
+_Answer._--Yes.
 
-Question.--"`There are two then in Iowa?`"
+[.discourse-part]
+_Question._--There are two then in Iowa?
 
-Answer.--"`Yes.`"
+[.discourse-part]
+_Answer._--Yes.
 
-Question.--"`If your Meeting and this Quarterly Meeting
+[.discourse-part]
+_Question._--If your Meeting and this Quarterly Meeting
 are the genuine legitimate Society of Friends,
 then the Yearly Meetings of Indiana and Western, which recognized Binns,
-are not meetings of the Society of Friends?`"
+are not meetings of the Society of Friends?
 
-Answer.--"`I do not understand the question.`"
+[.discourse-part]
+_Answer._--I do not understand the question.
 
-Question.--"`I mean, if yours is the only legitimate Society of Friends in the world,
+[.discourse-part]
+_Question._--I mean, if yours is the only legitimate Society of Friends in the world,
 then the Binns meeting and those which affiliate with it,
-do not belong to the Society of Friends?`"
+do not belong to the Society of Friends?
 
-Answer.--"`I have not disfranchised any particular Society.
+[.discourse-part]
+_Answer._--I have not disfranchised any particular Society.
 They do not recognize us; we have no communication with them whatever.
 They were established as legitimate,
 but so far as they have identified themselves with the Binns party,
-we do not recognize them.`"
+we do not recognize them.
 
-On Reexamination.--"`I do not expect that Ohio Yearly Meeting could decide upon the
-question as to whether Indiana Yearly Meeting is or is not what it claims to be.`"
+[.discourse-part]
+_On Reexamination._--I do not expect that Ohio Yearly Meeting could decide upon the
+question as to whether Indiana Yearly Meeting is or is not what it claims to be.
 
+[.offset]
 Charles Evans, of Philadelphia, testified, among other things, as follows:^
-footnote:[Testimony, Supreme Court of Ohio, Harrison, etc. v. Hoyle, etc., p. 130, etc.]
+footnote:[[.book-title]#Testimony,# Supreme Court of Ohio, Harrison, etc. v. Hoyle, etc., p. 130, etc.]
 
-Question.--"`What is the practice of the Yearly Meetings
-on receiving ministers and members of other Yearly Meetings?`"
+[.discourse-part]
+_Question._--What is the practice of the Yearly Meetings
+on receiving ministers and members of other Yearly Meetings?
 
-Answer.--"`It is usual in Yearly Meetings, when ministers come,
+[.discourse-part]
+_Answer._--It is usual in Yearly Meetings, when ministers come,
 that they present their credentials, and they are heard in the meeting.
 That is the usual practice.
 Philadelphia has suspended that for many years,
 and it does not hold itself called upon to read certificates
 of members which come among them,
-but receive them nevertheless, and they enjoy their rights as ministers.`"^
+but receive them nevertheless, and they enjoy their rights as ministers.^
 footnote:[But he omitted to say that this "`suspension`"
 was a violation of their own Discipline.
 The rule remained intact, but was evaded.]
 
-Question.--"`What appeal is there from the action of the Yearly Meeting to a higher body,
+[.discourse-part]
+_Question._--What appeal is there from the action of the Yearly Meeting to a higher body,
 on questions of a disciplinary, judicial, or legislative character,
-or on questions that in any way affect the property of the Yearly Meeting?`"
+or on questions that in any way affect the property of the Yearly Meeting?
 
-Answer.--"`There is no authority in the Society of Friends superior to the Yearly Meeting.
+[.discourse-part]
+_Answer._--There is no authority in the Society of Friends superior to the Yearly Meeting.
 Every Yearly Meeting is an independent body--independent in itself--connected
 with the Society of Friends at large through the medium of a common faith,
 but holding no relation of subordination to any part of the Society,
 except that which it constitutes itself.
-The union is one of Christian fellowship, simply.`"
+The union is one of Christian fellowship, simply.
 
-Question (in cross-examination).--"`Why has your
+[.discourse-part]
+_Question (in cross-examination)._--"`Why has your
 correspondence with the Hoyle meeting not been continued?`"
 
-Answer.--"`There has been in the Society of Friends within the last thirty years,
+[.discourse-part]
+_Answer._--There has been in the Society of Friends within the last thirty years,
 a considerable contrariety of opinion upon points of doctrine.
 Philadelphia Yearly Meeting took its stand upon what
 it believed to be the doctrines of Friends,
@@ -950,16 +999,20 @@ And it was finally concluded that,
 inasmuch as the correspondence was not necessary for the meeting to keep up,
 it would be better that it should be all laid to one side,
 and at the time it was concluded to hold no correspondence with any other Yearly Meeting.
-The Yearly Meeting of Ohio was included in that conclusion.`"
+The Yearly Meeting of Ohio was included in that conclusion.
 
-Question.--"`I understand you hold the Yearly Meetings to be entirely independent?`"
+[.discourse-part]
+_Question._--I understand you hold the Yearly Meetings to be entirely independent?
 
-Answer.--"`Yes.`"
+[.discourse-part]
+_Answer._--Yes.
 
-Question +++[+++the counsel having referred to New England].--"`Then
-you do take cognizance of other Yearly Meetings?`"
+[.discourse-part]
+_Question +++[+++the counsel having referred to New England]._--Then
+you do take cognizance of other Yearly Meetings?
 
-Answer.--"`We take cognizance so far as this,
+[.discourse-part]
+_Answer._--We take cognizance so far as this,
 that when the question was presented to Philadelphia Yearly Meeting as to whether
 it would cut off a large number of persons from the Society of Friends,
 it inquired into the position they then occupied, and in its investigation,
@@ -967,95 +1020,123 @@ finding there had been, as it believed,
 a violation of the discipline of New England Yearly Meeting, they pointed that out,
 and sent these documents that I speak of,
 and then granted the rights of membership to both
-those bodies to attend Philadelphia Yearly Meeting.`"
+those bodies to attend Philadelphia Yearly Meeting.
 
-Question.--"`Do you now in Philadelphia Yearly Meeting receive ministers
-accredited by the subordinate meetings in the Binns Yearly Meeting?`"
+[.discourse-part]
+_Question._--Do you now in Philadelphia Yearly Meeting receive ministers
+accredited by the subordinate meetings in the Binns Yearly Meeting?
 
-Answer.--"`We never have had one present himself, or I have no recollection of it.`"
+[.discourse-part]
+_Answer._--We never have had one present himself, or I have no recollection of it.
 
-Question.--"`Do you receive members of those meetings, and recognize them?`"
+[.discourse-part]
+_Question._--Do you receive members of those meetings, and recognize them?
 
-Answer.--"`Since this has been mentioned to me, I do recollect one, a woman friend,
+[.discourse-part]
+_Answer._--Since this has been mentioned to me, I do recollect one, a woman friend,
 that had escaped my memory, who presented her certificate.
 That was, like all others, not received.
 We received none from any Yearly Meeting, from neither of the bodies in Ohio,
-and from no other Yearly Meeting.`"
+and from no other Yearly Meeting.
 
-Question.--"`You said something about her, nevertheless,
-being permitted to enter the meeting as a Friend?`"
+[.discourse-part]
+_Question._--You said something about her, nevertheless,
+being permitted to enter the meeting as a Friend?
 
-Answer.--"`Certainly, she was.`"
+[.discourse-part]
+_Answer._--Certainly, she was.
 
-Question.--"`That is what I want to know,
-whether any who belong to the Binns meeting in Ohio are recognized?`"
+[.discourse-part]
+_Question._--That is what I want to know,
+whether any who belong to the Binns meeting in Ohio are recognized?
 
-Answer.--'`The Binns party was recognized in that instance, I have understood.
+[.discourse-part]
+_Answer._--The Binns party was recognized in that instance, I have understood.
 I was not cognizant of the facts,
 but heard of her having been at different meetings within our limits,
-and speaking as a minister.`"
+and speaking as a minister.
 
-Question.--"`Do you regard that as the practice of your meeting in that particular,
-that they will so receive them?`"
+[.discourse-part]
+_Question._--Do you regard that as the practice of your meeting in that particular,
+that they will so receive them?
 
-Answer.--"`They will receive them as members of Ohio Yearly Meeting,
+[.discourse-part]
+_Answer._--They will receive them as members of Ohio Yearly Meeting,
 when they would not receive certificates which the meeting granted to those individuals,
-as coming from Ohio Yearly Meeting.`"
+as coming from Ohio Yearly Meeting.
 
-Question.--"`They would, nevertheless,
-recognize them as ministers of the Society of Friends?`"
+[.discourse-part]
+_Question._--They would, nevertheless,
+recognize them as ministers of the Society of Friends?
 
-Answer.--"`Unless they had certain knowledge that they had been disowned from the Society.`"
+[.discourse-part]
+_Answer._--Unless they had certain knowledge that they had been disowned from the Society.
 
-Question.--"`Don`'t you deal with the ministers of
-the Hoyle meetings in much the same way?`"
+[.discourse-part]
+_Question._--Don`'t you deal with the ministers of
+the Hoyle meetings in much the same way?
 
-Answer.--"`We take no cognizance of their credentials,
-but allow them to exercise their functions.`"
+[.discourse-part]
+_Answer._--We take no cognizance of their credentials,
+but allow them to exercise their functions.
 
-Question.--"`If I understand you,
+[.discourse-part]
+_Question._--If I understand you,
 you say that the connection between those Yearly Meetings is simply a Christian brotherhood,
-without any power over each other`'s standing in that brotherhood.`"
+without any power over each other`'s standing in that brotherhood.
 
-Answer.--"`Yes.`"
+[.discourse-part]
+_Answer._--Yes.
 
-The Court.--"`You said, a moment ago,
+[.discourse-part]
+_The Court._--You said, a moment ago,
 that if a minister or member from Binns`'s party should come into your jurisdiction,
 you would allow him to exercise his gifts, unless you knew he had been disowned.
 Suppose you knew that Mr. Hoyle`'s meeting had disowned him,
-would it not prevent your recognizing him?`"
+would it not prevent your recognizing him?
 
-Answer.--"`I cannot say whether it would or not.`"
+[.discourse-part]
+_Answer._--I cannot say whether it would or not.
 
-The Court.--^
-footnote:[Testimony, p. 138.]
-"`Do you recognize the right in one Yearly Meeting to erect or
-establish a Quarterly Meeting in the jurisdiction of another?`"
+[.discourse-part]
+_The Court._--^
+footnote:[[.book-title]#Testimony,# p. 138.]
+Do you recognize the right in one Yearly Meeting to erect or
+establish a Quarterly Meeting in the jurisdiction of another?
 
-Question.--"`Not under ordinary circumstances.
+[.discourse-part]
+_Question._--Not under ordinary circumstances.
 There may a condition of things occur in which the Yearly Meeting would
-be obliged to go beyond the ordinary usage of the Society in doing that.`"
+be obliged to go beyond the ordinary usage of the Society in doing that.
 
-Question.--"`Is there, or can there be, more than one Society of Friends?`"
+[.discourse-part]
+_Question._--Is there, or can there be, more than one Society of Friends?
 
-Answer.--"`There is but one Society of Friends.`"
+[.discourse-part]
+_Answer._--There is but one Society of Friends.
 
-Question.--"`Then, in the recognition of one Ohio Meeting,
-you necessarily exclude the recognition of the other?`"
+[.discourse-part]
+_Question._--Then, in the recognition of one Ohio Meeting,
+you necessarily exclude the recognition of the other?
 
-Answer.--"`Yes, as a Yearly Meeting.`"
+[.discourse-part]
+_Answer._--Yes, as a Yearly Meeting.
 
-Question.--"`Then,
+[.discourse-part]
+_Question._--Then,
 do you recognize Yearly Meetings of the Society elsewhere
-which are in correspondence with the Binns meeting?`"
+which are in correspondence with the Binns meeting?
 
-Answer.--"`Under peculiar circumstances it might be so.`"
+[.discourse-part]
+_Answer._--Under peculiar circumstances it might be so.
 
-Question.--"`Would the Yearly Meeting of the Society of Friends in Ohio be justifiable,
+[.discourse-part]
+_Question._--Would the Yearly Meeting of the Society of Friends in Ohio be justifiable,
 or have a right to establish Quarterly Meetings within the
-limits of other Yearly Meetings of the Society of Friends?`"
+limits of other Yearly Meetings of the Society of Friends?
 
-Answer.--"`That would depend upon the action of the other Yearly Meetings.
+[.discourse-part]
+_Answer._--That would depend upon the action of the other Yearly Meetings.
 If Ohio maintained its integrity as a Yearly Meeting of the Society of Friends,
 and the other Yearly Meetings refused to allow it
 to avail itself of the privileges of the Yearly Meetings;
@@ -1064,20 +1145,24 @@ so that they cannot become incorporated into the Yearly
 Meetings within the limits of which they reside,
 when they have gone out of the limits of Ohio Yearly Meeting,
 then it would become necessary for the Yearly Meeting of Ohio,
-in order to keep up its care over its members, to create meetings for that purpose.`"
+in order to keep up its care over its members, to create meetings for that purpose.
 
-Question.--"`Does not that simply result, if it is extended,
-in the organization of two religious Societies of Friends?`"
+[.discourse-part]
+_Question._--Does not that simply result, if it is extended,
+in the organization of two religious Societies of Friends?
 
-Answer.--"`No.`"
+[.discourse-part]
+_Answer._--No.
 
-Question.--"`Suppose that the Yearly Meeting of Ohio should find
+[.discourse-part]
+_Question._--Suppose that the Yearly Meeting of Ohio should find
 members desiring to belong to its meetings all over the country,
 and should organize Quarterly Meetings in New England, Maryland, Iowa, Kansas,
 wherever there were Yearly Meetings of the Society,
-would it not appear to be the organization of two Societies of Friends?`"
+would it not appear to be the organization of two Societies of Friends?
 
-Answer.--"`No. Allow me to explain.
+[.discourse-part]
+_Answer._--No. Allow me to explain.
 The Society of Friends is a body which professes certain doctrines and testimonies.
 While it maintains these doctrines and testimonies,
 it is the Society of Friends under all circumstances.
@@ -1095,75 +1180,98 @@ footnote:[The defectiveness of these assertions must be manifest to the reader.]
 and having once been established,
 the others cannot take from them the character of a religious Society of Friends.
 They may take from them participation in the organization which previously
-existed in the Society of Friends before the difficulty occurred.`"
+existed in the Society of Friends before the difficulty occurred.
 
-Question.--"`Suppose that instead of one Quarterly Meeting in the State of Iowa,
+[.discourse-part]
+_Question._--Suppose that instead of one Quarterly Meeting in the State of Iowa,
 that the Hoyle Meeting should organize three,
 and that these three shall organize a separate Yearly Meeting,
 would there not then be two Yearly Meetings in Iowa?
 Then if it extends its jurisdiction throughout the
 territorial limits of the Society in the United States,
 creating additional subordinate and Yearly Meetings,
-have you not then two Societies of Friends in the United States?`"
+have you not then two Societies of Friends in the United States?
 
-Answer.--"`No. We have one Society of Friends, with two organizations.
+[.discourse-part]
+_Answer._--No. We have one Society of Friends, with two organizations.
 We have but one Society of Friends, because the Society of Friends depends,
 not upon the organization of its meetings, which may be altered from time to time,
-but depends on the maintenance of certain doctrines and principles.`"
+but depends on the maintenance of certain doctrines and principles.
 
-Question.--"`Well, now, then,
-what objection have you to corresponding with the Binns Meeting?`"
+[.discourse-part]
+_Question._--Well, now, then,
+what objection have you to corresponding with the Binns Meeting?
 
-Answer.--"`It is not set up in the order of Society.`"
+[.discourse-part]
+_Answer._--It is not set up in the order of Society.
 
-Question.--"`Are these Iowa Meetings, set up by the Hoyle Yearly Meeting,
-in the order of Society?`"
+[.discourse-part]
+_Question._--Are these Iowa Meetings, set up by the Hoyle Yearly Meeting,
+in the order of Society?
 
-Answer.--"`Yes.
-They are in the order, under the circumstances in which they are placed.`"
+[.discourse-part]
+_Answer._--Yes.
+They are in the order, under the circumstances in which they are placed.
 
-Question.--"`What will you do, then, with the two Meetings in Iowa?
+[.discourse-part]
+_Question._--What will you do, then, with the two Meetings in Iowa?
 They will both be Yearly Meetings of Friends,
-but not both Yearly Meetings in the order of Society, will they?`"
+but not both Yearly Meetings in the order of Society, will they?
 
-Answer.--"`I do not see why they are not.`"
+[.discourse-part]
+_Answer._--I do not see why they are not.
 
-Question.--"`Have they unity?`"
+[.discourse-part]
+_Question._--Have they unity?
 
-Answer.--"`They may not have that unity which ought to exist.`"
+[.discourse-part]
+_Answer._--They may not have that unity which ought to exist.
 
-Question.--"`You would recognize them both?`"
+[.discourse-part]
+_Question._--You would recognize them both?
 
-Answer.--"`Yes, if they maintained the doctrines of the Society,
-and had been regularly set up and established.`"
+[.discourse-part]
+_Answer._--Yes, if they maintained the doctrines of the Society,
+and had been regularly set up and established.
 
-Question.--"`How could such a state of things exist without leading to abuses,
-and to great confusion in all their arrangements?`"
+[.discourse-part]
+_Question._--How could such a state of things exist without leading to abuses,
+and to great confusion in all their arrangements?
 
-Answer.--"`It would undoubtedly lead to confusion--to a great deal of confusion.`"
+[.discourse-part]
+_Answer._--It would undoubtedly lead to confusion--to a great deal of confusion.
 
-Question.--"`Is it not impracticable?`"
+[.discourse-part]
+_Question._--Is it not impracticable?
 
-Answer.--"`It is not impracticable, because it is in existence at the present time.
-We see two bodies in Ohio calling themselves Yearly Meetings.`"
+[.discourse-part]
+_Answer._--It is not impracticable, because it is in existence at the present time.
+We see two bodies in Ohio calling themselves Yearly Meetings.
 
-Question.--^
-footnote:[Testimony, p. 144, etc.]
-"`He +++[+++Thomas Evans]
-was a brother of yours?`"
+[.discourse-part]
+_Question._--^
+footnote:[[.book-title]#Testimony,# p. 144, etc.]
+He +++[+++Thomas Evans]
+was a brother of yours?
 
-Answer.--"`He was.`"
+[.discourse-part]
+_Answer._--He was.
 
-Question.--"`Do you know what his opinion was on
-the question of the Ohio Yearly Meeting separation?`"
+[.discourse-part]
+_Question._--Do you know what his opinion was on
+the question of the Ohio Yearly Meeting separation?
 
-Answer.--"`I do not.`"
+[.discourse-part]
+_Answer._--I do not.
 
-Question.--"`Was he the author of a pamphlet on the subject of the Ohio separation?`"
+[.discourse-part]
+_Question._--Was he the author of a pamphlet on the subject of the Ohio separation?
 
-Answer.--"`I do not know.`"
+[.discourse-part]
+_Answer._--I do not know.
 
-Question.--"`I find the 24th interrogatory (referring to the printed
+[.discourse-part]
+_Question._--I find the 24th interrogatory (referring to the printed
 testimony of the witness in the Swanzey +++[+++N. E.,
 1848]
 case), to be as follows: '`Suppose the larger part of a Yearly Meeting,
@@ -1183,14 +1291,18 @@ let their numbers be as few as they might be,
 could be recognized by the other Yearly Meetings of Friends,
 although it might be necessary, in order to sustain it,
 to enter into a new appointment of officers.`'^
-footnote:[Depositions of Defendants in Fall River Suit, p. 308.]
-Do you concur in this now?`"
+footnote:[[.book-title]#Depositions of Defendants in Fall River Suit,# p. 308.]
+Do you concur in this now?
 
-Answer.--"`I do.
+[.discourse-part]
+_Answer._--I do.
 So far as I see, I believe these interrogatories and answers are mine,
 but I cannot recollect.
 As far as I see, I concur in them.
-That was a question of doctrine.`"
+That was a question of doctrine.
+
+[.small-break]
+'''
 
 This closed the examination.
 Here was an emphatic implication--almost a direct declaration--that
@@ -1224,6 +1336,9 @@ but it was always evaded.
 D+++.+++ D. T. Cowen, of counsel for the Hoyle party, said,
 in the course of his argument (p. 26):
 
+[quote]
+____
+
 During the progress of the trial of this case in the District Court,
 it was decided in effect by the Court, and I think properly decided,
 that this question +++[+++respecting the propriety of allowing
@@ -1239,14 +1354,24 @@ and the objection was sustained.
 The plaintiffs`' counsel +++[+++Binns`'s]
 excepted to the ruling of the Court.
 (Pp. 44-5.)
+____
 
+[.offset]
 In a subsequent part of his pleading the same counsel (Cowen) further says:
+
+[quote]
+____
 
 The questions before this Court are questions of discipline, and not of doctrine.
 There is no dispute about that, and the case has been tried with that understanding.
+____
 
+[.offset]
 In the printed argument of Benjamin Stanton, of counsel for the Binns party,
 he says (p. 21):
+
+[quote]
+____
 
 Was it a question of mere personal aggrandizement,
 and a struggle for place and power on the part of the candidate?
@@ -1259,20 +1384,31 @@ which of the parties held the approved doctrines of the Society?
 But it is agreed on all hands that there is no dispute about doctrine--that
 both held the approved doctrines of the ancient Society of Friends.
 Then what was the dispute about?
+____
 
+[.offset]
 He follows this up by a very superficial and partisan reference
 to the opposition made in New England to J. J. Gurney,
 and the separation there, charging J. Wilbur, T. B. Gould, and their associates,
 with being "`malcontents and seceders;`" and then says (p. 32):
 
+[quote]
+____
+
 If it was a dispute about doctrines, the Court would go into their creeds,
 to see which held the ancient doctrines of the Society.
 But it is a question of submission to, or departure from, the government of the Church, etc.
+____
 
+[.offset]
 And toward the close of his plea he makes the following remarkable assertion:
+
+[quote]
+____
 
 A religious society has as much right to change its doctrine,
 as it has to change its discipline and government.
+____
 
 On a retrospective glance at some of the above quoted evidence,
 it is obvious that Benjamin Hoyle endeavored to show that under no circumstances
