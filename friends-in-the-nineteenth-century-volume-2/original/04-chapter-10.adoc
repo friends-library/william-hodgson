@@ -1,7 +1,8 @@
 == Chapter X.
 
-The Gurney Schism Continued;
-and Rise of the Temporizing Party in Philadelphia and Ohio Yearly Meetings.
+[.chapter-synopsis]
+* The Gurney Schism Continued
+* Rise of the Temporizing Party in Philadelphia and Ohio Yearly Meetings.
 
 The Separation, begun, as we have seen, by the modernizers in New England,
 necessarily brought before all the other Yearly Meetings the important question:
@@ -56,7 +57,7 @@ meetings for them within the limits of that quarter;
 though they were at liberty, if they inclined,
 to sit with Friends in their regular meetings,
 without any public invitations being given to the neighbors.^
-footnote:[B. Seebohm`'s Journal, as printed by his sons,
+footnote:[[.book-title]#B. Seebohm`'s Journal,# as printed by his sons,
 makes no mention of this occurrence.]
 Benjamin Seebohm, soon afterwards, in a private interview with Christopher Healy,
 at the house of Ruth Ely, a faithful elder of that meeting, alluded to the subject,
@@ -298,6 +299,9 @@ had issued an epistle to their Quarterly and Monthly Meetings,
 and to the individual members of the Society, respecting the separation,
 in which they said:
 
+[.embedded-content-document.epistle]
+--
+
 It has been deeply affecting to us to learn that under the
 influence of that delusive spirit to which we have referred,
 some have accepted such books +++[+++as they chose to consider pernicious,
@@ -311,10 +315,15 @@ heretofore been given--and under such false impressions,
 have imbibed and urged individual sentiments,
 against the solid judgment of the body--proceedings totally
 at variance with that into which the Truth leads.^
-footnote:[Epistle, 1815, page 6.]
+footnote:[_Epistle,_ 1815, page 6.]
+
+--
 
 In noticing this arrogant claim to implicit credence for its documents in preference
 to those of the "`Smaller Body,`" the author of the Considerations remarks:
+
+[quote]
+____
 
 We believe this is the first and only instance in which any meeting in
 our Society has ventured the opinion that the validity of a statement
@@ -342,12 +351,16 @@ have, by their solid judgment,
 sanctioned and joined hands with those who denied the Lord that bought them,
 and counted the blood of the covenant an unholy thing.
 (P. 16.)
+____
 
 At page 22, after saying that any attempt to change or lay waste our settled faith,
 "`is treason against the whole Society,`" and showing the obligation which
 rests on superior meetings to see that the subordinate meetings do their
 duty in guarding the church from any violation of its principles,
 the author of the Considerations observed, that,
+
+[quote]
+____
 
 If, through weakness or revolt, or from whatever cause,
 the Yearly Meeting allows the defection to go on unchecked, then the whole Society,
@@ -357,6 +370,7 @@ and to protect those within such a meeting who may continue loyal thereto,
 from being deprived of the rights they possess as its members,
 by the perverted use of the Discipline in the hands
 of men who have departed from the faith.
+____
 
 After succinctly narrating the series of measures which resulted
 in the separation in New England Yearly Meeting of 1845,
@@ -365,6 +379,9 @@ Meeting belonging to the "`Smaller Body,`" as the only true meetings of those de
 the author of the Considerations held the following language in
 relation to what passed in New England Yearly Meeting itself,
 at that momentous crisis:
+
+[quote]
+____
 
 Some may think it would have been better for those who now constitute the Smaller Body,
 to have patiently waited until the Yearly Meeting had adopted the
@@ -395,6 +412,7 @@ and those of their dissenting brethren in the darkest
 light they could cast over them The Smaller Body,
 relying on the goodness of its cause, and the omnipotence of an overruling Providence,
 have sent forth none to plead in their behalf.
+____
 
 Such were the salutary sentiments expressed in 1846, by the author of the Considerations.
 Would that they had been in subsequent times carried out in practice!
@@ -634,7 +652,8 @@ and gave us opportunity enough for the exercise of forbearance toward them.`"
 when thou so improperly, as I think, closed the door against them,
 and prohibited them from relieving their minds.`"
 
-Christopher.--"`It was my friend Hinchman Haines
+[.discourse-part]
+_Christopher._--It was my friend Hinchman Haines
 who made the remark to which thou hast alluded,
 and which was, to the best of my recollection,
 to this purpose--that it was very desirable that in these our annual
@@ -650,37 +669,43 @@ that we might be permitted to get into stillness before the Lord,
 that the meeting might close under a solemn covering of good.
 Our Yearly Meeting certainly has the right, under divine authority,
 to say when and how its sittings shall terminate;
-and I trust we shall continue to exercise that right and authority which the Truth gives.`"
+and I trust we shall continue to exercise that right and authority which the Truth gives.
 
-R+++.+++ M.--"`I have been told that on Fifth-day +++[+++at the North Meetinghouse]
+[.discourse-part]
+_R+++.+++ M._--I have been told that on Fifth-day +++[+++at the North Meetinghouse]
 thou took Benjamin Seebohm to task, publicly in the meetinghouse,
-for preaching too long, as thou wast pleased to consider it.`"
+for preaching too long, as thou wast pleased to consider it.
 
-C+++.+++ H.--"`Well, Richard, if I did rebuke Benjamin for his too much speaking,
+[.discourse-part]
+_C+++.+++ H._--Well, Richard, if I did rebuke Benjamin for his too much speaking,
 he at least deserved it.
 He certainly preached long--much too long,
 as I believe--and without any unction or life about it, as I could discover.
 It was words, mere words.
 And I did by him what I hope my friends will do by me,
-if they find me preaching without life and authority, as Benjamin was doing.`"
+if they find me preaching without life and authority, as Benjamin was doing.
 
-R+++.+++ M.--"`Your Yearly Meeting is taking too much upon itself,
+[.discourse-part]
+_R+++.+++ M._--Your Yearly Meeting is taking too much upon itself,
 in presuming to judge another Yearly Meeting,
 over whom you have no right to exercise any authority whatever,
-because it is as independent a body as your Yearly Meeting is.`"
+because it is as independent a body as your Yearly Meeting is.
 
-C+++.+++ H.--"`Our Yearly Meeting has just the same right, under divine authority,
+[.discourse-part]
+_C+++.+++ H._--Our Yearly Meeting has just the same right, under divine authority,
 to express its uneasiness, or even to deal with another Yearly Meeting,
 as one individual has to deal with another individual,
 under the feelings of religious concern.
 And one Yearly Meeting may, if needs be,
 set the judgment of Truth over another Yearly Meeting;
 for it has always been the privilege--nay, the duty--of those who are in the Truth,
-to judge those who are out of it.`"
+to judge those who are out of it.
 
-R+++.+++ M.--"`But how do you know that these friends in New England are out of the Truth?`"
+[.discourse-part]
+_R+++.+++ M._--But how do you know that these friends in New England are out of the Truth?
 
-C+++.+++ H.--"`We know that J. J. Gurney was out of the Truth,
+[.discourse-part]
+_C+++.+++ H._--We know that J. J. Gurney was out of the Truth,
 because his own writings prove it.
 His doctrines are not those of the religious Society
 of Friends--they are spurious and unsound.
@@ -688,21 +713,28 @@ And we know this '`large body`' in New England has endorsed him and his unsoundn
 and disowned John Wilbur because he testified against
 Gurney`'s unsound doctrines and principles;
 and they thus separated themselves from the Society,
-and went out from us because they were not of us.`"
+and went out from us because they were not of us.
 
-R+++.+++ M.--"`Christopher, there is a shyness between thee and me,
+[.discourse-part]
+_R+++.+++ M._--Christopher, there is a shyness between thee and me,
 which was not felt in old times, and for which I cannot account.
-I do not believe the cause of it is in me.`"
+I do not believe the cause of it is in me.
 
-C+++.+++ H.--"`Indeed, Richard, it is very plain that there is such a shyness,
+[.discourse-part]
+_C+++.+++ H._--Indeed, Richard, it is very plain that there is such a shyness,
 but dost thou see any change in me?
-Amos 1 not what I always was since thou first knew me, the same in sentiment,
-the same in doctrine, the same in love and zeal for the Truth?`"
+Am I not what I always was since thou first knew me, the same in sentiment,
+the same in doctrine, the same in love and zeal for the Truth?
 
-R+++.+++ M.--"`I do not accuse thee of having changed.`"
+[.discourse-part]
+_R+++.+++ M._--I do not accuse thee of having changed.
 
-C+++.+++ H.--"`Well then, Richard, if I have not changed, thou must have done so,
-for we are evidently far asunder now.`"
+[.discourse-part]
+_C+++.+++ H._--Well then, Richard, if I have not changed, thou must have done so,
+for we are evidently far asunder now.
+
+[.small-break]
+'''
 
 The steamboat arriving now at a landing-place, they separated,
 with an expression by R. M. that he was sorry to part so,
@@ -870,6 +902,9 @@ for the breach of unity which was thus so sorrowfully brought about.
 The following is their judgment on the case, as expressed in the Report.
 Its great importance will justify the length of the quotation.
 
+[quote]
+____
+
 Such is a concise statement of the facts contained
 in the Documents which have been submitted to us,
 and of the light in which the two parties respectively view them.
@@ -906,7 +941,11 @@ have been disregarded in the progress of the transactions therein recorded.
 Some of the more prominent points, in which this has been done,
 appear to us to be the following, viz.:
 
-First.
+[.numbered-group]
+====
+
+[.numbered]
+_First._
 In the attempt to procure the disownment of a minister in the Society +++[+++John Wilbur],
 upon an accusation of detraction, and upon other charges,
 based upon or growing out of his endeavors,
@@ -989,7 +1028,8 @@ firmly testified against the errors of Elias Hicks,
 both publicly and privately, even while he travelled with certificates as a minister;
 and they were instrumental in guarding many from imbibing his unsound sentiments.
 
-Second.
+[.numbered]
+_Second._
 In a committee of the Yearly Meeting summoning a member +++[+++J. W.]
 before it to answer certain charges made by it, dealing with him as an offender,
 and requiring him to make concessions to them,
@@ -1014,7 +1054,8 @@ made against the decisions of inferior meetings,
 the application to it for redress must be in vain,
 if it has already made itself a party and prejudged the case.
 
-Third.
+[.numbered]
+_Third._
 In the same committee`'s drawing up a charge against a member,
 bringing it immediately before his Monthly Meeting,
 and insisting upon its being recorded on the minutes,
@@ -1036,7 +1077,8 @@ We should regard such a proceeding in our own Yearly
 Meeting as an unconstitutional exercise of power,
 dangerous to the peace and subversive of the established order of the Society.
 
-Fourth.
+[.numbered]
+_Fourth._
 In the same committee`'s bringing the power and authority
 of the Yearly Meeting to bear upon the Monthly Meeting,
 by claiming the right to join the committee of the
@@ -1060,7 +1102,8 @@ not to criminate but to convince and reclaim those who have erred;
 and if that cannot be done,
 to leave no ground for charging the church with harshness or injustice
 
-Fifth.
+[.numbered]
+_Fifth._
 In the same committee`'s objecting at a subsequent Monthly Meeting to the reception
 and adoption of a report signed by seven of the committee who had investigated
 the case and declared that the charges had not been sustained;
@@ -1073,7 +1116,8 @@ contrary to any practice in the Society that we have ever been acquainted with;
 the principle governing in such cases, being,
 that of leaning to the side of mercy and forbearance.
 
-Sixth.
+[.numbered]
+_Sixth._
 In the attempt made first, by the Quarterly Meeting`'s committee,
 and afterwards by the Quarterly Meeting itself,
 to render null and void the minute of South Kingston Monthly Meeting
@@ -1133,7 +1177,8 @@ with the organization and discipline of the Society.^
 footnote:[These, and most of the subsequent words in italics in this quotation,
 are put so by the present writer.]
 
-Seventh.
+[.numbered]
+_Seventh._
 In disregarding the provisions of the Discipline of New England Yearly Meeting,
 in the manner of laying down South Kingston Monthly Meeting, by Rhode Island Quarter,
 and attaching its members to Greenwich Monthly Meeting.
@@ -1189,7 +1234,8 @@ they were joined to Greenwich Monthly Meeting;
 and the latter meeting forthwith proceeded to exercise jurisdiction over them,
 in direct violation of their rights, as guaranteed by the Discipline.
 
-Eighth.
+[.numbered]
+_Eighth._
 In the manner in which the members of the Quarterly Meeting`'s committee
 interfered to produce a separation in Swanzey Monthly Meeting.
 The accounts given by both parties of the Monthly Meeting of Swanzey,
@@ -1269,6 +1315,10 @@ and the discipline and rights of members have been violated;
 and that it was the course pursued by them in these transactions which led to the separation.
 Until, therefore, those proceedings shall be rectified or annulled,
 we see not how unity is to be restored.
+
+====
+
+____
 
 The reader of this Report will observe the full and lucid statement given of
 the circumstances attending the separations of the Monthly and Quarterly Meetings,
@@ -1488,6 +1538,9 @@ a minister from Cain Quarterly Meeting, in a weighty and impressive manner,
 from a burdened mind, declared his unity with the "`Smaller Body`" of New England,
 in substance as follows:
 
+[quote]
+____
+
 The foundation of God standeth sure, having this seal,
 "`The Lord knoweth them that are his.`"
 I have never felt a stronger necessity laid upon me to speak than upon the present occasion;
@@ -1581,10 +1634,11 @@ and, having done so,
 I am strengthened with a renewal of belief that "`the foundation of God standeth sure,
 having this seal--The Lord knoweth them that are his.`"^
 footnote:[It is remarkable that the only notice of this memorable Yearly Meeting,
-to be found in the printed Journal of William Evans, who was its clerk,
+to be found in the printed [.book-title]#Journal of William Evans,# who was its clerk,
 and whose journal contains more than 700 closely printed 8vo. pages,
 is in the following ten words: "`Our Yearly Meeting was opened today,
 and was very large`" (see page 471).]
+____
 
 The control now assumed by the middle party over
 the transactions of Philadelphia Yearly Meeting,
@@ -1617,7 +1671,7 @@ When their ministers came to attend its sittings, they were allowed to do so,
 and to go all through the meetings within its limits, both for worship and discipline,
 but their credentials were not permitted to be read or noticed;
 whereas the Discipline explicitly declares,^
-footnote:[Discipline of Philadelphia Yearly Meeting, page 160 of old edition.]
+footnote:[[.book-title]#Discipline of Philadelphia Yearly Meeting,# page 160 of old edition.]
 that certificates of Friends attending the meeting from other parts
 under religious concern "`are to be read therein.`"
 
