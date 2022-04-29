@@ -1,6 +1,7 @@
 == Chapter XIII.
 
-The Separation in Iowa, and the Mischief Effected There by the Middle Party.
+[.chapter-synopsis]
+* The Separation in Iowa, and the Mischief Effected There by the Middle Party.
 
 We have already seen that Indiana Yearly Meeting, as a body,
 promptly avowed its fellowship with the "`Larger Body,`" or Gurney Meeting of New England,
@@ -69,6 +70,9 @@ to investigate the cause of complaint and report to the next meeting.
 
 At the Preparative Meeting in the eighth month, this committee made the following report:
 
+[.embedded-content-document]
+--
+
 We have given close attention to the subject,
 have heard the Overseers in all they alleged against him,
 and after conferring together were united in judgment,
@@ -80,6 +84,8 @@ and others of our standard writers,
 and closely united to all our members in the different
 Yearly Meetings who are concerned to support them.
 We therefore think it best and right to dismiss the subject.
+
+--
 
 This report being satisfactory to the meeting, the subject was accordingly dismissed.
 Yet, notwithstanding this decision of the Preparative Meeting,
@@ -166,8 +172,8 @@ and taking his books and papers, withdrew from the house,
 with a considerable portion of the members (several of whom
 had nevertheless opposed his minuting of the complaint),
 leaving the rest to transact the business of the Monthly Meeting in quietness.^
-footnote:[Exposition of Proceedings Which Led to a Separation
-in Red Cedar Monthly and Salem Quarterly Meetings.
+footnote:[[.book-title]#Exposition of Proceedings Which Led to a Separation
+in Red Cedar Monthly and Salem Quarterly Meetings.#
 Marion, Iowa, 1855; page 8, etc.]
 
 In regard to this extraordinary transaction,
