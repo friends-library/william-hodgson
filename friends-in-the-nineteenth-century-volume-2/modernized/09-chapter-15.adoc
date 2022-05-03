@@ -1,7 +1,7 @@
 == Chapter XV.
 
-Establishment of the General Meeting for Pennsylvania, Etc.,
-Independent of Philadelphia Yearly Meeting.
+[.chapter-synopsis]
+* Establishment of the General Meeting for Pennsylvania, Etc., Independent of Philadelphia Yearly Meeting.
 
 What was now the condition of affairs in the Yearly Meeting of Philadelphia?
 Was it not involved in isolation and confusion,
@@ -46,7 +46,7 @@ to attempt to stop its currency among the members.
 Many were the instances of active and influential members
 attending the yearly and other meetings of the Separatists,
 in contravention of a direct rule of the Discipline,^
-footnote:[Discipline of Philadelphia Yearly Meeting, p. 70 and 71 of old edition.]
+footnote:[[.book-title]#Discipline of Philadelphia Yearly Meeting,# p. 70 and 71 of old edition.]
 forbidding such attendance.
 Yet they not only escaped disciplinary censure,
 but retained their positions of influence in the body, either as ministers, elders,
@@ -87,7 +87,7 @@ they were not allowed to be read in the meeting,
 contrary to an express rule of the Discipline,
 which declares that "`the Certificates of such Friends, members of other Yearly Meetings,
 who from a religious concern are drawn to attend this, are to be read herein.`"^
-footnote:[Discipline of Philadelphia Yearly Meeting, page 160, old edition.]
+footnote:[[.book-title]#Discipline of Philadelphia Yearly Meeting,# page 160, old edition.]
 
 If we look back to the former troubles from the opposite secession, in 1828,
 we may readily perceive that persons so circumstanced would
@@ -154,8 +154,11 @@ interchange of membership by certificates of removal,
 by which some of the Monthly Meetings were already
 thus identifying themselves with the seceded bodies,
 contrary to the Discipline.^
-footnote:[Discipline of Philadelphia Yearly Meeting, pages 70, 71.]
+footnote:[[.book-title]#Discipline of Philadelphia Yearly Meeting,# pages 70, 71.]
 The rule of discipline in question, is substantially as follows:
+
+[quote]
+____
 
 If any of our members should attend the meetings of those who have separated from us,
 and who have set up meetings contrary to the order and discipline of our Religious Society,
@@ -165,6 +168,7 @@ this meeting declares that such conduct is of evil tendency,
 and where such instances occur, Friends are desired to extend brotherly care and labor,
 that the individuals may be instructed and reclaimed;
 and if those endeavors prove ineffectual, Monthly Meetings should testify against them.
+____
 
 If, as appears here,
 the members are not to be allowed to attend the meetings of Separatists,
@@ -200,7 +204,7 @@ it would not be best to read it here.
 But, as the periodical paper of the Gurney party afterwards said in narrating the circumstance,
 the Yearly Meeting of Ministers and Elders "`has no right
 to interfere in the business of the Yearly Meeting;`"^
-footnote:[Friends`' Review, vol.
+footnote:[[.book-title]#Friends`' Review,# vol.
 xii, p. 536.]
 and consequently it was not proper to bring their action, or non-action,
 as a rule to govern the Yearly Meeting.
@@ -312,6 +316,10 @@ separate meetings within the limits of Indiana.
 This constrained the appellants to carry their appeal to the Yearly Meeting of 1860.
 It was as follows:
 
+[.embedded-content-document]
+--
+
+[.letter-heading]
 To The Yearly Meeting.
 
 As members of the Religious Society of Friends,
@@ -331,6 +339,8 @@ Society have been endangered by such proceedings.
 And we also feel constrained to appeal against Philadelphia Quarterly Meeting,
 for refusing to hear our appeal against those disorderly acts,
 as it still further jeopardizes our rights of membership.
+
+--
 
 Had these three members the right of appeal on this subject, or had they not?
 The subject was a momentous one, affecting the whole constitution of the Society.
@@ -486,7 +496,7 @@ testifying of his sense of the coming of something "`even more
 awful than anything we have ever yet had to pass through,`" he
 predicted that "`those who are preserved in this time,
 it will be as it were upon the broken pieces of the ship.`"^
-footnote:[The Friend, 1845, page 196; and J. E. Maule`'s Serious Review, page 9.]
+footnote:[[.book-title]#The Friend,# 1845, page 196; and [.book-title]#J. E. Maule`'s Serious Review,# page 9.]
 Not that all who at that time saw and mourned over the lapsed condition
 of Philadelphia Yearly Meeting were alike prepared to act firmly and openly,
 when the time came for an individual standing as in "`the valley of decision.`"
@@ -524,7 +534,7 @@ and therefore considered themselves clear of the responsibility.
 Yet they still held their positions as active members of the meetings
 which allowed the inroads to go on without effectually checking them;
 and the old saying, quoted by Robert Barclay,
-was applicable to them--"`Quod facit per alium, facit per se.`"]
+was applicable to them--__"`Quod facit per alium, facit per se.`"__]
 
 Many Friends left the city for their homes on the same day that the meeting closed.
 A few who were communing together early the next
@@ -718,6 +728,9 @@ the scattered local condition of its members;
 and resulted in the preparation and adoption of the following minute,
 which was directed to be forwarded to each of the Yearly Meetings of Friends owned by it:
 
+[.embedded-content-document.minute]
+--
+
 This meeting issued last year an Epistle to our fellow members,
 showing that the Yearly Meeting of Philadelphia, as controlled of late years,
 has not only connived at, but practically promoted,
@@ -760,6 +773,8 @@ And, for the present,
 all cases requiring disciplinary attention should be laid before this meeting,
 for its judgment and care.
 
+--
+
 Subsequent to this,
 the establishment of several small meetings for divine worship in different
 places engaged the attention of successive General Meetings;
@@ -768,6 +783,9 @@ of the order and integrity of the body,
 it is not necessary here to detail.
 On this subject, a minute adopted by the meeting held in the eighth month, 1862,
 holds the following language:
+
+[.embedded-content-document.minute]
+--
 
 An exercise spread over this meeting,
 that the small companies who meet together may be concerned
@@ -798,6 +816,8 @@ which was afterwards moved, sixth month 10th, 1866,
 to the basement of a schoolhouse hired near Strickersville.
 Various other meetings were afterwards added, as required in different places,
 including one at Elklands, in Sullivan County, Pa.]
+
+--
 
 In the ninth month, 1863,
 the General Meeting issued regulations for the accomplishment of marriages,
@@ -831,6 +851,10 @@ having in charge the subject of the right holding of the subordinate meetings,
 made a report of their sense, in regard to holding Monthly Meetings for Discipline;
 which was united with by the General Meeting, and is as follows:
 
+[.embedded-content-document]
+--
+
+[.letter-heading]
 To the General-Meeting
 
 The Committee appointed to consider the subject of
@@ -867,6 +891,8 @@ N+++.+++ J., should form one Monthly Meeting, to be called Falls Monthly Meeting
 and that Friends residing in other places within the limits of this General Meeting,
 should, for the present, compose another Monthly Meeting,
 to be called the Monthly Meeting of Friends, held in Philadelphia.
+
+--
 
 The two Monthly Meetings, thus directed to be established,
 were opened in the ninth month, 1866;

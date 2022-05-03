@@ -1,7 +1,8 @@
 == Chapter XVI.
 
-Subdivision in New England,
-in 1863--Rise and Failure of a General Meeting of the Smaller Body in Ohio.
+[.chapter-synopsis]
+* Subdivision in New England, in 1863
+* Rise and Failure of a General Meeting of the Smaller Body in Ohio.
 
 There was still to be experienced a low and somewhat
 sifting period in the progress of the "`Smaller Bodies.`"
@@ -489,7 +490,7 @@ was now entirely lost.
 Some of the controlling party even seemed to exult in the
 power they had gained by the submission of others,
 and openly declared that they "`never would own`" the Smaller Bodies.^
-footnote:[The General Meeting`'s printed Address, 1863, page 16.]
+footnote:[The General Meeting`'s printed [.book-title]#Address,# 1863, page 16.]
 
 Now, in their great discouragement and weakness, came a procedure,
 the ultimate event of which seems to indicate it to have been beyond
@@ -762,8 +763,8 @@ In this epistle they plainly demonstrated to them how inconsistent their present
 course was with their own previously declared testimony for gospel order,
 and how it would, if persisted in,
 tend to the subversion of all church government and Christian fellowship.^
-footnote:[An Epistle to Ohio General Meeting, on Church Government and Gospel Order,
-etc., 1867; printed in Philadelphia, 1868, page 5.]
+footnote:[_An Epistle to Ohio General Meeting, on Church Government and Gospel Order,
+etc.,_ 1867; printed in Philadelphia, 1868, page 5.]
 
 This brotherly appeal and expostulation was sent to the clerk,
 addressed to the General Meeting of Ohio; but was not even opened by him,
@@ -800,6 +801,9 @@ and, seeing these had now proved ineffectual,
 a testimony of denial of further fellowship with them.
 The latter is thus expressed:
 
+[.embedded-content-document]
+--
+
 In consideration of these sorrowful departures from the uniform
 practice of meetings of Friends in their intercourse one with another,
 which strike at the foundations of all church government and gospel order,
@@ -810,6 +814,8 @@ can no longer be acknowledged by us as of the same household of faith.
 Yet we earnestly desire the preservation of the honest-hearted within its borders,
 on the true foundation, on which alone Christ will build his Church.
 
+--
+
 The Monthly Meeting of Salem, in Columbiana County,
 had not gone as a body with these disaffected persons,
 though a portion of its members were among the most prominent of them.
@@ -817,7 +823,7 @@ The rest of them stood their ground against this disorder,
 besides a few scattered individuals in other parts of Ohio.
 
 The following copies of minutes made successively by that Monthly Meeting^
-footnote:[Record Book of Salem Monthly Meeting of Friends, Ohio, page 17, etc.]
+footnote:[[.book-title]#Record Book of Salem Monthly Meeting of Friends,# Ohio, page 17, etc.]
 show the tried situation into which they were brought,
 in their concern to sustain the true gospel order
 of the Society against deluded and erring brethren;
@@ -827,15 +833,18 @@ in owning the party of disorder,
 opened the way for the release of the sound portion of the Monthly Meeting of Salem,
 with a few in other parts of the General Meeting.
 
-Minute of fifth mo., 9th,
-1867.--On account of the disorderly proceedings of a disorganizing party in this meeting,
+[.embedded-content-document.minute]
+--
+
+_Minute of fifth mo., 9th,
+1867._--On account of the disorderly proceedings of a disorganizing party in this meeting,
 Friends remained after those persons had withdrawn.
 The clerk having gone out with them,
 the assistant clerk was requested to proceed with the business of the Monthly Meeting;
 and this minute being read and united with, the meeting adjourned,
 to meet again on Fourth-day, the fifteenth of the month.
 
-Minute of fifth mo., 15th.--Friends +++[+++have]
+_Minute of fifth mo., 15th._--Friends +++[+++have]
 been brought into deep trials on account of a disorganizing
 spirit which has for some time prevailed amongst us,
 and of late to such an extent as to produce disunity with all those meetings of Friends,
@@ -872,8 +881,8 @@ make a minute showing the condition in which this meeting was placed,
 and then adjourned to the fifteenth of the month,
 when the foregoing minute was read and adopted.
 
-Minute of ninth month,
-12th.--The Representatives to the General Meeting made the following Report,
+_Minute of ninth month,
+12th._--The Representatives to the General Meeting made the following Report,
 which is approved and accepted by this meeting: '`We,
 the representatives to the General Meeting,
 were all in attendance agreeably to appointment,
@@ -902,7 +911,7 @@ and endeavor to feel after the propriety of taking some preparatory steps toward
 recognition of this by some one of those superior meetings with whom we have fellowship.
 Accordingly the following friends were appointed, etc.
 
-Minute of eleventh month, 13th.--The committee appointed in ninth month last,
+_Minute of eleventh month, 13th._--The committee appointed in ninth month last,
 to take into consideration the propriety of taking some preparatory
 steps towards a recognition of this Monthly Meeting by some one
 of those superior meetings with whom we have fellowship,
@@ -917,6 +926,8 @@ we refer that meeting to a statement of this Monthly Meeting which was
 directed by a portion of the General Meeting of Ohio to be transmitted
 to the several meetings with which we were in correspondence.
 
+--
+
 The above application was received and solidly considered
 in the General Meeting held at Fallsington,
 in the twelfth month, 1867.
@@ -928,6 +939,9 @@ and left in an isolated state the members of Salem Monthly Meeting,
 and a few in other parts of Ohio,
 who could not unite with them in their disorderly course:
 
+[.embedded-content-document]
+--
+
 Much sympathy has been expressed in this meeting
 with our dear friends in Ohio thus situated,
 and we greatly desire their encouragement in an honest and faithful
@@ -936,6 +950,8 @@ for the sustaining of the testimonies of Truth in that portion of the heritage.
 And in view of the extraordinary circumstances of the case,
 this meeting unites with the proposal of Salem Monthly Meeting,
 and hereby acknowledges it as a component part of this General Meeting.
+
+--
 
 As to the rest of that company forming the General Meeting of Ohio,
 though they still professed to hold the meeting,
