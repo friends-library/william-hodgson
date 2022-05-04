@@ -1,7 +1,7 @@
 == Chapter XVII.
 
-Opposition in England to the New Doctrines Meetings Organized There,
-Independent of the Lapsed Yearly Meeting of London.
+[.chapter-synopsis]
+* Opposition in England to the New Doctrines Meetings Organized There, Independent of the Lapsed Yearly Meeting of London.
 
 Now at length we turn back to Great Britain,
 which we left about the time of the disastrous liberation of Joseph John Gurney, in 1837,
@@ -50,6 +50,10 @@ the Yearly Meeting of Ministers and Elders,
 as his conscientious testimony and warning against the novel views.
 This testimony is as follows:
 
+[.embedded-content-document.testimony]
+--
+
+[.salutation]
 Dear Friends:
 
 In the feelings, as I apprehend, of the pure love of the truth,
@@ -157,11 +161,16 @@ but rather that we may be of the babes, unto whom they are revealed;
 having our dependence on our Almighty Father, for guidance, preservation, and support,
 in the way to the kingdom of eternal rest and peace.
 
+[.signed-section-closing]
 I remain your sincere friend,
 
+[.signed-section-signature]
 George Jones.
 
+[.signed-section-context-close]
 Stockport, 9th of fifth mo., 1839.
+
+--
 
 After his decease, B. Seebohm spread a report, which was widely circulated,
 that George Jones had subsequently expressed regret at having given forth this testimony;
@@ -169,6 +178,10 @@ whereupon his widow, that valiant minister of the gospel, Ann Jones,
 in order to contradict so false a statement,
 gave forth in manuscript the following testimony for the truth:
 
+[.embedded-content-document]
+--
+
+[.signed-section-context-open]
 Stockport, 25th of twelfth mo., 1845.
 
 It is very painful and grievous to me to find that there is in circulation,
@@ -209,7 +222,10 @@ so far from that, it continued and remained to be a relief to him until his last
 when he had nothing to do but peacefully lay down his head and sleep in Jesus.
 May my last end be like his!
 
+[.signed-section-signature]
 Ann Jones.
+
+--
 
 After this was circulated, B. Seebohm acknowledged that the report had been a mistake.
 
@@ -240,8 +256,13 @@ I.]
 But it was not even read by that body,
 though the subject was of vital moment to the integrity of the Society.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Meeting for Sufferings
 
+[.salutation]
 Dear Friends:
 
 I address you upon a very important subject.
@@ -479,13 +500,19 @@ I do not desire to enlarge upon the subject, but wish to leave it here;
 only desiring that if possible, this blot in the records of the Society may be erased,
 or otherwise so dealt with as to cause the least possible damage.
 
+[.signed-section-signature]
 W+++.+++ G.
+
+--
 
 Of similar tenor was a testimony left by James N. Richardson, an elder of Glenmore,
 in Ireland, written in the year 1846,
 but placed by him in the hands of two of his friends, three days before his decease,
 in 1847.
 In the course of his remarks on the afflicting condition of the Society, he says:
+
+[.embedded-content-document.testimony]
+--
 
 There seems arranged so much talent, so much wealth, and so much worldly influence,
 combined with holding high stations in the Church, that things are likely, for a time,
@@ -508,15 +535,22 @@ Oh, how have I been tried with these communications, like words of course,
 all the same from time to time, till the mind is wearied,
 and the heart that is panting for living bread is sick!
 
+--
+
 After this, he proceeds to give his view of the heterodox writings of Gurney and Ash,
 as likely to be of temporary ascendency only--(would
 that it had resulted so!)--and his belief,
+
+[.embedded-content-document.testimony]
+--
 
 That the testimonies of truth, and the Christian doctrines given to this people to bear,
 will not be allowed to fall to the ground, but that an honest, humble-minded,
 simple people will be enabled again to raise the standard of truth,
 and to promulgate the same, and carry on the work designed,
 thus marred by zeal and creaturely activity.
+
+--
 
 But all these warnings were of no avail with the leaders of the people.
 In 1845, John Wilbur,
@@ -783,7 +817,7 @@ in adopting a system of excitement of feeling as a substitute
 for that worship which is in Spirit and in Truth,
 accompanied by real abasedness of self,
 is to be seen described in a communication signed W. T. P., and headed,
-"`Glorious Work at Richmond,`" in the Christian Standard and Home Journal,
+"`Glorious Work at Richmond,`" in the [.book-title]#Christian Standard and Home Journal,#
 of tenth month 16th, 1875, published in Philadelphia.
 The writer of it,
 who was present at the First-day morning meeting during the Yearly Meeting of Indiana,
@@ -895,6 +929,9 @@ and showing that it was because of a unity in doctrine with the Seceders of New 
 that they had fraternized with them without any examination into the merits of the case,
 and condemned those holding to the ancient principles, as Separatists, he went on to say:
 
+[.embedded-content-document]
+--
+
 Under present circumstances it is more easy to my mind not to attend any
 meetings for discipline under the control of those holding unsound views;
 my concern here rather is, to inculcate the doctrines of Friends,
@@ -919,16 +956,27 @@ and my record is on high,`" he will be enabled to stand fast in the Lord;
 but if he vindicate the wrong, and refuse to condemn it,
 all his professions of the right will avail him nothing.`"
 
+--
+
+[.offset]
 And further on,
+
+[.embedded-content-document]
+--
 
 Therefore, let not my dear fellow-probationers chide me,
 for I have come here in the fear of the Lord,
 and in my small measure for the upholding of his testimonies.
 
+--
+
 The rest of the document is mainly devoted to showing the
 judgment of Philadelphia Yearly Meeting in the case,
 which was so opposite to that of London;
 and finally he concluded with the following remark:
+
+[.embedded-content-document]
+--
 
 In conclusion, let me add that,
 believing controversy for the sake of controversy to be wrong, and ever to be avoided,
@@ -939,8 +987,10 @@ the Lord has had a controversy against evil, and his chosen ones must have the s
 and this controversy, far from tending to scatter the faithful,
 unites them in the great work of maintaining that
 holy faith once delivered unto the saints.^
-footnote:[The Circular at large is in J. W.`'s Journal and Correspondence,
+footnote:[The Circular at large is in [.book-title]#J. W.`'s Journal and Correspondence,#
 page 531 to 535.]
+
+--
 
 After issuing this Circular,
 J+++.+++ Wilbur travelled during the winter in the north of England and in Scotland.
@@ -1022,19 +1072,29 @@ This led to a general revision, in 1860, of the Queries and Advices,
 and indeed to an entire remodelling of the whole of the Discipline,
 which was at length accomplished in 1861.
 
-In the 1st Query, all mention of meetings for discipline was omitted,
+[.numbered-group]
+====
+
+[.numbered]
+In the _1st Query,_ all mention of meetings for discipline was omitted,
 and all inquiry as to unbecoming behavior in meetings for worship.
 
-The 2nd Query, as to "`growth in the truth,`" was totally expunged.
+[.numbered]
+The _2nd Query,_ as to "`growth in the truth,`" was totally expunged.
 
-4th Query, all allusion to plainness was omitted.
+[.numbered]
+_4th Query,_ all allusion to plainness was omitted.
 
-8th Query, respecting tithes, was much modified,
+[.numbered]
+_8th Query,_ respecting tithes, was much modified,
 so as to generalize the query into payment of "`all ecclesiastical demands;`"
 thus permitting the payment of "`lay impropriate tithes,`" as agreed in 1855.
 
-13th Query, respecting the due care in admonishing against marrying those not Friends,
+[.numbered]
+_13th Query,_ respecting the due care in admonishing against marrying those not Friends,
 and dealing with such as persist in refusing to take counsel--omitted.
+
+====
 
 Various other queries were altered in important features, or entirely omitted,
 and several were placed in an anomalous position--to be read, but not answered.^
@@ -1047,12 +1107,15 @@ attendance--instead of in meetings for discipline as formerly.
 Besides the above, and an almost incredible amount of other omissions and changes,^
 footnote:[It has been asserted that "`more than fifty rules of discipline
 or specific advices`" were "`abrogated and removed by the late revision.`"
-See page 46 of D. Pickard`'s Expostulation on Doctrine, Discipline, and Practice, London,
+See page 46 of [.book-title]#D. Pickard`'s Expostulation on Doctrine, Discipline, and Practice,# London,
 1864;
 which contains a clear development of these sweeping
 changes and of the insidious nature of them,
 if not also of the spirit by which they were prompted.]
 the following weighty minute of 1795 was now expunged from the Book of Discipline:
+
+[.embedded-content-document.minute]
+--
 
 A concern hath been spread amongst us,
 that the management of our Christian discipline be not committed to hands unclean;
@@ -1063,6 +1126,8 @@ how shall he take care of the church of God?`"
 And we particularly desire that those, who, from their experience and stations,
 ought to lead such to greater circumspection, do not encourage their remissness,
 by putting them improperly forward into service.
+
+--
 
 One of the most popular changes now officially sanctioned was in
 regard to the constitution of the Yearly Meeting itself.
@@ -1081,9 +1146,14 @@ consistent or inconsistent with the principles of the Society (the latter far pr
 to claim to have his voice heard, and attended to, on an equality with any other.
 The following brief minute proclaimed the new constitution of London Yearly Meeting:
 
+[.embedded-content-document.minute]
+--
+
 It is concluded that this Meeting consist of all the members
 of the Quarterly and General Meetings in Great Britain,
 and of Representatives from the Yearly Meeting in Ireland.
+
+--
 
 A true church of Christ is an assembly of the faithful.
 By this new constitution, unqualified as it was,
@@ -1222,7 +1292,7 @@ examining the manuscripts of An Expostulation on Doctrine,
 Discipline, and Practice, written by Daniel Pickard, one of their number;
 and "`in the solid persuasion that the cause of Truth required
 it,`" he "`was cordially encouraged`" to publish it.^
-footnote:[Expostulation, etc.
+footnote:[[.book-title]#Expostulation,# etc.
 London, A. W. Bennett, 1864; page 7 of preface.]
 This work was a direct attack upon London Yearly Meeting,
 in regard to soundness of doctrine and ecclesiastical authority, showing clearly,
@@ -1336,6 +1406,9 @@ This spirit was particularly developed at the Conference Meeting at Birmingham,
 held in the first month, 1869.
 A letter from one of the friends who had visited America the previous summer, says:
 
+[.embedded-content-document.letter]
+--
+
 Yes, it is a day of sore affliction,
 because those who have walked with us rise up against what
 we believe to be for their and our peace and joy,
@@ -1362,7 +1435,13 @@ and cease from man.
 May you be comforted in knowing that His arm is revealed unto us,
 and our confidence steadfast in the God of Jacob.
 
+--
+
+[.offset]
 A letter from another Friend says:
+
+[.embedded-content-document.letter]
+--
 
 We had to partake, at this Conference, of that cup which has never, I think,
 been quite so bitter to the taste before,
@@ -1391,6 +1470,8 @@ and it may be, others will join us; but whether or no,
 if peace and the owning Power accompany, we need not fear;
 but until tried we do not know the degree of our faith;
 and we need indeed to be prayerful, that it fail not.
+
+--
 
 About this time, the Friends at Fritchley, and a few from elsewhere,
 drawn in spirit to unite with them, began to meet once a month collectively,
@@ -1443,6 +1524,9 @@ question of continuing to hold meetings of this kind,
 and finally a minute was adopted, by which the Conferences were discontinued.
 It was as follows:
 
+[.embedded-content-document.minute]
+--
+
 The question of holding another meeting for Conference
 lies weightily engaged our serious deliberation,
 and we feel that there is not sufficient clearness
@@ -1452,6 +1536,8 @@ in the way of calling their brethren and sisters together,
 as the Lord may be pleased to open the way; whose guidance, through mercy,
 during past gatherings of this kind, we desire thankfully to acknowledge and record.
 
+--
+
 Thus terminated the Conference meetings,
 after being held about three times a year for a period of seven years.
 It may be asked, What good was the result of their existence?
@@ -1459,13 +1545,14 @@ Much--in raising even the standard they did, against the flood of defection,
 and encouraging those engaged in them, and some others, to stand firm in a very dark day^
 footnote:[To the existence of these Conference meetings
 and their favorable influence and encouragement,
-we may ascribe in great measure the publication of the Expostulation on Doctrine,
-Discipline, and Practice, by Daniel Pickard,
+we may ascribe in great measure the publication of the [.book-title]#Expostulation on Doctrine,
+Discipline, and Practice,# by Daniel Pickard,
 and the printing and circulation of W. Irwin`'s edition
-of 10,000 copies of Barclay`'s Apology,
+of 10,000 copies of [.book-title]#Barclay`'s Apology,#
 after the Meeting for Sufferings had declined to reprint it.
 If nothing more had been effected than these two undertakings,
-the Conference meetings would not have been in vain.]--though
+the Conference meetings would not have been in vain.]
+--though
 not as much as might have been,
 had those who took part in them been of one mind, all thoroughly baptized for the work,
 and all prepared to "`endure hardness as good soldiers of
@@ -1569,6 +1656,10 @@ on his part by any further legal proceedings.
 Its receipt by this Board was duly acknowledged.
 The protest was as follows:
 
+[.embedded-content-document]
+--
+
+[.letter-heading]
 To All Whom it May Concern
 
 I, Thomas Drewry, of Fleetwood, in the County of Lancaster, Grocer, do solemnly,
@@ -1582,6 +1673,10 @@ of membership in the Society of Friends,
 which rights and privileges have not to this day been called in
 question by any of the constituted meetings of said Society.
 
+[.numbered-group]
+====
+
+[.numbered]
 2.--I declare that the adoption of, or acquiescence in new principles and new usages,
 at variance with the fundamental principles originally established in the Society,
 is a departure from the original compact,
@@ -1590,18 +1685,22 @@ and that the Meeting so departing becomes an alien body,
 and is thereby divested of all rightful claim to be regarded
 as a Meeting in communion with the true Society of Friends.
 
+[.numbered]
 3.--I assert that great and fundamental changes have taken
 place within what is called the Society of Friends,
 in recent years, in reference to Faith and Doctrine.
 
+[.numbered]
 4.--I declare that the Yearly Meeting of London, as it is called by the said Society,
 has officially embraced new Doctrines,
 and to a great extent discarded those views of primitive Christianity, which,
 through the ordering of Infinite Goodness, were revived, proclaimed,
 published to the world, lived up to, and suffered for, by Friends at the beginning
 
+[.numbered]
 5.--I affirm that evidences of this defection abound and are almost everywhere apparent.
 
+[.numbered]
 6.--I assert, and am able and willing to offer clear and ample proof,
 that the changes in Doctrine referred to,
 have been pointed out by well-concerned Friends again and again;
@@ -1612,11 +1711,13 @@ which the various Meetings for Discipline afforded,
 to speak of the hurtful tendency of the changes in question, but that entreaty,
 expostulation, remonstrance, and warning, have been alike disregarded.
 
+[.numbered]
 7.--I affirm that nothing convincing to the true Friend
 has been put forth in defence of these innovations in Doctrine,
 nor has it been shown by official documents, or otherwise proved,
 wherein the Early Friends were mistaken in their views or apprehensions of the Truth.
 
+[.numbered]
 8.--I assert that it is not in the power,
 or within the competency or constitutional functions,
 of any of the Meetings for Church Affairs of the Society of Friends,
@@ -1627,14 +1728,17 @@ or annul the religious testimonies, practices, and usages,
 which it was the care and concern of our predecessors in the Truth,
 in the fear of the Lord, to maintain.
 
+[.numbered]
 9.--I affirm that not even a Yearly Meeting,
 the highest court as regards faith and practice amongst Friends,
 can change the fundamental Principles of the Society,
 or the Testimonies which have ever uniformly flowed from them,
 and which have been left to us in trust for succeeding generations.
 
+[.numbered]
 10.--I maintain that the abandonment of said principles is an act of separation.
 
+[.numbered]
 11.--I affirm, in accordance with the doctrine of our ancient Friends,
 that all who desert the Religious Principles,
 which first drew together and distinguished the Society, be they few or many,
@@ -1642,12 +1746,14 @@ are truly Separatists, and that those who adhere to the original faith,
 have the power to say to the dissentients, You have changed your views,
 we can no longer acknowledge you to be in fellowship with us.
 
+[.numbered]
 12.--I declare that London Yearly Meeting, as it is termed,
 has separated itself from the sound part of the Society;
 and I affirm that the taint of Separation necessarily reaches and attaches to all Meetings,
 of whatever kind, that remain subordinate thereto, whether they be Quarterly, Monthly,
 or Preparative, together with the subsidiary Meetings thereunto belonging.
 
+[.numbered]
 13.--Seeing that London Yearly Meeting, so called,
 has sanctioned and introduced into its midst,
 changes and innovations in Doctrine of a very important character,--seeing
@@ -1658,6 +1764,7 @@ maintain that it has become the Yearly Meeting of a body of Separatists,
 and, consequently, has no lawful right, title, or authority to assume the name,
 or to exercise the functions, of a Yearly Meeting of the Society of Friends.
 
+[.numbered]
 14.--I, therefore, under a sense of apprehended duty,
 protest against the claim or prescriptive right, set up by this Meeting of Separatists,
 either by itself, or by any of its subordinate Meetings, to have, hold,
@@ -1666,12 +1773,18 @@ but belongs to those who adhere to the original faith of the Society of Friends,
 for whose sole use and benefit the several Trusts were created,
 by their predecessors in religious profession.
 
+====
+
+[.signed-section-signature]
 (Signed) Thomas Drewry.
 
 Declared and affirmed at Fleetwood, in the County of Lancaster,
 this Twentieth day of May, one thousand eight hundred and seventy-one, before me,
 
+[.signed-section-signature]
 (Signed) F. Kemp, Justice of the Peace, acting in and for the County of Lancaster.
+
+--
 
 This protest, direct as the attack was on the Yearly Meeting,
 never elicited any reply to its unanswerable charges,
@@ -1700,7 +1813,7 @@ Mission Meetings, and other similar agencies.`"
 What these "`similar agencies`" were,
 may be easily understood by those who have watched the course of General, protracted,
 or "`revival`" meetings;^
-footnote:[The Philadelphia Friends`' Review of first mo.
+footnote:[The Philadelphia _Friends`' Review_ of first mo.
 8th, 1876,
 has copied from the London Friend some directions for holding these revival meetings, or,
 as they at present style them, General Meetings.
@@ -1792,7 +1905,7 @@ having lived at Norwich in his earlier career,
 and been for many years in close intimacy with him,
 and that I. Crewdson and J. J. Gurney inculcated the very same errors,
 though the latter perhaps not quite so unreservedly and openly,
-except in his tract on Misinterpretation of Scripture, etc.
+except in his tract on _Misinterpretation of Scripture,_ etc.
 Some of them in Philadelphia are also of late attempting to induce
 the absurd belief that even George Fox`'s writings can be made
 to countenance their inroads upon the true spiritual worship,
