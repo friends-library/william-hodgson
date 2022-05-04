@@ -1551,7 +1551,8 @@ and the printing and circulation of W. Irwin`'s edition
 of 10,000 copies of [.book-title]#Barclay`'s Apology,#
 after the Meeting for Sufferings had declined to reprint it.
 If nothing more had been effected than these two undertakings,
-the Conference meetings would not have been in vain.]--though
+the Conference meetings would not have been in vain.]
+--though
 not as much as might have been,
 had those who took part in them been of one mind, all thoroughly baptized for the work,
 and all prepared to "`endure hardness as good soldiers of
@@ -1655,7 +1656,7 @@ on his part by any further legal proceedings.
 Its receipt by this Board was duly acknowledged.
 The protest was as follows:
 
-[.embedded-content-document.]
+[.embedded-content-document]
 --
 
 [.letter-heading]
