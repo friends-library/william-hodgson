@@ -1,6 +1,8 @@
 == Chapter XVIII.
 
-Concluding Remarks--The Identity of the Society of Friends.
+[.chapter-synopsis]
+* Concluding Remarks
+* The Identity of the Society of Friends.
 
 On a retrospect of the foregoing sad development of departure from first principles,
 what do we now see in applying it to the present state of
@@ -190,7 +192,7 @@ Did he not know that the public have access to E. Hicks`'s printed Sermons,
 affording abundant proof to the contrary?
 
 In a subsequent part of the same volume,^
-footnote:[Page 53 of his Treatise on the Separation.]
+footnote:[Page 53 of his [.book-title]#Treatise on the Separation.#]
 S+++.+++ M. Janney makes the acknowledgment, that,
 "`Those who are familiar with the writings of the early Friends,
 must have observed the deep reverence with which they speak of the blessed Jesus,
@@ -249,7 +251,7 @@ bear witness to them in every sensible soul), as they frequently, plainly,
 and solemnly bear testimony to the Light, Spirit, Grace, and Truth, both in himself,
 and in and to his people, to their sanctification, justification, redemption,
 and consolation, and in all men to their visitation, reproof,
-and conviction in their evil ways.`"--Penn`'s Advice to his Children.]
+and conviction in their evil ways.`"--[.book-title]#Penn`'s Advice to his Children.#]
 
 And (page 145) that "`the Book called the Scriptures`" appears "`to have
 been the cause of fourfold more harm than good to Christendom since the
@@ -266,7 +268,7 @@ that "`if abused, like every other blessing, it becomes a curse,`'`"^
 footnote:[These expressions are in a letter of E. Hicks, in 1825, to Moses Brown,
 of Providence, R. I., in reply to one from the latter,
 tenderly and faithfully laboring with him on account of his errors.
-See The Friend, Philadelphia, Vol.
+See [.book-title]#The Friend,# Philadelphia, Vol.
 III, page 333.]
 On page 155, we find him quoted by Janney, as saying of Jesus Christ,
 that "`he came to be a Saviour to that nation,
@@ -318,7 +320,7 @@ The early Friends,
 notwithstanding all the attempts of the disciples of Elias Hicks to assert the contrary,
 had a firm faith--and that a sound one too--in the great truths of Christian doctrine.^
 footnote:[This is developed with great clearness in the
-Defence of the Christian Doctrines of the Society of Friends,
+[.book-title]#Defence of the Christian Doctrines of the Society of Friends,#
 compiled by Thomas Evans, Edward Bettle, and Joseph Roberts, Philadelphia, 1825.]
 And there is ample material in the history of the Society, to prove,
 not only that they were no Socinians,
@@ -343,7 +345,7 @@ W+++.+++ Penn being present said, '`I am an Englishman, and a Quaker,
 and I own I have often prayed to Christ Jesus--even
 him that was crucified.`' This he +++[+++G. K.]
 says was in the year 1678.`"^
-footnote:[Life, etc., of T. Ellwood, London, 1714, p. 442.]
+footnote:[[.book-title]#Life, etc., of T. Ellwood,# London, 1714, p. 442.]
 
 In those days the denial of these doctrines was not
 a prevalent or prominent error in professing Christendom;
@@ -351,7 +353,7 @@ but when such denial did occur among those belonging to the Society,
 means were decidedly taken to clear the body from such a reproach.
 A very plain evidence of this may be cited in the case of Jeffrey Bullock,
 who denied the divinity and atonement of Christ, and was disowned,^
-footnote:[Historical Memoirs of the Society of Friends, by W. H., 2nd edition,
+footnote:[[.book-title]#Historical Memoirs of the Society of Friends,# by W. H., 2nd edition,
 Philadelphia, p. 247.]
 so early as 1675, fifteen years before the death of George Fox.
 We must no less emphatically deny the allegation of this author,
@@ -646,7 +648,7 @@ does it not show the hopeless subserviency of that Yearly
 Meeting to the revolutionary majority in the Society?
 Should any attempt be made on the part of the advanced Gurneyites,
 as has lately been somewhat ostentatiously threatened,^
-footnote:[The Friend, Philadelphia, tenth month, 16th and 30th, 1875.]
+footnote:[[.book-title]#The Friend,# Philadelphia, tenth month, 16th and 30th, 1875.]
 to gain possession of the property of Philadelphia Yearly Meeting by legal proceedings,
 there will then be no safety in the halfway course, pursued by the middle party in Ohio,
 by which they lost their suit;^
