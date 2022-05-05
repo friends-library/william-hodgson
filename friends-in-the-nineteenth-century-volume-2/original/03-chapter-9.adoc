@@ -575,7 +575,7 @@ in addition to those from various other friends nearer home,
 were particularly cordial to his mind.
 In one of Ann Jones`'s letters,
 she quoted for his encouragement a characteristic expression of Daniel Wheeler`'s, when,
-lying off the Mother Bank in the Henry Freeling,
+lying off the Mother Bank in the _Henry Freeling,_
 and "`suffering from the same spirit,`" he briefly said
 to a friend in reply to an expression of sympathy,
 "`The sun can shine in the Inquisition!`"
@@ -928,8 +928,8 @@ received the accounts and representatives sent by the true Swanzey Monthly Meeti
 and transacted the other business as the Quarterly Meeting of Rhode Island.^
 footnote:[[.book-title]#Address of Rhode Island Quarterly Meeting of Friends,# 1845.
 New York, Piercy and Reid.]
-"`This,`" says the author of Considerations Addressed to
-the Members of the Yearly Meeting of Philadelphia (1846,
+"`This,`" says the author of [.book-title]#Considerations Addressed to
+the Members of the Yearly Meeting of Philadelphia# (1846,
 page 80), "`was analogous with the transaction in Baltimore Yearly Meeting,
 when Friends left that body as soon as it had identified itself with the Hicksites,
 by the reception of their Epistle, and the rejection of that from Friends.`"^
@@ -945,7 +945,7 @@ both as to discipline and worship.
 [quote]
 ____
 
-The Meeting for Sufferings +++[+++says the above-quoted author of the Considerations,
+The Meeting for Sufferings +++[+++says the above-quoted author of the [.book-title]#Considerations,#
 in his lucid review of these transactions],
 composed principally of the same Friends who were on the Yearly Meeting`'s committee,
 without waiting for the judgment of the Yearly Meeting in the case,
@@ -989,7 +989,7 @@ in the document which they issued on the occasion for the
 information of their own members and of the Society at large.
 The facts, as stated, have never, to the writer`'s knowledge, been called in question,
 and substantially agree in all essential points with the very superficial statement
-of this transaction in the Narrative put forth by the Gurney body.
+of this transaction in the [.book-title]#Narrative# put forth by the Gurney body.
 
 [quote]
 ____
@@ -1255,8 +1255,8 @@ and with the unsound doctrines which those transactions went to fasten upon the 
 This "`Larger Body`" of the Yearly Meeting, which,
 under a blind confidence in its leading men, had now launched headlong into schism,
 put forth a statement containing their own version of what had occurred among them,
-entitled a Narrative of Facts and Circumstances That Have Tended to Produce
-a Separation From the Society of Friends in New England Yearly Meeting.
+entitled a _Narrative of Facts and Circumstances That Have Tended to Produce
+a Separation From the Society of Friends in New England Yearly Meeting._
 The same circumstances that have been here related were gone over therein,
 with their own interpretations and assertions of intents and purposes,
 thus differing mainly from the statement of the "`Smaller
@@ -1297,8 +1297,8 @@ But some, at least, of their number knew already, or had known,
 that these doctrines were at variance with the doctrines of Quakerism,
 and in their better days had openly testified against them on that ground!
 It is true, they issued,
-along with the above mentioned Narrative of Facts and Circumstances,
-a Declaration on Various Christian Doctrines,
+along with the above mentioned _Narrative of Facts and Circumstances,
+a Declaration on Various Christian Doctrines,_
 with solemn protestations of its "`embracing the doctrines of the gospel,
 as they ever have been and are now most assuredly believed by the Society of
 Friends,`" and that it "`was fully united with and adopted by the meeting,
@@ -1311,7 +1311,7 @@ from our ancient faith had received encouragement at their hands,
 by the measures in which they had for years persisted?
 Not at all.
 It is mainly composed of quotations from Robert Barclay, George Fox, and Joseph Phipps,
-and from the Testimony of the Society of Friends in America,
+and from the [.book-title]#Testimony of the Society of Friends in America,#
 which was issued in 1830 against the doctrines of Elias Hicks and his adherents,
 and signed by Elisha Bates, as clerk of the joint committee who prepared it.
 These quotations are good and sound, as far as they go on the subjects selected;
@@ -1361,7 +1361,7 @@ while thus superseding the cherished products of their convictions.
 Several of their quotations from Barclay are not by any means verbally correct,
 and one concluding at the top of page 15 is quite imperfect,
 the sentence not being completed.
-On comparison with the passage in the Apology (Prop, iii, Sec.
+On comparison with the passage in the [.book-title]#Apology# (Prop, iii, Sec.
 ii), it appears that where Barclay has put a semicolon, they have put a period,
 concluding without completing the sense!
 Barclay says, "`Though then we do acknowledge`" etc., (as quoted by them);
@@ -1375,7 +1375,7 @@ at "`yet`") was not particularly convenient to the object they had in view;
 but their leaving off thus in the middle of such a sentence,
 at least renders their candor liable to be called in question.
 
-Their Declaration opens with the expression of earnest desires
+Their [.book-title]#Declaration# opens with the expression of earnest desires
 that love and charity may prevail among the members;
 deplores the uncharitable accusations of a dividing spirit,
 by which they had been assailed, and which had filled them with astonishment and sorrow;
@@ -1478,7 +1478,7 @@ in no single point does this declaration defend him from the alleged discrepanci
 between his published sentiments and those of true Friends.
 On several subjects, such as Faith, Original Sin, the Body and Blood of Christ, Prayer,
 and "`the Gospel,`" it is almost entirely silent;
-as well as on the various points on which, in his Brief Remarks,
+as well as on the various points on which, in his _Brief Remarks,_
 he accused our early and most cherished writers of "`serious mistakes.`"
 But as I have elsewhere^
 footnote:[[.book-title]#Examination of the Memoirs and Writing of J. J. Gurney,# page 129, etc.]
@@ -1486,13 +1486,13 @@ treated somewhat more largely on the fallacy of this declaration of faith,
 it is only needful here thus briefly to refer to it.
 
 Some extracts from a letter, said to have been written by J. J. Gurney,
-were published in the Friend`'s Review, of first month 20th, 1872,
+were published in the _Friend`'s Review,_ of first month 20th, 1872,
 which were evidently brought forward in order to
 prove his soundness on certain points of doctrine.
 There is no date given to this letter, nor any information to whom it was addressed,
 or under what circumstances it was written.
 It cannot be denied that it contains sound doctrine,
-and was probably written for the same purpose as the Declaration above mentioned;
+and was probably written for the same purpose as the _Declaration_ above mentioned;
 and if the writer had confined himself within these views,
 much harm would have been spared to the Society.
 It should be recollected that the opponents of J. J. Gurney`'s unsound
@@ -1625,8 +1625,8 @@ After the publication of this decision,
 the Meeting for Sufferings of the "`Smaller Body,`" believing that
 it set forth erroneous positions in relation to the internal polity
 and long-established usages and principles of the Society,
-published A Review of the Opinion of the Supreme
-Judicial Court of Massachusetts in the case,
+published [.book-title]#A Review of the Opinion of the Supreme
+Judicial Court of Massachusetts# in the case,
 in which they luminously exposed the gross errors and mistakes made by the judge,
 and the false and flimsy reasoning on which the decision was founded.
 The importance of the subject as a matter of history is such,
@@ -1666,7 +1666,7 @@ are doctrines new and strange to old-fashioned Quakers, and would be, we conceiv
 to others, upon any other ground than the papal dogma that the Church cannot err.
 After this elaborate attempt to prove that a change of principles does
 not alter the character or affect the identity of a religious body,
-the judge declares that this "`unhappy controversy arose out of a jealousy or apprehension,
+the judge declares that this "`unhappy controversy arose out of a _jealousy_ or _apprehension,_
 on the part of some of the Quaker body,
 that another part were covertly circulating and endeavoring
 to promote false doctrines,`" etc.,
@@ -1699,7 +1699,7 @@ Again:
 [quote]
 ____
 
-The court say that the Narrative and Declaration
+The court say that the [.book-title]#Narrative and Declaration#
 put forth in 1845 by the Gurney Yearly Meeting,
 was satisfactory +++[+++as regards their belief]
 to those who affix the imputation of heresy to that same meeting.
@@ -1713,7 +1713,7 @@ nor does it discard a single article of Gurney`'s unsound doctrines,
 which the Gurneyite body were charged with having adopted; and having been so charged,
 it was indispensable, in order to prove them true Quakers,
 that they should have specially acquitted themselves from those heretical opinions.
-So far was this Narrative and Declaration from being satisfactory to the sound body,
+So far was this [.book-title]#Narrative and Declaration# from being satisfactory to the sound body,
 that they immediately put forth Strictures and comments upon it,
 setting forth their dissatisfaction, etc.
 
@@ -1793,7 +1793,7 @@ after he had been fully and honorably acquitted by his own Monthly Meeting,
 and all because of his conscientious testimony against those unsound doctrines.
 
 The Yearly Meeting had also now referred this whole
-matter in controversy to men ex parte,
+matter in controversy to men _ex parte,_
 many of whom had prejudged it in a public manner, and thus become a direct party to it,
 so that this reference--made as it was against the
 consent and under the protest of the other party,
@@ -1897,7 +1897,7 @@ that he was not willing that the case should be argued on any other point.
 But that which could not make him for a moment doubtful,
 has affected the Court in a very different manner.
 The evidence was very full and extensive, and the argument thereon astute,
-and it was very convenient to get over it per saltum,
+and it was very convenient to get over it _per saltum,_
 and to place the whole matter on the transcendent jurisdiction of the Yearly Meeting.
 But the palpable, transparent, and flagrant wrong, and which is not only void in law,
 but very astounding to sound Friends, and reprehensible in the highest degree,
@@ -1910,7 +1910,7 @@ in which the plaintiffs are recognized and declared
 as the rightful overseers of Swanzey Monthly Meeting,
 appointed in August, 1844.`"
 
-We have looked into that Narrative, referred to by the Court,
+We have looked into that [.book-title]#Narrative,# referred to by the Court,
 and cannot find that there is any such recognition and declaration;
 cannot find that the Yearly Meeting have decided that the plaintiffs
 were the rightful overseers of the Swanzey Monthly Meeting.

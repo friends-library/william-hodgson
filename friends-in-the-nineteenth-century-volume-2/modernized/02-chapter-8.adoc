@@ -249,7 +249,7 @@ not to proceed to uncalled for extremities of opposition.
 It is evident that the minds of many on both sides
 of these questions had become greatly excited.
 In a professed narrative of this secession,
-published anonymously in the Philadelphia Friend, vol.
+published anonymously in the Philadelphia [.book-title]#Friend,# vol.
 17, pages 85 and 93 (which account,
 when confronted with the various documents issued by both parties,
 seems to be extremely one-sided and unfair),
@@ -272,7 +272,7 @@ on both sides becoming unduly wrought up,
 to the loss of the spiritual life on the one side,
 and to the setting aside of divine wisdom and heavenly charity on the other.
 
-The above-mentioned account in The Friend, speaking of the African Committee,
+The above-mentioned account in [.book-title]#The Friend,# speaking of the African Committee,
 goes on to say: "`At the sitting above alluded to,
 subjects entirely foreign to its duties,
 and with which the Yearly Meeting had not entrusted it,
@@ -437,8 +437,8 @@ if the Yearly Meeting of Philadelphia had undertaken publicly
 to censure and put out of all qualification for service,
 merely on this account, such men as Abraham L. Pennock or Enoch Lewis,
 whose testimony against slavery and slave products was equally marked and decided?
-The Yearly Meeting likewise issued an Epistle of Advice
-to Subordinate Meetings and Friends Individually,
+The Yearly Meeting likewise issued an _Epistle of Advice
+to Subordinate Meetings and Friends Individually,_
 warning them against the zeal of the antislavery societies,
 and the "`pernicious effects`" of those "`books and papers,
 which have the tendency to set one part of Society against another.`"
@@ -511,7 +511,7 @@ and their meetinghouse doors closed against him.
 
 They "`gathered round him in an almost impenetrable crowd,`" and "`one or more
 women mounted over the backs of the benches,`" in order to get to him.
-The Free Labor Advocate, a paper published by some of the antislavery members,
+_The Free Labor Advocate,_ a paper published by some of the antislavery members,
 thus described the issue:^
 footnote:[[.book-title]#Edgerton`'s History,# p. 61.]
 
@@ -644,7 +644,7 @@ overseers, members of committees, and ministers and elders from their stations,
 and to place us before the public under the character of offenders,
 lying under the censure of the church.`"
 Charles Osborn, who was then residing at Young`'s Prairie, in Michigan,
-now sent for publication in the Free Labor Advocate,
+now sent for publication in the _Free Labor Advocate,_
 a declaration of his sentiments and position on the subject of slavery,
 earnestly deprecating "`this great iniquity,`" as "`utterly irreconcilable
 with the gospel,`" and quoting some of the Society`'s standing declarations
@@ -724,7 +724,7 @@ or a sincere relenting on the part of others;
 but the Yearly Meeting never rescinded its irregular action.
 The Antislavery Yearly Meeting was now composed of four Quarterly and ten Monthly Meetings,
 and probably consisted of about two thousand members.
-The anonymous account in the Philadelphia Friend,
+The anonymous account in the Philadelphia [.book-title]#Friend,#
 before alluded to (which was evidently indited by an opponent),
 represents them as being "`nearly seven hundred adults,`" which is perhaps a small estimate.
 The reports sent up to their Yearly Meeting, in the year 1847,
@@ -737,7 +737,7 @@ does not appear in the accounts, but probably amounted to several hundreds;
 so that it may not be unreasonable to suppose that
 the whole number was about the above amount.
 
-In the ninth month of 1843, their Yearly Meeting issued a Declaration of Sentiment,
+In the ninth month of 1843, their Yearly Meeting issued a _Declaration of Sentiment,_
 in justification of their views and position; which is, even at this day,
 well worthy of attentive perusal,
 as a vindication of their course from the insinuation that
@@ -899,7 +899,7 @@ With the salutation of our love, we remain your sincere Friends.
 --
 
 It would seem by the above firm but temperate and respectful letter,
-that the London Address had hitherto been withheld
+that the _London Address_ had hitherto been withheld
 from the Antislavery Friends by the delegation.
 They informed those who presented the letter to them,
 that they had no advice to give them as to how they
@@ -919,7 +919,7 @@ with a larger number of the objects of their solicitude
 than they would be likely to see at any other place;
 but they preferred to visit the remote sections first, and at once proceeded into Iowa.
 Arriving at Salem, they invited the Antislavery Friends to meet them in conference;
-when the London Address was read to them,
+when the _London Address_ was read to them,
 and they were exhorted to discontinue their meetings for worship,
 and again attend those of "`the body.`"
 The delegation were informed that "`they did not know what they were asking of them,
@@ -972,9 +972,9 @@ prepared by the Meeting for Sufferings of Antislavery Friends,
 addressed to London Yearly Meeting, and to the Quarterly and Monthly Meetings,
 and the members individually, which was sent independently of the delegation.
 This response contained a clear exposure of the fallacies put forth in
-the London Address (fallacies in the application of salutary truths),
+the _London Address_ (fallacies in the application of salutary truths),
 and among other pertinent observations contained the following remarks:^
-footnote:[W. Edgerton`'s History, pages 349, 350, and 352.]
+footnote:[[.book-title]#W. Edgerton`'s History,# pages 349, 350, and 352.]
 
 [.embedded-content-document]
 --
@@ -1045,7 +1045,7 @@ or had even allowed themselves to suspect that all had not been done in the best
 they kept it most profoundly secret,
 and allowed all the impression of blame to rest upon those who charged
 the Yearly Meeting with having compelled them to the secession.
-There is nothing in the published Life of William Forster,
+There is nothing in the published [.book-title]#Life of William Forster,#
 in giving an account of their labors in this concern,
 which appears at all to conflict with the recital
 I have here given of their mode of procedure.
@@ -1157,9 +1157,9 @@ The minutes of this their last Yearly Meeting are really touching in their tenor
 as compared with the buoyancy of their earlier records.
 Yet nothing appears like an acknowledgment of a doubt of the rectitude of their proceedings.
 Before they disbanded, they issued a final document, entitled,
-Some Observations and Explanations,
+_Some Observations and Explanations,
 Touching the Situation of Antislavery Friends as an Organization,
-and What Wrought its Overthrow.
+and What Wrought its Overthrow._
 We may extract the two following paragraphs:
 
 [quote]

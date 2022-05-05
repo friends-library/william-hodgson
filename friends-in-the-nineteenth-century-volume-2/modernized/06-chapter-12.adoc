@@ -667,7 +667,7 @@ Body`" there (with which the clerk had not already identified himself)
 as a peace-offering to the highly excited feelings of the Gurney members.
 The following very careful account of the deliberations
 in each of these two cases on that occasion,
-was given in The Friend.^
+was given in [.book-title]#The Friend.#^
 footnote:[Vol.
 28, p. 262.]
 
@@ -759,7 +759,7 @@ see Vol.
 I, chap.
 4]
 
-Third-day morning, the 17th. The printed General Epistle from London was read.
+Third-day morning, the 17th. The printed _General Epistle_ from London was read.
 The subject of preparing epistles to other Yearly Meetings was brought before the meeting,
 and some Friends expressed the belief,
 that under the trying circumstances in which the Society was at present involved,
@@ -795,8 +795,7 @@ His friends, however, did not unite with him in the adoption of such a measure,
 and at their urgent solicitation he withdrew his proposition.
 ____
 
-The above quotation is characteristic of the cautions and calculating manner in which
-The Friend was at this time accustomed to treat the subject of the difficulties.
+The above quotation is characteristic of the cautions and calculating manner in which [.book-title]#The Friend# was at this time accustomed to treat the subject of the difficulties.
 The reader of it,
 if ignorant beforehand of the cause of all that occurred
 in the Yearly Meeting on this occasion,
@@ -825,7 +824,7 @@ was not actuated by pure integrity of principle,
 but by the policy of compromise, which had no convincing efficacy,
 and was therefore submitted to only under a sense of oppression or compulsion.
 In the spring of that year, Benjamin Cadwallader, of Bucks County, Pa., had issued,
-in pamphlet form, A Letter to Friends of Philadelphia Yearly Meeting;
+in pamphlet form, _A Letter to Friends of Philadelphia Yearly Meeting;_
 in which an affectionate and earnest appeal was made to his fellow-members
 against the half-way course pursued of late by the Yearly Meeting;
 showing its inconsistency with the truth,
@@ -946,8 +945,7 @@ and to insinuate that the objections to his sentiments were overstrained,
 or without just foundation,
 and the objectors actuated by a partisan or detracting spirit,
 and needlessly disturbing the Society`'s peace,
-the author of this work published in Philadelphia,
-An Examination of the Memoirs and Writings of Joseph J. Gurney, in 145 pages,
+the author of this work published in Philadelphia, [.book-title]#An Examination of the Memoirs and Writings of Joseph J. Gurney,# in 145 pages,
 8vo. Herein he endeavored to draw the reader`'s attention to the
 substantial character of the principles of true religion,
 as held and declared by our ancient Friends,
