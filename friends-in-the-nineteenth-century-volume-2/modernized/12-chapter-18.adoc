@@ -170,8 +170,7 @@ and many of them are openly favorable to great latitude of belief.
 Such, alas, is the benumbing result of unsafe association in religious profession.
 
 One of their prominent, talented, and moderate men, Samuel M. Janney,
-has lately published a work in four volumes, 12mo, entitled,
-A History of the Society of Friends.
+has lately published a work in four volumes, 12mo, entitled, [.book-title]#A History of the Society of Friends.#
 The fourth volume exemplifies the truth of the remarks made in the last paragraph.
 It is largely characterized by a dissertation (from
 its author`'s standpoint) on the Hicksian separation.
@@ -561,7 +560,7 @@ And in the second place,
 these changes in doctrine have been followed by their genuine fruits,
 in a practical abandonment, by the body,
 of the testimony against tithes--an absolute discarding, by the Meeting for Sufferings,
-of Barclay`'s Apology as an exponent of our principles--a
+of [.book-title]#Barclay`'s Apology# as an exponent of our principles--a
 suppression of almost all the ancient Queries,
 leaving only two mutilated ones to be answered once a year only,
 with many other changes in the Discipline--an allowance for, and a frequent practice of,
@@ -664,7 +663,7 @@ Rome is no longer the Christian church, profess it as highly as she may.
 And is not the apostasy as obvious in the one case as in the other?
 
 Within London Yearly Meeting, and by some of its prominent members, attacks,
-as we have already seen, have for years been continually made on Barclay`'s Apology;
+as we have already seen, have for years been continually made on [.book-title]#Barclay`'s Apology;#
 and it is now openly repudiated by the Society there,
 and given up to the reproach of being no longer acceptable
 as an exponent of the doctrines of Friends.

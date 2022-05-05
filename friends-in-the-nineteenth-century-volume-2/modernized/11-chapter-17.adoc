@@ -70,14 +70,14 @@ Meeting;`" but I believe I must say it has been a great trouble,
 both to me and to many other Friends who love the truth,
 that the members of that meeting should have passed such
 things as they have done in J. J. Gurney`'s writings,
-in his work entitled Religious Peculiarities, etc.,
+in his work entitled [.book-title]#Religious Peculiarities,# etc.,
 but more particularly in the revised edition with additions.
 
 In these publications there is much that I consider very
 contrary to the principles and doctrines which we,
 as a people, make profession of,
 and which we fully believe to be consistent with the Scriptures of truth.
-Also in his Essays on Christianity, which I suppose did not pass the Morning Meeting,
+Also in his [.book-title]#Essays on Christianity,# which I suppose did not pass the Morning Meeting,
 there is much that is objectionable.
 In this publication there is held forth that which Friends
 and many others have declared against as unsafe,
@@ -85,7 +85,7 @@ dangerous, and unauthorized by the Scriptures.
 I mean the speaking of the Father as a Person, of the Son as a Person,
 and of the Holy Spirit as a Person.
 There are several extracts from Friends`' writings,
-in the first chapter of Thomas Evans`'s Exposition of the Faith of Friends,
+in the first chapter of Thomas Evans`'s [.book-title]#Exposition of the Faith of Friends,#
 showing the inconsistency and unscriptural mode of so speaking.
 Richard Claridge has also written a tract, giving not only his own views upon it,
 but the views of many Friends and learned authors of different religious denominations,
@@ -98,7 +98,7 @@ to our Society, and to the cause of truth, seems to me to be very great,
 and I cannot but conclude that the affectionate part, and the wisdom of man,
 must have prevailed in the minds of the members,
 or they would not have permitted what they did to pass.
-And as respects the Essays,
+And as respects the [.book-title]#Essays,#
 did not that work require the attention of the Meeting for Sufferings,
 to whom is entrusted a general care of whatever may
 arise during the interval of the Yearly Meeting,
@@ -434,7 +434,7 @@ and were to be no more divinely authorized records
 besides those now bound up together in the Bible;
 I purpose next to point out something that has been said of a contrary
 tendency by him who was first of all called "`Quaker.`"
-(See George Fox`'s Journal, page 212.) He (George Fox) says he "`was sent,
+(See [.book-title]#George Fox`'s Journal,# page 212.) He (George Fox) says he "`was sent,
 in the name and power of the Lord Jesus, to preach again the everlasting gospel.`"
 Page 88, he says, "`I wrote also to William Lampitt, the priest of Ulverstone, thus:
 '`The word of the Lord to you, O Lampitt! a deceiver,
@@ -449,9 +449,9 @@ Besides the above, George Fox wrote another epistle to the followers of Lampitt,
 which epistle he begins with,
 "`The word of the Lord God to all the people that follow Priest Lampitt,
 who is a blind guide.`"
-There are several other like instances in George Fox`'s Journal;
+There are several other like instances in [.book-title]#George Fox`'s Journal;#
 but these are enough for our present purpose.
-First, then, I say that George Fox`'s Journal is a Record; that is to say,
+First, then, I say that [.book-title]#George Fox`'s Journal# is a Record; that is to say,
 an authentic written testimony: next,
 that it contains "`doctrines of true religion,`" and nothing from him contrary thereto.
 Moreover, he says that what he wrote as above referred to was of "`the word of the Lord.`"
@@ -553,8 +553,8 @@ thus marred by zeal and creaturely activity.
 
 But all these warnings were of no avail with the leaders of the people.
 In 1845, John Wilbur,
-having published in America A Narrative and Exposition of
-the Proceedings of New England Yearly Meeting in his case,
+having published in America [.book-title]#A Narrative and Exposition of
+the Proceedings of New England Yearly Meeting# in his case,
 in which the ground of his dissatisfaction with J.
 J+++.+++ Gurney`'s writings was clearly developed,
 the latter addressed a communication to the editors
@@ -599,16 +599,16 @@ and of the gross outrages committed by his followers in New England in his defen
 it is probable that he prudently thought, the less said the better.
 
 About the same time, or shortly after,
-John Wilbur`'s Narrative and Exposition was attacked
-in a pamphlet entitled Calumny Refuted,
-or a Glance at John Wilbur`'s Book; said to have been prepared in Burlington, N. J.,
+John Wilbur`'s [.book-title]#Narrative and Exposition# was attacked
+in a pamphlet entitled _Calumny Refuted,
+or a Glance at John Wilbur`'s Book;_ said to have been prepared in Burlington, N. J.,
 by three of J. J. Gurney`'s female admirers, but sent over to England to be published.
 As the main point of attack was the contrast of doctrines,
-contained in the Narrative and Exposition,
+contained in the [.book-title]#Narrative and Exposition,#
 the original writer of that contrast replied to this attack in a tract of 47 pages,
 also first published in England, in 1846, and afterwards in Philadelphia, entitled,
-Is it Calumny, or is it Truth?
-in which the false positions of the authors of Calumny Refuted were exposed,
+_Is it Calumny, or is it Truth?_
+in which the false positions of the authors of _Calumny Refuted_ were exposed,
 the contrast was reprinted in full, and defended from their animadversions,
 and fresh proof was given of the fundamental unsoundness of Gurney`'s writings.
 The next year, as we have already noticed in the ninth chapter, J. J. Gurney,
@@ -767,7 +767,7 @@ keeping up a constant strain of laudation of our ancient
 worthies as zealous and almost heroic reformers,
 while pulling down their most cherished Christian principles.
 
-Their chief specific aim was to procure a repudiation of Robert Barclay`'s Apology.
+Their chief specific aim was to procure a repudiation of Robert Barclay`'s [.book-title]#Apology.#
 This great work,
 which had been freely acknowledged by the Society for nearly two hundred years,
 as embodying a correct development of the doctrines of the Christian religion,
@@ -777,7 +777,7 @@ yet no disciplinary check was placed upon these attacks,
 nor any official attempt made by the body to sustain the standing
 which had hitherto been accorded to that sound and eminent author.
 Edward Ash, Robert Charleton, Robert Alsop,
-and other assailants of the views expressed so clearly in Robert Barclay`'s Apology,
+and other assailants of the views expressed so clearly in Robert Barclay`'s [.book-title]#Apology,#
 at length succeeded in their attempts to promote a practical
 repudiation of it by the authorities of London Yearly Meeting.
 
@@ -1111,7 +1111,7 @@ See page 46 of [.book-title]#D. Pickard`'s Expostulation on Doctrine, Discipline
 which contains a clear development of these sweeping
 changes and of the insidious nature of them,
 if not also of the spirit by which they were prompted.]
-the following weighty minute of 1795 was now expunged from the Book of Discipline:
+the following weighty minute of 1795 was now expunged from the [.book-title]#Book of Discipline:#
 
 [.embedded-content-document.minute]
 --
@@ -1287,8 +1287,8 @@ should endeavor to be faithful in clearing their hands of the defection,
 and abstain from all contact with matters connected with innovation.
 The next year,
 two of the Conference Meetings were largely occupied in
-examining the manuscripts of An Expostulation on Doctrine,
-Discipline, and Practice, written by Daniel Pickard, one of their number;
+examining the manuscripts of [.book-title]#An Expostulation on Doctrine,
+Discipline, and Practice,# written by Daniel Pickard, one of their number;
 and "`in the solid persuasion that the cause of Truth required
 it,`" he "`was cordially encouraged`" to publish it.^
 footnote:[[.book-title]#Expostulation,# etc.
@@ -1868,7 +1868,7 @@ had they with a single eye consulted their own best feelings in the light of Tru
 instead of putting confidence in man.]
 
 We must now recur briefly, but a little more particularly,
-to the attacks on Robert Barclay`'s Apology, and the doctrine of Immediate Revelation,
+to the attacks on Robert Barclay`'s [.book-title]#Apology,# and the doctrine of Immediate Revelation,
 already alluded to.
 Doubtless they had (kept up as they were from year to year with no rebuke
 from the body) a powerful influence in aid of J. J. Gurney`'s writings,
@@ -1877,11 +1877,11 @@ The most prominent of the assailants was Dr. Edward Ash, of Bristol,
 occupying the station of a minister,
 and the last survivor of the Committee of the Yearly Meeting on the Beacon difficulty.
 As early as 1849 he had expressed, in a printed tract,
-decided objections to the republication of the Apology by the Society;
+decided objections to the republication of the [.book-title]#Apology# by the Society;
 and three years afterwards,
 finding that the Meeting for Sufferings still continued to offer the work for sale,
 he resigned his membership in a letter to his Monthly Meeting.
-In this letter he mentioned that the parts of the Apology to which he
+In this letter he mentioned that the parts of the [.book-title]#Apology# to which he
 objected "`embrace a large portion of the doctrinal part of the work,
 and have reference to subjects of primary and vital concern to the church,`"
 and "`to some prominent parts of our system of discipline.`"
@@ -1892,7 +1892,7 @@ which may be summed up as referring to the doctrines of
 Immediate Revelation and the Universal and Saving Light,
 the Holy Scriptures, Justification,
 many interpretations of Scripture considered by him as incorrect, and a prevalency,
-throughout the work (the Apology) of what is "`defective and erroneous.`"
+throughout the work (the [.book-title]#Apology#) of what is "`defective and erroneous.`"
 The latter clause also of the statement of the Proposition on Worship, he said,
 "`furnished of itself an insuperable objection,`" in his view,
 "`to the adoption and circulation of the work.`"^
@@ -1917,10 +1917,10 @@ permitted him quietly to depart without bearing any open testimony against his e
 He remained outside of the Society for some years, and then, believing, as he said,
 "`that the Society had come round to his views,`" he was
 received by the Monthly Meeting again into membership,
-without any change of his sentiments respecting Barclay`'s Apology,
+without any change of his sentiments respecting [.book-title]#Barclay`'s Apology,#
 or any condemnation of his denial of some of the fundamental doctrines of the Society;
 the Monthly Meeting considering, as was afterwards said on their behalf,
-"`that the Society had virtually disowned the Apology as
+"`that the Society had virtually disowned the [.book-title]#Apology# as
 a correct exposition of its views at that time.`"
 
 Accordingly, in 1873, he published another pamphlet,
@@ -1983,20 +1983,20 @@ in a clear, instructive, and comprehensive manner, the unsearchable riches of Ch
 This Testimony concerning him was adopted by London Yearly Meeting in 1874,
 though with some totally ineffectual objection, for publication among its records;
 the meeting being exultingly informed by members of that Monthly Meeting,
-that "`he never withdrew a single statement he had made in condemnation of Barclay`'s
-Apology,`" and that "`the Monthly Meeting was well aware that his views were unchanged.`"
+that "`he never withdrew a single statement he had made in condemnation of [.book-title]#Barclay`'s
+Apology,#`" and that "`the Monthly Meeting was well aware that his views were unchanged.`"
 The clerk of the Yearly Meeting (J. Storrs Fry) corroborated this statement.
 Who can doubt that, by the adoption and approval of such a document,
 London Yearly Meeting publicly and knowingly sanctioned
 Edward Ash`'s course of repudiation of that great work,
-the Apology for the True Christian Divinity, by Robert Barclay?
+the [.book-title]#Apology for the True Christian Divinity,# by Robert Barclay?
 
 Another minister (so-called), Robert Charleton,
 had also come forth in the same line as Edward Ash,
 in assailing the principles of Robert Barclay; and likewise Robert Alsop,
 then of Stoke Newington, near London, who, early in 1873,
 printed "`for private circulation`" (a mere subterfuge), but spread widely abroad,
-a tract entitled What is the Gospel?--devoted to showing
+a tract entitled _What is the Gospel?_--devoted to showing
 what he supposed to be some of Barclay`'s mistakes.
 It seemed as if some of the members--no,
 the ministers!--of a Society in whose arising and early progress George Fox and
